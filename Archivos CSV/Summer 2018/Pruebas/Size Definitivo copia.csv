@@ -1,0 +1,5 @@
+lv1_code,product_class_name,name,status,brand,attribute.saya_ean.string,attribute.saya_size.single_option,price_item.1.amount,price_item.1.price_book
+1438CSD01-green-XS,Size,1438CSD01-green-XS,active,Maaji,7.70E+12,EXTRA SMALL,110000,COP Price
+1438CSD01-green-SM,Size,1438CSD01-green-XS,active,Maaji,7.70E+12,SMALL,110000,COP Price
+1467CCT01-blue-MD,Size,1467CCT01-blue-MD,active,Maaji,7.70E+12,MEDIUM,100000,COP Price
+1467CCT01-blue-LG,Size,1467CCT01-blue-LG,active,Maaji,7.70E+12,LARGE,100000,COP Price

@@ -1,0 +1,2 @@
+code,status,option,if.join_by,if.condition.saya_product_department,if.condition.saya_group,if.condition.saya_line,if.condition.saya_cut,if.then.category_path
+1,active,add,and,WOMEN,SUMMER,SWIMWEAR,Signature Cut,MaajiAU: SWIMWEAR > BOTTOM > SIGNATURE CUT

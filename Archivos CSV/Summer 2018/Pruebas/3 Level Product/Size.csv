@@ -1,0 +1,884 @@
+lv1_code,product_class_name,name,status,brand,attribute.saya_ean.string,attribute.saya_size.single_option,price_item.1.amount,price_item.1.price_book
+1049TSS04_blue_sm,Size,1049TSS04_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1049TSS04_blue_md,Size,1049TSS04_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1049TSS04_blue_lg,Size,1049TSS04_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1049TSS04_blue_xl,Size,1049TSS04_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1049TSS03_blue_sm,Size,1049TSS03_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1049TSS03_blue_md,Size,1049TSS03_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1049TSS03_blue_lg,Size,1049TSS03_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1049TSS03_blue_xl,Size,1049TSS03_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1049TSS02_red_sm,Size,1049TSS02_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1049TSS02_red_md,Size,1049TSS02_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1049TSS02_red_lg,Size,1049TSS02_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1049TSS02_red_xl,Size,1049TSS02_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1046TSF04_purple_sm,Size,1046TSF04_purple_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1046TSF04_purple_md,Size,1046TSF04_purple_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1046TSF04_purple_lg,Size,1046TSF04_purple_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1046TSF04_purple_xl,Size,1046TSF04_purple_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1046TSF03_blue_sm,Size,1046TSF03_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1046TSF03_blue_md,Size,1046TSF03_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1046TSF03_blue_lg,Size,1046TSF03_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1046TSF03_blue_xl,Size,1046TSF03_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1042TRS03_red_sm,Size,1042TRS03_red_sm,active,Maaji,7.70278E+12,SMALL,189000,COP Price
+1042TRS03_red_md,Size,1042TRS03_red_md,active,Maaji,7.70278E+12,MEDIUM,189000,COP Price
+1042TRS03_red_lg,Size,1042TRS03_red_lg,active,Maaji,7.70278E+12,LARGE,189000,COP Price
+1042TRS03_red_xl,Size,1042TRS03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,189000,COP Price
+1042TRS02_blue_sm,Size,1042TRS02_blue_sm,active,Maaji,7.70278E+12,SMALL,189000,COP Price
+1042TRS02_blue_md,Size,1042TRS02_blue_md,active,Maaji,7.70278E+12,MEDIUM,189000,COP Price
+1042TRS02_blue_lg,Size,1042TRS02_blue_lg,active,Maaji,7.70278E+12,LARGE,189000,COP Price
+1042TRS02_blue_xl,Size,1042TRS02_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,189000,COP Price
+1041TBS03_black_sm,Size,1041TBS03_black_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1041TBS03_black_md,Size,1041TBS03_black_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1041TBS03_black_lg,Size,1041TBS03_black_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1041TBS03_black_xl,Size,1041TBS03_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1041TBS02_red_sm,Size,1041TBS02_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1041TBS02_red_md,Size,1041TBS02_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1041TBS02_red_lg,Size,1041TBS02_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1041TBS02_red_xl,Size,1041TBS02_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,180000,COP Price
+1038TSL03_red_sm,Size,1038TSL03_red_sm,active,Maaji,7.70278E+12,SMALL,189000,COP Price
+1038TSL03_red_md,Size,1038TSL03_red_md,active,Maaji,7.70278E+12,MEDIUM,189000,COP Price
+1038TSL03_red_lg,Size,1038TSL03_red_lg,active,Maaji,7.70278E+12,LARGE,189000,COP Price
+1038TSL03_red_xl,Size,1038TSL03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,189000,COP Price
+1038TSL02_blue_sm,Size,1038TSL02_blue_sm,active,Maaji,7.70278E+12,SMALL,189000,COP Price
+1038TSL02_blue_md,Size,1038TSL02_blue_md,active,Maaji,7.70278E+12,MEDIUM,189000,COP Price
+1038TSL02_blue_lg,Size,1038TSL02_blue_lg,active,Maaji,7.70278E+12,LARGE,189000,COP Price
+1038TSL02_blue_xl,Size,1038TSL02_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,189000,COP Price
+1372CSH02_black_sm,Size,1372CSH02_black_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+1372CSH02_black_md,Size,1372CSH02_black_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+1372CSH02_black_lg,Size,1372CSH02_black_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+1422CSD04_purple_sm,Size,1422CSD04_purple_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1422CSD04_purple_md,Size,1422CSD04_purple_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1422CSD04_purple_lg,Size,1422CSD04_purple_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1438CSD05_red_sm,Size,1438CSD05_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1438CSD05_red_md,Size,1438CSD05_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1438CSD05_red_lg,Size,1438CSD05_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1442CSH05_purple_sm,Size,1442CSH05_purple_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+1442CSH05_purple_md,Size,1442CSH05_purple_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+1442CSH05_purple_lg,Size,1442CSH05_purple_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+1442CSH06_blue_sm,Size,1442CSH06_blue_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+1442CSH06_blue_md,Size,1442CSH06_blue_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+1442CSH06_blue_lg,Size,1442CSH06_blue_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+1446CKL01_blue_sm,Size,1446CKL01_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1446CKL01_blue_md,Size,1446CKL01_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1446CKL01_blue_lg,Size,1446CKL01_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1461CSD03_blue_sm,Size,1461CSD03_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1461CSD03_blue_md,Size,1461CSD03_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1461CSD03_blue_lg,Size,1461CSD03_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1461CSD04_purple_sm,Size,1461CSD04_purple_SM,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1461CSD04_purple_md,Size,1461CSD04_purple_MD,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1461CSD04_purple_lg,Size,1461CSD04_purple_LG,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1468CPA03_red_sm,Size,1468CPA03_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1468CPA03_red_md,Size,1468CPA03_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1468CPA03_red_lg,Size,1468CPA03_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1469CKS04_purple_sm,Size,1469CKS04_purple_sm,active,Maaji,7.70278E+12,SMALL,130000,COP Price
+1469CKS04_purple_md,Size,1469CKS04_purple_md,active,Maaji,7.70278E+12,MEDIUM,130000,COP Price
+1469CKS04_purple_lg,Size,1469CKS04_purple_lg,active,Maaji,7.70278E+12,LARGE,130000,COP Price
+1471CSD02_black_sm,Size,1471CSD02_black_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1471CSD02_black_md,Size,1471CSD02_black_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1471CSD02_black_lg,Size,1471CSD02_black_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1477CSD03_purple_sm,Size,1477CSD03_purple_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1477CSD03_purple_md,Size,1477CSD03_purple_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1477CSD03_purple_lg,Size,1477CSD03_purple_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1483CCT02_red_sm,Size,1483CCT02_red_sm,active,Maaji,7.70278E+12,SMALL,120000,COP Price
+1483CCT02_red_md,Size,1483CCT02_red_md,active,Maaji,7.70278E+12,MEDIUM,120000,COP Price
+1483CCT02_red_lg,Size,1483CCT02_red_lg,active,Maaji,7.70278E+12,LARGE,120000,COP Price
+1502CSD01_red_sm,Size,1502CSD01_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1502CSD01_red_md,Size,1502CSD01_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1502CSD01_red_lg,Size,1502CSD01_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1503CSD01_red_sm,Size,1503CSD01_red_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1503CSD01_red_md,Size,1503CSD01_red_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1503CSD01_red_lg,Size,1503CSD01_red_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1504CLD01_red_sm,Size,1504CLD01_red_sm,active,Maaji,7.70278E+12,SMALL,220000,COP Price
+1504CLD01_red_md,Size,1504CLD01_red_md,active,Maaji,7.70278E+12,MEDIUM,220000,COP Price
+1504CLD01_red_lg,Size,1504CLD01_red_lg,active,Maaji,7.70278E+12,LARGE,220000,COP Price
+1506CSD01_black_sm,Size,1506CSD01_black_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1506CSD01_black_md,Size,1506CSD01_black_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1506CSD01_black_lg,Size,1506CSD01_black_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1507CKS01_black_sm,Size,1507CKS01_black_SM,active,Maaji,7.70278E+12,SMALL,130000,COP Price
+1507CKS01_black_md,Size,1507CKS01_black_MD,active,Maaji,7.70278E+12,MEDIUM,130000,COP Price
+1507CKS01_black_lg,Size,1507CKS01_black_LG,active,Maaji,7.70278E+12,LARGE,130000,COP Price
+1508CCT01_black_sm,Size,1508CCT01_black_sm,active,Maaji,7.70278E+12,SMALL,155000,COP Price
+1508CCT01_black_md,Size,1508CCT01_black_md,active,Maaji,7.70278E+12,MEDIUM,155000,COP Price
+1508CCT01_black_lg,Size,1508CCT01_black_lg,active,Maaji,7.70278E+12,LARGE,155000,COP Price
+1509CKL01_black_sm,Size,1509CKL01_black_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1509CKL01_black_md,Size,1509CKL01_black_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1509CKL01_black_lg,Size,1509CKL01_black_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1511CRO01_blue_sm,Size,1511CRO01_blue_sm,active,Maaji,7.70278E+12,SMALL,160000,COP Price
+1511CRO01_blue_md,Size,1511CRO01_blue_md,active,Maaji,7.70278E+12,MEDIUM,160000,COP Price
+1511CRO01_blue_lg,Size,1511CRO01_blue_lg,active,Maaji,7.70278E+12,LARGE,160000,COP Price
+1513CLS01_blue_sm,Size,1513CLS01_blue_sm,active,Maaji,7.70278E+12,SMALL,170000,COP Price
+1513CLS01_blue_md,Size,1513CLS01_blue_md,active,Maaji,7.70278E+12,MEDIUM,170000,COP Price
+1513CLS01_blue_lg,Size,1513CLS01_blue_lg,active,Maaji,7.70278E+12,LARGE,170000,COP Price
+1514CSD01_blue_sm,Size,1514CSD01_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1514CSD01_blue_md,Size,1514CSD01_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1514CSD01_blue_lg,Size,1514CSD01_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1516CCT01_blue_sm,Size,1516CCT01_blue_sm,active,Maaji,7.70278E+12,SMALL,155000,COP Price
+1516CCT01_blue_md,Size,1516CCT01_blue_md,active,Maaji,7.70278E+12,MEDIUM,155000,COP Price
+1516CCT01_blue_lg,Size,1516CCT01_blue_lg,active,Maaji,7.70278E+12,LARGE,155000,COP Price
+1518CSD01_orange_sm,Size,1518CSD01_orange_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+1518CSD01_orange_md,Size,1518CSD01_orange_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+1518CSD01_orange_lg,Size,1518CSD01_orange_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+1519CCT01_orange_sm,Size,1519CCT01_orange_sm,active,Maaji,7.70278E+12,SMALL,155000,COP Price
+1519CCT01_orange_md,Size,1519CCT01_orange_md,active,Maaji,7.70278E+12,MEDIUM,155000,COP Price
+1519CCT01_orange_lg,Size,1519CCT01_orange_lg,active,Maaji,7.70278E+12,LARGE,155000,COP Price
+1520SFH03_red_sm,Size,1520SFH03_red_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+1520SFH03_red_md,Size,1520SFH03_red_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+1520SFH03_red_lg,Size,1520SFH03_red_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+1520SFH03_red_xl,Size,1520SFH03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+1932SFT04_black_sm,Size,1932SFT04_black_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+1932SFT04_black_md,Size,1932SFT04_black_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+1932SFT04_black_lg,Size,1932SFT04_black_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+1932SFT04_black_xl,Size,1932SFT04_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+1932SFT05_orange_sm,Size,1932SFT05_orange_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+1932SFT05_orange_md,Size,1932SFT05_orange_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+1932SFT05_orange_lg,Size,1932SFT05_orange_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+1932SFT05_orange_xl,Size,1932SFT05_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+2021SFA04_orange_sm,Size,2021SFA04_orange_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2021SFA04_orange_md,Size,2021SFA04_orange_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2021SFA04_orange_lg,Size,2021SFA04_orange_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2021SFA04_orange_xl,Size,2021SFA04_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2033SUN04_black_sm,Size,2033SUN04_black_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+2033SUN04_black_md,Size,2033SUN04_black_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+2033SUN04_black_lg,Size,2033SUN04_black_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+2033SUN04_black_xl,Size,2033SUN04_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+2112SFA02_blue_sm,Size,2112SFA02_blue_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2112SFA02_blue_md,Size,2112SFA02_blue_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2112SFA02_blue_lg,Size,2112SFA02_blue_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2112SFA02_blue_xl,Size,2112SFA02_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2131SUN02_red_sm,Size,2131SUN02_red_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+2131SUN02_red_md,Size,2131SUN02_red_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+2131SUN02_red_lg,Size,2131SUN02_red_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+2131SUN02_red_xl,Size,2131SUN02_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+2131SUN03_orange_sm,Size,2131SUN03_orange_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+2131SUN03_orange_md,Size,2131SUN03_orange_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+2131SUN03_orange_lg,Size,2131SUN03_orange_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+2131SUN03_orange_xl,Size,2131SUN03_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+2135SSF03_red_sm,Size,2135SSF03_red_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2135SSF03_red_md,Size,2135SSF03_red_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2135SSF03_red_lg,Size,2135SSF03_red_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2153SUN02_red_sm,Size,2153SUN02_red_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+2153SUN02_red_md,Size,2153SUN02_red_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+2153SUN02_red_lg,Size,2153SUN02_red_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+2153SUN02_red_xl,Size,2153SUN02_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+2161SFA02_black_sm,Size,2161SFA02_black_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2161SFA02_black_md,Size,2161SFA02_black_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2161SFA02_black_lg,Size,2161SFA02_black_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2161SFA02_black_xl,Size,2161SFA02_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2162SFA02_blue_sm,Size,2162SFA02_blue_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2162SFA02_blue_md,Size,2162SFA02_blue_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2162SFA02_blue_lg,Size,2162SFA02_blue_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2162SFA02_blue_xl,Size,2162SFA02_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2164SRA02_blue_sm,Size,2164SRA02_blue_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+2164SRA02_blue_md,Size,2164SRA02_blue_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+2164SRA02_blue_lg,Size,2164SRA02_blue_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+2167SFT01_red_sm,Size,2167SFT01_red_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+2167SFT01_red_md,Size,2167SFT01_red_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+2167SFT01_red_lg,Size,2167SFT01_red_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+2167SFT01_red_xl,Size,2167SFT01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+2169SBA01_red_sm,Size,2169SBA01_red_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2169SBA01_red_md,Size,2169SBA01_red_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2169SBA01_red_lg,Size,2169SBA01_red_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2169SBA01_red_xl,Size,2169SBA01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+2170SSE01_red_sm,Size,2170SSE01_red_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+2170SSE01_red_md,Size,2170SSE01_red_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+2170SSE01_red_lg,Size,2170SSE01_red_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+2170SSE01_red_xl,Size,2170SSE01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+2171SFH01_red_sm,Size,2171SFH01_red_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2171SFH01_red_md,Size,2171SFH01_red_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2171SFH01_red_lg,Size,2171SFH01_red_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2171SFH01_red_xl,Size,2171SFH01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2173SFA01_black_sm,Size,2173SFA01_black_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2173SFA01_black_md,Size,2173SFA01_black_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2173SFA01_black_lg,Size,2173SFA01_black_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2173SFA01_black_xl,Size,2173SFA01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2174SLT01_black_sm,Size,2174SLT01_black_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2174SLT01_black_md,Size,2174SLT01_black_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2174SLT01_black_lg,Size,2174SLT01_black_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2174SLT01_black_xl,Size,2174SLT01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+2175SFA01_black_sm,Size,2175SFA01_black_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2175SFA01_black_md,Size,2175SFA01_black_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2175SFA01_black_lg,Size,2175SFA01_black_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2175SFA01_black_xl,Size,2175SFA01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2183SCT01_orange_sm,Size,2183SCT01_orange_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2183SCT01_orange_md,Size,2183SCT01_orange_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2183SCT01_orange_lg,Size,2183SCT01_orange_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2183SCT01_orange_xl,Size,2183SCT01_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2184SBA01_orange_sm,Size,2184SBA01_orange_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2184SBA01_orange_md,Size,2184SBA01_orange_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2184SBA01_orange_lg,Size,2184SBA01_orange_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2184SBA01_orange_xl,Size,2184SBA01_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+2186SSP01_orange_sm,Size,2186SSP01_orange_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2186SSP01_orange_md,Size,2186SSP01_orange_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2186SSP01_orange_lg,Size,2186SSP01_orange_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2186SSP01_orange_xl,Size,2186SSP01_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+2187SSF01_orange_sm,Size,2187SSF01_orange_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2187SSF01_orange_md,Size,2187SSF01_orange_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2187SSF01_orange_lg,Size,2187SSF01_orange_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3008SCC02_red_sm,Size,3008SCC02_red_sm,active,Maaji,7.70278E+12,SMALL,95000,COP Price
+3008SCC02_red_md,Size,3008SCC02_red_md,active,Maaji,7.70278E+12,MEDIUM,95000,COP Price
+3008SCC02_red_lg,Size,3008SCC02_red_lg,active,Maaji,7.70278E+12,LARGE,95000,COP Price
+3011SHN01_blue_sm,Size,3011SHN01_blue_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+3011SHN01_blue_md,Size,3011SHN01_blue_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+3011SHN01_blue_lg,Size,3011SHN01_blue_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3011SHN01_blue_xl,Size,3011SHN01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+3012SFH05_blue_sm,Size,3012SFH05_blue_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3012SFH05_blue_md,Size,3012SFH05_blue_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3012SFH05_blue_lg,Size,3012SFH05_blue_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3012SFH05_blue_xl,Size,3012SFH05_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3042SFH02_black_sm,Size,3042SFH02_black_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3042SFH02_black_md,Size,3042SFH02_black_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3042SFH02_black_lg,Size,3042SFH02_black_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3042SFH02_black_xl,Size,3042SFH02_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3042SFH03_orange_sm,Size,3042SFH03_orange_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3042SFH03_orange_md,Size,3042SFH03_orange_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3042SFH03_orange_lg,Size,3042SFH03_orange_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3042SFH03_orange_xl,Size,3042SFH03_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3045SFT04_blue_sm,Size,3045SFT04_blue_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3045SFT04_blue_md,Size,3045SFT04_blue_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3045SFT04_blue_lg,Size,3045SFT04_blue_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3045SFT04_blue_xl,Size,3045SFT04_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+3047SFH03_red_sm,Size,3047SFH03_red_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3047SFH03_red_md,Size,3047SFH03_red_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3047SFH03_red_lg,Size,3047SFH03_red_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3047SFH03_red_xl,Size,3047SFH03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3048SUN04_blue_sm,Size,3048SUN04_blue_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+3048SUN04_blue_md,Size,3048SUN04_blue_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+3048SUN04_blue_lg,Size,3048SUN04_blue_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+3048SUN04_blue_xl,Size,3048SUN04_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+3053SFA05_blue_sm,Size,3053SFA05_blue_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3053SFA05_blue_md,Size,3053SFA05_blue_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3053SFA05_blue_lg,Size,3053SFA05_blue_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3053SFA05_blue_xl,Size,3053SFA05_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3054SFA03_black_sm,Size,3054SFA03_black_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3054SFA03_black_md,Size,3054SFA03_black_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3054SFA03_black_lg,Size,3054SFA03_black_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3054SFA03_black_xl,Size,3054SFA03_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3059SFT02_red_sm,Size,3059SFT02_red_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3059SFT02_red_md,Size,3059SFT02_red_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3059SFT02_red_lg,Size,3059SFT02_red_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3059SFT02_red_xl,Size,3059SFT02_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+3060SFA03_red_sm,Size,3060SFA03_red_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+3060SFA03_red_md,Size,3060SFA03_red_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+3060SFA03_red_lg,Size,3060SFA03_red_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+3060SFA03_red_xl,Size,3060SFA03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+3061SSP01_red_sm,Size,3061SSP01_red_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+3061SSP01_red_md,Size,3061SSP01_red_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+3061SSP01_red_lg,Size,3061SSP01_red_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3061SSP01_red_xl,Size,3061SSP01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+3062SBA01_red_sm,Size,3062SBA01_red_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+3062SBA01_red_md,Size,3062SBA01_red_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+3062SBA01_red_lg,Size,3062SBA01_red_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3062SBA01_red_xl,Size,3062SBA01_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+3063SBR01_black_sm,Size,3063SBR01_black_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3063SBR01_black_md,Size,3063SBR01_black_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3063SBR01_black_lg,Size,3063SBR01_black_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3063SBR01_black_xl,Size,3063SBR01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+3063SBR02_orange_sm,Size,3063SBR02_orange_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3063SBR02_orange_md,Size,3063SBR02_orange_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3063SBR02_orange_lg,Size,3063SBR02_orange_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3063SBR02_orange_xl,Size,3063SBR02_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+3066SUN01_black_sm,Size,3066SUN01_black_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+3066SUN01_black_md,Size,3066SUN01_black_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+3066SUN01_black_lg,Size,3066SUN01_black_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+3066SUN01_black_xl,Size,3066SUN01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+3068SSP01_black_sm,Size,3068SSP01_black_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+3068SSP01_black_md,Size,3068SSP01_black_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+3068SSP01_black_lg,Size,3068SSP01_black_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3068SSP01_black_xl,Size,3068SSP01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+3068SSP02_orange_sm,Size,3068SSP02_orange_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+3068SSP02_orange_md,Size,3068SSP02_orange_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+3068SSP02_orange_lg,Size,3068SSP02_orange_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+3068SSP02_orange_xl,Size,3068SSP02_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+3069SSE01_orange_sm,Size,3069SSE01_orange_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3069SSE01_orange_md,Size,3069SSE01_orange_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3069SSE01_orange_lg,Size,3069SSE01_orange_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3069SSE01_orange_xl,Size,3069SSE01_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+3070SBR01_orange_sm,Size,3070SBR01_orange_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+3070SBR01_orange_md,Size,3070SBR01_orange_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+3070SBR01_orange_lg,Size,3070SBR01_orange_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+3070SBR01_orange_xl,Size,3070SBR01_orange_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+,,,,,,,,
+9086KST02_blue_2_3k,Size,9086KST02_blue_2_3k,active,Maaji,7.70278E+12,2_3KIDS,90000,COP Price
+9086KST02_blue_4_6k,Size,9086KST02_blue_4_6k,active,Maaji,7.70278E+12,4_6KIDS,90000,COP Price
+9086KST02_blue_8_10k,Size,9086KST02_blue_8_10k,active,Maaji,7.70278E+12,8_10KIDS,90000,COP Price
+9086KST02_blue_12_14k,Size,9086KST02_blue_12_14k,active,Maaji,7.70278E+12,12_14KIDS,90000,COP Price
+9086KST02_blue_16_18k,Size,9086KST02_blue_16_18k,active,Maaji,7.70278E+12,16_18KIDS,90000,COP Price
+9086KST03_blue_2_3k,Size,9086KST03_blue_2_3k,active,Maaji,7.70278E+12,2_3KIDS,90000,COP Price
+9086KST03_blue_4_6k,Size,9086KST03_blue_4_6k,active,Maaji,7.70278E+12,4_6KIDS,90000,COP Price
+9086KST03_blue_8_10k,Size,9086KST03_blue_8_10k,active,Maaji,7.70278E+12,8_10KIDS,90000,COP Price
+9086KST03_blue_12_14k,Size,9086KST03_blue_12_14k,active,Maaji,7.70278E+12,12_14KIDS,90000,COP Price
+9086KST03_blue_16_18k,Size,9086KST03_blue_16_18k,active,Maaji,7.70278E+12,16_18KIDS,90000,COP Price
+9088KST02_red_2_3k,Size,9088KST02_red_2_3k,active,Maaji,7.70278E+12,2_3KIDS,100000,COP Price
+9088KST02_red_4_6k,Size,9088KST02_red_4_6k,active,Maaji,7.70278E+12,4_6KIDS,100000,COP Price
+9088KST02_red_8_10k,Size,9088KST02_red_8_10k,active,Maaji,7.70278E+12,8_10KIDS,100000,COP Price
+9088KST02_red_12_14k,Size,9088KST02_red_12_14k,active,Maaji,7.70278E+12,12_14KIDS,100000,COP Price
+9088KST02_red_16_18K,Size,9088KST02_red_16_18K,active,Maaji,7.70278E+12,16_18KIDS,100000,COP Price
+9088KST03_blue_2_3k,Size,9088KST03_blue_2_3k,active,Maaji,7.70278E+12,2_3KIDS,100000,COP Price
+9088KST03_blue_4_6k,Size,9088KST03_blue_4_6k,active,Maaji,7.70278E+12,4_6KIDS,100000,COP Price
+9088KST03_blue_8_10k,Size,9088KST03_blue_8_10k,active,Maaji,7.70278E+12,8_10KIDS,100000,COP Price
+9088KST03_blue_12_14k,Size,9088KST03_blue_12_14k,active,Maaji,7.70278E+12,12_14KIDS,100000,COP Price
+9088KST03_blue_16_18k,Size,9088KST03_blue_16_18k,active,Maaji,7.70278E+12,16_18KIDS,100000,COP Price
+3083KKB03_red_2k,Size,3083KKB03_red_2k,active,Maaji,7.70278E+12,2KIDS,115000,COP Price
+3083KKB03_red_4k,Size,3083KKB03_red_4k,active,Maaji,7.70278E+12,4KIDS,115000,COP Price
+3083KKB03_red_6k,Size,3083KKB03_red_6k,active,Maaji,7.70278E+12,6KIDS,115000,COP Price
+3083KKB03_red_8k,Size,3083KKB03_red_8k,active,Maaji,7.70278E+12,8KIDS,115000,COP Price
+3083KKB03_red_10k,Size,3083KKB03_red_10k,active,Maaji,7.70278E+12,10KIDS,115000,COP Price
+3083KKB03_red_12k,Size,3083KKB03_red_12k,active,Maaji,7.70278E+12,12KIDS,115000,COP Price
+3083KKB03_red_14k,Size,3083KKB03_red_14k,active,Maaji,7.70278E+12,14KIDS,115000,COP Price
+3083KKB03_red_16k,Size,3083KKB03_red_16k,active,Maaji,7.70278E+12,16KIDS,115000,COP Price
+3090KKB02_red_2k,Size,3090KKB02_red_2K,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3090KKB02_red_4k,Size,3090KKB02_red_4K,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3090KKB02_red_6k,Size,3090KKB02_red_6K,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3090KKB02_red_8k,Size,3090KKB02_red_8K,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3090KKB02_red_10k,Size,3090KKB02_red_10K,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3090KKB02_red_12k,Size,3090KKB02_red_12K,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3090KKB02_red_14k,Size,3090KKB02_red_14K,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3090KKB02_red_16k,Size,3090KKB02_red_16K,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3080KKB03_red_2k,Size,3080KKB03_red_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3080KKB03_red_4k,Size,3080KKB03_red_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3080KKB03_red_6k,Size,3080KKB03_red_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3080KKB03_red_8k,Size,3080KKB03_red_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3080KKB03_red_10k,Size,3080KKB03_red_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3080KKB03_red_12k,Size,3080KKB03_red_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3080KKB03_red_14k,Size,3080KKB03_red_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3080KKB03_red_16k,Size,3080KKB03_red_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3094KKO01_red_2k,Size,3094KKO01_red_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3094KKO01_red_4k,Size,3094KKO01_red_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3094KKO01_red_6k,Size,3094KKO01_red_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3094KKO01_red_8k,Size,3094KKO01_red_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3094KKO01_red_10k,Size,3094KKO01_red_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3094KKO01_red_12k,Size,3094KKO01_red_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3094KKO01_red_14k,Size,3094KKO01_red_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3094KKO01_red_16k,Size,3094KKO01_red_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3102KKB01_red_2k,Size,3102KKB01_red_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3102KKB01_red_4k,Size,3102KKB01_red_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3102KKB01_red_6k,Size,3102KKB01_red_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3102KKB01_red_8k,Size,3102KKB01_red_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3102KKB01_red_10k,Size,3102KKB01_red_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3102KKB01_red_12k,Size,3102KKB01_red_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3102KKB01_red_14k,Size,3102KKB01_red_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3102KKB01_red_16k,Size,3102KKB01_red_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3095KKS01_red_2k,Size,3095KKS01_red_2k,active,Maaji,7.70278E+12,2KIDS,95000,COP Price
+3095KKS01_red_4k,Size,3095KKS01_red_4k,active,Maaji,7.70278E+12,4KIDS,95000,COP Price
+3095KKS01_red_6k,Size,3095KKS01_red_6k,active,Maaji,7.70278E+12,6KIDS,95000,COP Price
+3095KKS01_red_8k,Size,3095KKS01_red_8k,active,Maaji,7.70278E+12,8KIDS,95000,COP Price
+3095KKS01_red_10k,Size,3095KKS01_red_10k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+3095KKS01_red_12k,Size,3095KKS01_red_12k,active,Maaji,7.70278E+12,12KIDS,95000,COP Price
+3095KKS01_red_14k,Size,3095KKS01_red_14k,active,Maaji,7.70278E+12,14KIDS,95000,COP Price
+3095KKS01_red_16k,Size,3095KKS01_red_16k,active,Maaji,7.70278E+12,16KIDS,95000,COP Price
+1689KKC02_red_2k,Size,1689KKC02_red_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1689KKC02_red_4k,Size,1689KKC02_red_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1689KKC02_red_6k,Size,1689KKC02_red_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1689KKC02_red_8k,Size,1689KKC02_red_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1689KKC02_red_10k,Size,1689KKC02_red_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1689KKC02_red_12k,Size,1689KKC02_red_12k,active,Maaji,7.70278E+12,12KIDS,110000,COP Price
+1689KKC02_red_14k,Size,1689KKC02_red_14k,active,Maaji,7.70278E+12,14KIDS,110000,COP Price
+1689KKC02_red_16k,Size,1689KKC02_red_16k,active,Maaji,7.70278E+12,16KIDS,110000,COP Price
+1692KKC02_red_2k,Size,1692KKC02_red_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1692KKC02_red_4k,Size,1692KKC02_red_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1692KKC02_red_6k,Size,1692KKC02_red_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1692KKC02_red_8k,Size,1692KKC02_red_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1692KKC02_red_10k,Size,1692KKC02_red_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1692KKC02_red_12k,Size,1692KKC02_red_12k,active,Maaji,7.70278E+12,12KIDS,110000,COP Price
+1692KKC02_red_14k,Size,1692KKC02_red_14k,active,Maaji,7.70278E+12,14KIDS,110000,COP Price
+1692KKC02_red_16k,Size,1692KKC02_red_16k,active,Maaji,7.70278E+12,16KIDS,110000,COP Price
+3101KKB01_black_2k,Size,3101KKB01_black_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3101KKB01_black_4k,Size,3101KKB01_black_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3101KKB01_black_6k,Size,3101KKB01_black_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3101KKB01_black_8k,Size,3101KKB01_black_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3101KKB01_black_10k,Size,3101KKB01_black_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3101KKB01_black_12k,Size,3101KKB01_black_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3101KKB01_black_14k,Size,3101KKB01_black_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3101KKB01_black_16k,Size,3101KKB01_black_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3096KKB01_red_2k,Size,3096KKB01_red_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3096KKB01_red_4k,Size,3096KKB01_red_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3096KKB01_red_6k,Size,3096KKB01_red_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3096KKB01_red_8k,Size,3096KKB01_red_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3096KKB01_red_10k,Size,3096KKB01_red_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3096KKB01_red_12k,Size,3096KKB01_red_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3096KKB01_red_14k,Size,3096KKB01_red_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3096KKB01_red_16k,Size,3096KKB01_red_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3088KKB02_black_2k,Size,3088KKB02_black_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3088KKB02_black_4k,Size,3088KKB02_black_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3088KKB02_black_6k,Size,3088KKB02_black_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3088KKB02_black_8k,Size,3088KKB02_black_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3088KKB02_black_10k,Size,3088KKB02_black_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3088KKB02_black_12k,Size,3088KKB02_black_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3088KKB02_black_14k,Size,3088KKB02_black_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3088KKB02_black_16k,Size,3088KKB02_black_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3097KKR01_black_2k,Size,3097KKR01_black_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3097KKR01_black_4k,Size,3097KKR01_black_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3097KKR01_black_6k,Size,3097KKR01_black_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3097KKR01_black_8k,Size,3097KKR01_black_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3097KKR01_black_10k,Size,3097KKR01_black_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3097KKR01_black_12k,Size,3097KKR01_black_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3097KKR01_black_14k,Size,3097KKR01_black_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3097KKR01_black_16k,Size,3097KKR01_black_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3091KKO02_black_2k,Size,3091KKO02_black_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3091KKO02_black_4k,Size,3091KKO02_black_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3091KKO02_black_6k,Size,3091KKO02_black_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3091KKO02_black_8k,Size,3091KKO02_black_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3091KKO02_black_10k,Size,3091KKO02_black_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3091KKO02_black_12k,Size,3091KKO02_black_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3091KKO02_black_14k,Size,3091KKO02_black_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3091KKO02_black_16k,Size,3091KKO02_black_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+1688KKC03_black_2k,Size,1688KKC03_black_2k,active,Maaji,7.70278E+12,2KIDS,95000,COP Price
+1688KKC03_black_4k,Size,1688KKC03_black_4k,active,Maaji,7.70278E+12,4KIDS,95000,COP Price
+1688KKC03_black_6k,Size,1688KKC03_black_6k,active,Maaji,7.70278E+12,6KIDS,95000,COP Price
+1688KKC03_black_8k,Size,1688KKC03_black_8k,active,Maaji,7.70278E+12,8KIDS,95000,COP Price
+1688KKC03_black_10k,Size,1688KKC03_black_10k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+1688KKC03_black_12k,Size,1688KKC03_black_12k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+1688KKC03_black_14k,Size,1688KKC03_black_14k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+1688KKC03_black_16k,Size,1688KKC03_black_16k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+1694KKC02_black_2k,Size,1694KKC02_black_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1694KKC02_black_4k,Size,1694KKC02_black_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1694KKC02_black_6k,Size,1694KKC02_black_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1694KKC02_black_8k,Size,1694KKC02_black_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1694KKC02_black_10k,Size,1694KKC02_black_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1694KKC02_black_12k,Size,1694KKC02_black_12k,active,Maaji,7.70278E+12,12KIDS,110000,COP Price
+1694KKC02_black_14k,Size,1694KKC02_black_14k,active,Maaji,7.70278E+12,14KIDS,110000,COP Price
+1694KKC02_black_16k,Size,1694KKC02_black_16k,active,Maaji,7.70278E+12,16KIDS,110000,COP Price
+3081KKB02_blue_2k,Size,3081KKB02_blue_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3081KKB02_blue_4k,Size,3081KKB02_blue_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3081KKB02_blue_6k,Size,3081KKB02_blue_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3081KKB02_blue_8k,Size,3081KKB02_blue_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3081KKB02_blue_10k,Size,3081KKB02_blue_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3081KKB02_blue_12k,Size,3081KKB02_blue_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3081KKB02_blue_14k,Size,3081KKB02_blue_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3081KKB02_blue_16k,Size,3081KKB02_blue_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3053KKB02_blue_2k,Size,3053KKB02_blue_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3053KKB02_blue_4k,Size,3053KKB02_blue_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3053KKB02_blue_6k,Size,3053KKB02_blue_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3053KKB02_blue_8k,Size,3053KKB02_blue_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3053KKB02_blue_10k,Size,3053KKB02_blue_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3053KKB02_blue_12k,Size,3053KKB02_blue_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3053KKB02_blue_14k,Size,3053KKB02_blue_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3053KKB02_blue_16k,Size,3053KKB02_blue_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3051KKB04_blue_2k,Size,3051KKB04_blue_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3051KKB04_blue_4k,Size,3051KKB04_blue_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3051KKB04_blue_6k,Size,3051KKB04_blue_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3051KKB04_blue_8k,Size,3051KKB04_blue_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3051KKB04_blue_10k,Size,3051KKB04_blue_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3051KKB04_blue_12k,Size,3051KKB04_blue_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3051KKB04_blue_14k,Size,3051KKB04_blue_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3051KKB04_blue_16k,Size,3051KKB04_blue_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3084KKO02_blue_2k,Size,3084KKO02_blue_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3084KKO02_blue_4k,Size,3084KKO02_blue_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3084KKO02_blue_6k,Size,3084KKO02_blue_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3084KKO02_blue_8k,Size,3084KKO02_blue_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3084KKO02_blue_10k,Size,3084KKO02_blue_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3084KKO02_blue_12k,Size,3084KKO02_blue_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3084KKO02_blue_14k,Size,3084KKO02_blue_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3084KKO02_blue_16k,Size,3084KKO02_blue_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3098KKR01_blue_2k,Size,3098KKR01_blue_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3098KKR01_blue_4k,Size,3098KKR01_blue_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3098KKR01_blue_6k,Size,3098KKR01_blue_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3098KKR01_blue_8k,Size,3098KKR01_blue_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3098KKR01_blue_10k,Size,3098KKR01_blue_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3098KKR01_blue_12k,Size,3098KKR01_blue_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3098KKR01_blue_14k,Size,3098KKR01_blue_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3098KKR01_blue_16k,Size,3098KKR01_blue_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+1690KKC02_blue_2k,Size,1690KKC02_blue_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1690KKC02_blue_4k,Size,1690KKC02_blue_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1690KKC02_blue_6k,Size,1690KKC02_blue_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1690KKC02_blue_8k,Size,1690KKC02_blue_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1690KKC02_blue_10k,Size,1690KKC02_blue_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1690KKC02_blue_12k,Size,1690KKC02_blue_12k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1690KKC02_blue_14k,Size,1690KKC02_blue_14k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1690KKC02_blue_16k,Size,1690KKC02_blue_16k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1693KKC02_blue_2k,Size,1693KKC02_blue_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1693KKC02_blue_4k,Size,1693KKC02_blue_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1693KKC02_blue_6k,Size,1693KKC02_blue_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1693KKC02_blue_8k,Size,1693KKC02_blue_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1693KKC02_blue_10k,Size,1693KKC02_blue_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1693KKC02_blue_12k,Size,1693KKC02_blue_12k,active,Maaji,7.70278E+12,12KIDS,110000,COP Price
+1693KKC02_blue_14k,Size,1693KKC02_blue_14k,active,Maaji,7.70278E+12,14KIDS,110000,COP Price
+1693KKC02_blue_16k,Size,1693KKC02_blue_16k,active,Maaji,7.70278E+12,16KIDS,110000,COP Price
+3100KKB01_orange_2k,Size,3100KKB01_orange_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3100KKB01_orange_4k,Size,3100KKB01_orange_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3100KKB01_orange_6k,Size,3100KKB01_orange_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3100KKB01_orange_8k,Size,3100KKB01_orange_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3100KKB01_orange_10k,Size,3100KKB01_orange_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3100KKB01_orange_12k,Size,3100KKB01_orange_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3100KKB01_orange_14k,Size,3100KKB01_orange_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3100KKB01_orange_16k,Size,3100KKB01_orange_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3066KKB03_orange_2k,Size,3066KKB03_orange_2k,active,Maaji,7.70278E+12,2KIDS,130000,COP Price
+3066KKB03_orange_4k,Size,3066KKB03_orange_4k,active,Maaji,7.70278E+12,4KIDS,130000,COP Price
+3066KKB03_orange_6k,Size,3066KKB03_orange_6k,active,Maaji,7.70278E+12,6KIDS,130000,COP Price
+3066KKB03_orange_8k,Size,3066KKB03_orange_8k,active,Maaji,7.70278E+12,8KIDS,130000,COP Price
+3066KKB03_orange_10k,Size,3066KKB03_orange_10k,active,Maaji,7.70278E+12,10KIDS,130000,COP Price
+3066KKB03_orange_12k,Size,3066KKB03_orange_12k,active,Maaji,7.70278E+12,12KIDS,130000,COP Price
+3066KKB03_orange_14k,Size,3066KKB03_orange_14k,active,Maaji,7.70278E+12,14KIDS,130000,COP Price
+3066KKB03_orange_16k,Size,3066KKB03_orange_16k,active,Maaji,7.70278E+12,16KIDS,130000,COP Price
+3101KKB02_orange_2k,Size,3101KKB02_orange_2k,active,Maaji,7.70278E+12,2KIDS,125000,COP Price
+3101KKB02_orange_4k,Size,3101KKB02_orange_4k,active,Maaji,7.70278E+12,4KIDS,125000,COP Price
+3101KKB02_orange_6k,Size,3101KKB02_orange_6k,active,Maaji,7.70278E+12,6KIDS,125000,COP Price
+3101KKB02_orange_8k,Size,3101KKB02_orange_8k,active,Maaji,7.70278E+12,8KIDS,125000,COP Price
+3101KKB02_orange_10k,Size,3101KKB02_orange_10k,active,Maaji,7.70278E+12,10KIDS,125000,COP Price
+3101KKB02_orange_12k,Size,3101KKB02_orange_12k,active,Maaji,7.70278E+12,12KIDS,125000,COP Price
+3101KKB02_orange_14k,Size,3101KKB02_orange_14k,active,Maaji,7.70278E+12,14KIDS,125000,COP Price
+3101KKB02_orange_16k,Size,3101KKB02_orange_16k,active,Maaji,7.70278E+12,16KIDS,125000,COP Price
+3099KKO01_orange_2k,Size,3099KKO01_orange_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3099KKO01_orange_4k,Size,3099KKO01_orange_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3099KKO01_orange_6k,Size,3099KKO01_orange_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3099KKO01_orange_8k,Size,3099KKO01_orange_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3099KKO01_orange_10k,Size,3099KKO01_orange_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3099KKO01_orange_12k,Size,3099KKO01_orange_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3099KKO01_orange_14k,Size,3099KKO01_orange_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3099KKO01_orange_16k,Size,3099KKO01_orange_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3085KKO02_orange_2k,Size,3085KKO02_orange_2k,active,Maaji,7.70278E+12,2KIDS,140000,COP Price
+3085KKO02_orange_4k,Size,3085KKO02_orange_4k,active,Maaji,7.70278E+12,4KIDS,140000,COP Price
+3085KKO02_orange_6k,Size,3085KKO02_orange_6k,active,Maaji,7.70278E+12,6KIDS,140000,COP Price
+3085KKO02_orange_8k,Size,3085KKO02_orange_8k,active,Maaji,7.70278E+12,8KIDS,140000,COP Price
+3085KKO02_orange_10k,Size,3085KKO02_orange_10k,active,Maaji,7.70278E+12,10KIDS,140000,COP Price
+3085KKO02_orange_12k,Size,3085KKO02_orange_12k,active,Maaji,7.70278E+12,12KIDS,140000,COP Price
+3085KKO02_orange_14k,Size,3085KKO02_orange_14k,active,Maaji,7.70278E+12,14KIDS,140000,COP Price
+3085KKO02_orange_16k,Size,3085KKO02_orange_16k,active,Maaji,7.70278E+12,16KIDS,140000,COP Price
+3103KKS01_orange_2k,Size,3103KKS01_orange_2k,active,Maaji,7.70278E+12,2KIDS,95000,COP Price
+3103KKS01_orange_4k,Size,3103KKS01_orange_4k,active,Maaji,7.70278E+12,4KIDS,95000,COP Price
+3103KKS01_orange_6k,Size,3103KKS01_orange_6k,active,Maaji,7.70278E+12,6KIDS,95000,COP Price
+3103KKS01_orange_8k,Size,3103KKS01_orange_8k,active,Maaji,7.70278E+12,8KIDS,95000,COP Price
+3103KKS01_orange_10k,Size,3103KKS01_orange_10k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+3103KKS01_orange_12k,Size,3103KKS01_orange_12k,active,Maaji,7.70278E+12,12KIDS,95000,COP Price
+3103KKS01_orange_14k,Size,3103KKS01_orange_14k,active,Maaji,7.70278E+12,14KIDS,95000,COP Price
+3103KKS01_orange_16k,Size,3103KKS01_orange_16k,active,Maaji,7.70278E+12,16KIDS,95000,COP Price
+1691KKC02_orange_2k,Size,1691KKC02_orange_2k,active,Maaji,7.70278E+12,2KIDS,95000,COP Price
+1691KKC02_orange_4k,Size,1691KKC02_orange_4k,active,Maaji,7.70278E+12,4KIDS,95000,COP Price
+1691KKC02_orange_6k,Size,1691KKC02_orange_6k,active,Maaji,7.70278E+12,6KIDS,95000,COP Price
+1691KKC02_orange_8k,Size,1691KKC02_orange_8k,active,Maaji,7.70278E+12,8KIDS,95000,COP Price
+1691KKC02_orange_10k,Size,1691KKC02_orange_10k,active,Maaji,7.70278E+12,10KIDS,95000,COP Price
+1691KKC02_orange_12k,Size,1691KKC02_orange_12k,active,Maaji,7.70278E+12,12KIDS,95000,COP Price
+1691KKC02_orange_14k,Size,1691KKC02_orange_14k,active,Maaji,7.70278E+12,14KIDS,95000,COP Price
+1691KKC02_orange_16k,Size,1691KKC02_orange_16k,active,Maaji,7.70278E+12,16KIDS,95000,COP Price
+1695KKC01_orange_2k,Size,1695KKC01_orange_2k,active,Maaji,7.70278E+12,2KIDS,110000,COP Price
+1695KKC01_orange_4k,Size,1695KKC01_orange_4k,active,Maaji,7.70278E+12,4KIDS,110000,COP Price
+1695KKC01_orange_6k,Size,1695KKC01_orange_6k,active,Maaji,7.70278E+12,6KIDS,110000,COP Price
+1695KKC01_orange_8k,Size,1695KKC01_orange_8k,active,Maaji,7.70278E+12,8KIDS,110000,COP Price
+1695KKC01_orange_10k,Size,1695KKC01_orange_10k,active,Maaji,7.70278E+12,10KIDS,110000,COP Price
+1695KKC01_orange_12k,Size,1695KKC01_orange_12k,active,Maaji,7.70278E+12,12KIDS,110000,COP Price
+1695KKC01_orange_14k,Size,1695KKC01_orange_14k,active,Maaji,7.70278E+12,14KIDS,110000,COP Price
+1695KKC01_orange_16k,Size,1695KKC01_orange_16k,active,Maaji,7.70278E+12,16KIDS,110000,COP Price
+,,,,,,,,
+1891ASA01_gray_sm,Size,1891ASA01_gray_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1891ASA01_gray_md,Size,1891ASA01_gray_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1891ASA01_gray_lg,Size,1891ASA01_gray_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1863ALM03_blue_xs,Size,1863ALM03_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1863ALM03_blue_sm,Size,1863ALM03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1863ALM03_blue_md,Size,1863ALM03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1863ALM03_blue_lg,Size,1863ALM03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1832ASB02_blue_sm,Size,1832ASB02_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1832ASB02_blue_md,Size,1832ASB02_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1832ASB02_blue_lg,Size,1832ASB02_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1886ASH02_blue_xs,Size,1886ASH02_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1886ASH02_blue_sm,Size,1886ASH02_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1886ASH02_blue_md,Size,1886ASH02_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1886ASH02_blue_lg,Size,1886ASH02_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1760ASB05_blue_sm,Size,1760ASB05_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1760ASB05_blue_md,Size,1760ASB05_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1760ASB05_blue_lg,Size,1760ASB05_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1887ASA01_blue_sm,Size,1887ASA01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1887ASA01_blue_md,Size,1887ASA01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1887ASA01_blue_lg,Size,1887ASA01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1872ABD01_blue_sm,Size,1872ABD01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1872ABD01_blue_md,Size,1872ABD01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1872ABD01_blue_lg,Size,1872ABD01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1886ASH01_white_xs,Size,1886ASH01_white_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1886ASH01_white_sm,Size,1886ASH01_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1886ASH01_white_md,Size,1886ASH01_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1886ASH01_white_lg,Size,1886ASH01_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1785ALY04_blue_sm,Size,1785ALY04_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1785ALY04_blue_md,Size,1785ALY04_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1785ALY04_blue_lg,Size,1785ALY04_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1769ALL05_black_xs,Size,1769ALL05_black_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1769ALL05_black_sm,Size,1769ALL05_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1769ALL05_black_md,Size,1769ALL05_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1769ALL05_black_lg,Size,1769ALL05_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1882AST01_black_sm,Size,1882AST01_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1882AST01_black_md,Size,1882AST01_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1882AST01_black_lg,Size,1882AST01_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1786ALC07_blue_xs,Size,1786ALC07_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1786ALC07_blue_sm,Size,1786ALC07_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1786ALC07_blue_md,Size,1786ALC07_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1786ALC07_blue_lg,Size,1786ALC07_blue_lg,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1779ASB04_black_sm,Size,1779ASB04_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1779ASB04_black_md,Size,1779ASB04_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1779ASB04_black_lg,Size,1779ASB04_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT03_blue_sm,Size,1883ATT03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT03_blue_md,Size,1883ATT03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT03_blue_lg,Size,1883ATT03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1876ASH01_blue_xs,Size,1876ASH01_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1876ASH01_blue_sm,Size,1876ASH01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1876ASH01_blue_md,Size,1876ASH01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1876ASH01_blue_lg,Size,1876ASH01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1879ASB01_blue_sm,Size,1879ASB01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1879ASB01_blue_md,Size,1879ASB01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1879ASB01_blue_lg,Size,1879ASB01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1823ALC05_blue_xs,Size,1823ALC05_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1823ALC05_blue_sm,Size,1823ALC05_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1823ALC05_blue_md,Size,1823ALC05_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1823ALC05_blue_lg,Size,1823ALC05_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1875ASB01_green_sm,Size,1875ASB01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1875ASB01_green_md,Size,1875ASB01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1875ASB01_green_lg,Size,1875ASB01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1827ASB03_blue_sm,Size,1827ASB03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1827ASB03_blue_md,Size,1827ASB03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1827ASB03_blue_lg,Size,1827ASB03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1837ALM04_blue_xs,Size,1837ALM04_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1837ALM04_blue_sm,Size,1837ALM04_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1837ALM04_blue_md,Size,1837ALM04_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1837ALM04_blue_lg,Size,1837ALM04_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1825ALM05_blue_xs,Size,1825ALM05_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1825ALM05_blue_sm,Size,1825ALM05_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1825ALM05_blue_md,Size,1825ALM05_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1825ALM05_blue_lg,Size,1825ALM05_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1806ALM03_blue_xs,Size,1806ALM03_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1806ALM03_blue_sm,Size,1806ALM03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1806ALM03_blue_md,Size,1806ALM03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1806ALM03_blue_lg,Size,1806ALM03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1786ALM08_blue_xs,Size,1786ALM08_blue_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1786ALM08_blue_sm,Size,1786ALM08_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1786ALM08_blue_md,Size,1786ALM08_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1786ALM08_blue_lg,Size,1786ALM08_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1849ATT01_black_sm,Size,1849ATT01_black_sm,active,Maaji,7.70278E+12,SMALL,93000,COP Price
+1849ATT01_black_md,Size,1849ATT01_black_md,active,Maaji,7.70278E+12,MEDIUM,93000,COP Price
+1849ATT01_black_lg,Size,1849ATT01_black_lg,active,Maaji,7.70278E+12,LARGE,93000,COP Price
+1888ATT03_blue_sm,Size,1888ATT03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1888ATT03_blue_md,Size,1888ATT03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1888ATT03_blue_lg,Size,1888ATT03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1795APA05_blue_sm,Size,1795APA05_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1795APA05_blue_md,Size,1795APA05_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1795APA05_blue_lg,Size,1795APA05_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT02_blue_sm,Size,1883ATT02_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT02_blue_md,Size,1883ATT02_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT02_blue_lg,Size,1883ATT02_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1892ALY01_blue_sm,Size,1892ALY01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1892ALY01_blue_md,Size,1892ALY01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1892ALY01_blue_lg,Size,1892ALY01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1869ALS03_blue_sm,Size,1869ALS03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1869ALS03_blue_md,Size,1869ALS03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1869ALS03_blue_lg,Size,1869ALS03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1889AHL01_gray_sm,Size,1889AHL01_gray_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1889AHL01_gray_md,Size,1889AHL01_gray_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1889AHL01_gray_lg,Size,1889AHL01_gray_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1868ASB01_blue_sm,Size,1868ASB01_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1868ASB01_blue_md,Size,1868ASB01_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1868ASB01_blue_lg,Size,1868ASB01_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1760ASB07_black_sm,Size,1760ASB07_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1760ASB07_black_md,Size,1760ASB07_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1760ASB07_black_lg,Size,1760ASB07_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1881ASB01_green_sm,Size,1881ASB01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1881ASB01_green_md,Size,1881ASB01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1881ASB01_green_lg,Size,1881ASB01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1873ASB01_black_sm,Size,1873ASB01_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1873ASB01_black_md,Size,1873ASB01_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1873ASB01_black_lg,Size,1873ASB01_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1765ASB03_black_sm,Size,1765ASB03_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1765ASB03_black_md,Size,1765ASB03_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1765ASB03_black_lg,Size,1765ASB03_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1827ASB04_green_sm,Size,1827ASB04_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1827ASB04_green_md,Size,1827ASB04_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1827ASB04_green_lg,Size,1827ASB04_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1876ASH02_black_xs,Size,1876ASH02_black_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1876ASH02_black_sm,Size,1876ASH02_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1876ASH02_black_md,Size,1876ASH02_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1876ASH02_black_lg,Size,1876ASH02_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1863ALM04_green_xs,Size,1863ALM04_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1863ALM04_green_sm,Size,1863ALM04_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1863ALM04_green_md,Size,1863ALM04_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1863ALM04_green_lg,Size,1863ALM04_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1866ALM02_green_xs,Size,1866ALM02_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1866ALM02_green_sm,Size,1866ALM02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1866ALM02_green_md,Size,1866ALM02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1866ALM02_green_lg,Size,1866ALM02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1791ALM02_green_xs,Size,1791ALM02_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1791ALM02_green_sm,Size,1791ALM02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1791ALM02_green_md,Size,1791ALM02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1791ALM02_green_lg,Size,1791ALM02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1813ALM08_green_xs,Size,1813ALM08_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1813ALM08_green_sm,Size,1813ALM08_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1813ALM08_green_md,Size,1813ALM08_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1813ALM08_green_lg,Size,1813ALM08_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1786ALM05_green_xs,Size,1786ALM05_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1786ALM05_green_sm,Size,1786ALM05_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1786ALM05_green_md,Size,1786ALM05_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1786ALM05_green_lg,Size,1786ALM05_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1833ALL02_green_xs,Size,1833ALL02_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1833ALL02_green_sm,Size,1833ALL02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1833ALL02_green_md,Size,1833ALL02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1833ALL02_green_lg,Size,1833ALL02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1823ALL03_green_xs,Size,1823ALL03_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1823ALL03_green_sm,Size,1823ALL03_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1823ALL03_green_md,Size,1823ALL03_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1823ALL03_green_lg,Size,1823ALL03_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1877AJG01_green_sm,Size,1877AJG01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1877AJG01_green_md,Size,1877AJG01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1877AJG01_green_lg,Size,1877AJG01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1886ASH03_green_xs,Size,1886ASH03_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1886ASH03_green_sm,Size,1886ASH03_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1886ASH03_green_md,Size,1886ASH03_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1886ASH03_green_lg,Size,1886ASH03_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1888ATT01_green_sm,Size,1888ATT01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1888ATT01_green_md,Size,1888ATT01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1888ATT01_green_lg,Size,1888ATT01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT04_blue_sm,Size,1883ATT04_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT04_blue_md,Size,1883ATT04_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT04_blue_lg,Size,1883ATT04_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT05_black_sm,Size,1883ATT05_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT05_black_md,Size,1883ATT05_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT05_black_lg,Size,1883ATT05_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1892ALY03_green_sm,Size,1892ALY03_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1892ALY03_green_md,Size,1892ALY03_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1892ALY03_green_lg,Size,1892ALY03_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1880ATS03_black_sm,Size,1880ATS03_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1880ATS03_black_md,Size,1880ATS03_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1880ATS03_black_lg,Size,1880ATS03_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1869ALS01_green_sm,Size,1869ALS01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1869ALS01_green_md,Size,1869ALS01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1869ALS01_green_lg,Size,1869ALS01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1890ASA01_green_sm,Size,1890ASA01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1890ASA01_green_md,Size,1890ASA01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1890ASA01_green_lg,Size,1890ASA01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1864ALY02_green_sm,Size,1864ALY02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1864ALY02_green_md,Size,1864ALY02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1864ALY02_green_lg,Size,1864ALY02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1865AHL02_green_sm,Size,1865AHL02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1865AHL02_green_md,Size,1865AHL02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1865AHL02_green_lg,Size,1865AHL02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1878AVS01_green_sm,Size,1878AVS01_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1878AVS01_green_md,Size,1878AVS01_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1878AVS01_green_lg,Size,1878AVS01_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1845AJK02_green_sm,Size,1845AJK02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1845AJK02_green_md,Size,1845AJK02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1845AJK02_green_lg,Size,1845AJK02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1885ASH02_green_xs,Size,1885ASH02_green_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1885ASH02_green_sm,Size,1885ASH02_green_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1885ASH02_green_md,Size,1885ASH02_green_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1885ASH02_green_lg,Size,1885ASH02_green_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1871ASB01_red_sm,Size,1871ASB01_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1871ASB01_red_md,Size,1871ASB01_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1871ASB01_red_lg,Size,1871ASB01_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1779ASB05_red_sm,Size,1779ASB05_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1779ASB05_red_md,Size,1779ASB05_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1779ASB05_red_lg,Size,1779ASB05_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1760ASB06_black_sm,Size,1760ASB06_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1760ASB06_black_md,Size,1760ASB06_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1760ASB06_black_lg,Size,1760ASB06_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1881ASB02_black_sm,Size,1881ASB02_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1881ASB02_black_md,Size,1881ASB02_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1881ASB02_black_lg,Size,1881ASB02_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1835ALC03_black_xs,Size,1835ALC03_black_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1835ALC03_black_sm,Size,1835ALC03_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1835ALC03_black_md,Size,1835ALC03_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1835ALC03_black_lg,Size,1835ALC03_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1786ALC06_red_xs,Size,1786ALC06_red_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1786ALC06_red_sm,Size,1786ALC06_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1786ALC06_red_md,Size,1786ALC06_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1786ALC06_red_lg,Size,1786ALC06_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1863ALM05_black_xs,Size,1863ALM05_black_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1863ALM05_black_sm,Size,1863ALM05_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1863ALM05_black_md,Size,1863ALM05_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1863ALM05_black_lg,Size,1863ALM05_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1866ALM01_black_xs,Size,1866ALM01_black_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1866ALM01_black_sm,Size,1866ALM01_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1866ALM01_black_md,Size,1866ALM01_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1866ALM01_black_lg,Size,1866ALM01_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1825ALM04_red_xs,Size,1825ALM04_red_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1825ALM04_red_sm,Size,1825ALM04_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1825ALM04_red_md,Size,1825ALM04_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1825ALM04_red_lg,Size,1825ALM04_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1823ALL04_red_xs,Size,1823ALL04_red_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1823ALL04_red_sm,Size,1823ALL04_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1823ALL04_red_md,Size,1823ALL04_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1823ALL04_red_lg,Size,1823ALL04_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1822ALL04_red_xs,Size,1822ALL04_red_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1822ALL04_red_sm,Size,1822ALL04_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1822ALL04_red_md,Size,1822ALL04_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1822ALL04_red_lg,Size,1822ALL04_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1795APA04_red_sm,Size,1795APA04_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1795APA04_red_md,Size,1795APA04_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1795APA04_red_lg,Size,1795APA04_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1888ATT02_white_sm,Size,1888ATT02_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1888ATT02_white_md,Size,1888ATT02_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1888ATT02_white_lg,Size,1888ATT02_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT06_red_sm,Size,1883ATT06_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT06_red_md,Size,1883ATT06_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT06_red_lg,Size,1883ATT06_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1883ATT01_white_sm,Size,1883ATT01_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1883ATT01_white_md,Size,1883ATT01_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1883ATT01_white_lg,Size,1883ATT01_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1892ALY02_red_sm,Size,1892ALY02_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1892ALY02_red_md,Size,1892ALY02_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1892ALY02_red_lg,Size,1892ALY02_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1880ATS02_white_sm,Size,1880ATS02_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1880ATS02_white_md,Size,1880ATS02_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1880ATS02_white_lg,Size,1880ATS02_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1787ALY04_red_sm,Size,1787ALY04_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1787ALY04_red_md,Size,1787ALY04_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1787ALY04_red_lg,Size,1787ALY04_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1884ALY01_white_sm,Size,1884ALY01_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1884ALY01_white_md,Size,1884ALY01_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1884ALY01_white_lg,Size,1884ALY01_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1869ALS02_red_sm,Size,1869ALS02_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1869ALS02_red_md,Size,1869ALS02_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1869ALS02_red_lg,Size,1869ALS02_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1864ALY01_white_sm,Size,1864ALY01_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1864ALY01_white_md,Size,1864ALY01_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1864ALY01_white_lg,Size,1864ALY01_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1865AHL01_white_sm,Size,1865AHL01_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1865AHL01_white_md,Size,1865AHL01_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1865AHL01_white_lg,Size,1865AHL01_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1870AJK01_red_sm,Size,1870AJK01_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1870AJK01_red_md,Size,1870AJK01_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1870AJK01_red_lg,Size,1870AJK01_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1845AJK03_red_sm,Size,1845AJK03_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1845AJK03_red_md,Size,1845AJK03_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1845AJK03_red_lg,Size,1845AJK03_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1885ASH01_red_xs,Size,1885ASH01_red_xs,active,Maaji,7.70278E+12,EXTRA SMALL,90000,COP Price
+1885ASH01_red_sm,Size,1885ASH01_red_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1885ASH01_red_md,Size,1885ASH01_red_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1885ASH01_red_lg,Size,1885ASH01_red_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+2181SBA01_blue_sm,Size,2181SBA01_blue_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2181SBA01_blue_md,Size,2181SBA01_blue_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2181SBA01_blue_lg,Size,2181SBA01_blue_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2181SBA01_blue_xl,Size,2181SBA01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+9086KST02_red_2_3k,Size,9086KST02_red_2_3k,active,Maaji,7.70278E+12,2_3KIDS,90000,COP Price
+9086KST02_red_4_6k,Size,9086KST02_red_4_6k,active,Maaji,7.70278E+12,4_6KIDS,90000,COP Price
+9086KST02_red_8_10k,Size,9086KST02_red_8_10k,active,Maaji,7.70278E+12,8_10KIDS,90000,COP Price
+9086KST02_red_12_14k,Size,9086KST02_red_12_14k,active,Maaji,7.70278E+12,12_14KIDS,90000,COP Price
+9086KST02_red_16_18k,Size,9086KST02_red_16_18k,active,Maaji,7.70278E+12,16_18KIDS,90000,COP Price
+1892ALY03_blue_sm,Size,1892ALY03_blue_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1892ALY03_blue_md,Size,1892ALY03_blue_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1892ALY03_blue_lg,Size,1892ALY03_blue_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1878AVS01_black_sm,Size,1878AVS01_black_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1878AVS01_black_md,Size,1878AVS01_black_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1878AVS01_black_lg,Size,1878AVS01_black_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+1795APA04_white_sm,Size,1795APA04_white_sm,active,Maaji,7.70278E+12,SMALL,90000,COP Price
+1795APA04_white_md,Size,1795APA04_white_md,active,Maaji,7.70278E+12,MEDIUM,90000,COP Price
+1795APA04_white_lg,Size,1795APA04_white_lg,active,Maaji,7.70278E+12,LARGE,90000,COP Price
+2047SHN03_red_sm,Size,2047SHN03_red_sm,active,Maaji,7.70278E+12,SMALL,125000,COP Price
+2047SHN03_red_md,Size,2047SHN03_red_md,active,Maaji,7.70278E+12,MEDIUM,125000,COP Price
+2047SHN03_red_lg,Size,2047SHN03_red_lg,active,Maaji,7.70278E+12,LARGE,125000,COP Price
+2047SHN03_red_xl,Size,2047SHN03_red_xl,active,Maaji,7.70278E+12,EXTRA LARGE,125000,COP Price
+2050SSE01_black_sm,Size,2050SSE01_black_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+2050SSE01_black_md,Size,2050SSE01_black_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+2050SSE01_black_lg,Size,2050SSE01_black_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+2050SSE01_black_xl,Size,2050SSE01_black_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+2176SRA01_black_sm,Size,2176SRA01_black_sm,active,Maaji,7.70278E+12,SMALL,180000,COP Price
+2176SRA01_black_md,Size,2176SRA01_black_md,active,Maaji,7.70278E+12,MEDIUM,180000,COP Price
+2176SRA01_black_lg,Size,2176SRA01_black_lg,active,Maaji,7.70278E+12,LARGE,180000,COP Price
+2177SFA01_blue_sm,Size,2177SFA01_blue_sm,active,Maaji,7.70278E+12,SMALL,135000,COP Price
+2177SFA01_blue_md,Size,2177SFA01_blue_md,active,Maaji,7.70278E+12,MEDIUM,135000,COP Price
+2177SFA01_blue_lg,Size,2177SFA01_blue_lg,active,Maaji,7.70278E+12,LARGE,135000,COP Price
+2177SFA01_blue_xl,Size,2177SFA01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,135000,COP Price
+2178SUN01_blue_sm,Size,2178SUN01_blue_sm,active,Maaji,7.70278E+12,SMALL,100000,COP Price
+2178SUN01_blue_md,Size,2178SUN01_blue_md,active,Maaji,7.70278E+12,MEDIUM,100000,COP Price
+2178SUN01_blue_lg,Size,2178SUN01_blue_lg,active,Maaji,7.70278E+12,LARGE,100000,COP Price
+2178SUN01_blue_xl,Size,2178SUN01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,100000,COP Price
+2179SSE01_blue_sm,Size,2179SSE01_blue_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+2179SSE01_blue_md,Size,2179SSE01_blue_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+2179SSE01_blue_lg,Size,2179SSE01_blue_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+2179SSE01_blue_xl,Size,2179SSE01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price
+2180SFT01_blue_sm,Size,2180SFT01_blue_sm,active,Maaji,7.70278E+12,SMALL,115000,COP Price
+2180SFT01_blue_md,Size,2180SFT01_blue_md,active,Maaji,7.70278E+12,MEDIUM,115000,COP Price
+2180SFT01_blue_lg,Size,2180SFT01_blue_lg,active,Maaji,7.70278E+12,LARGE,115000,COP Price
+2180SFT01_blue_xl,Size,2180SFT01_blue_xl,active,Maaji,7.70278E+12,EXTRA LARGE,115000,COP Price

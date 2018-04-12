@@ -1,0 +1,4 @@
+lv1_code,inventory.1.inventory_source,inventory.1.sku,inventory.1.qty,inventory.1.stock_availability,inventory.1.style,inventory.1.available_qty
+1232XPK02,CO,1232XPK02,5,in_stock,dynamic,5
+1291XTE01,CO,1291XTE01,5,in_stock,dynamic,5
+1292XVR01,CO,1292XVR01,8,in_stock,dynamic,8

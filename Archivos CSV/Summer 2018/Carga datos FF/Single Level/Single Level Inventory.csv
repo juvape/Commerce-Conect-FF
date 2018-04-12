@@ -1,0 +1,15 @@
+lv1_code,inventory.1.inventory_source,inventory.1.sku,inventory.1.qty,inventory.1.stock_availability,inventory.1.style,inventory.1.available_qty
+1233XTW02,CO,1233XTW02,5,in_stock,dynamic,5
+1238XCP05,CO,1238XCP05,5,in_stock,dynamic,5
+1238XCP06,CO,1238XCP06,8,in_stock,dynamic,8
+1244XPK02,CO,1244XPK02,12,in_stock,dynamic,12
+1245XVR02,CO,1245XVR02,9,in_stock,dynamic,9
+1268XWK01,CO,1268XWK01,4,in_stock,dynamic,4
+1269XBP01,CO,1269XBP01,6,in_stock,dynamic,6
+1270XTE01,CO,1270XTE01,10,in_stock,dynamic,10
+1273XCP01,CO,1273XCP01,5,in_stock,dynamic,5
+1273XCP02,CO,1273XCP02,2,in_stock,dynamic,2
+1505CPR01,CO,1505CPR01,11,in_stock,dynamic,11
+1510CPR01,CO,1510CPR01,12,in_stock,dynamic,12
+1515CPR01,CO,1515CPR01,7,in_stock,dynamic,7
+1520CPR01,CO,1520CPR01,8,in_stock,dynamic,8
