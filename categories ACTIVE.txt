@@ -1,0 +1,9 @@
+body
+jacket
+Legging
+SWEATSHIRT
+Top
+Pant
+shirt
+Short
+vest

@@ -1,0 +1,1 @@
+=CONCATENAR(A2,"_","sm","|",A2,"_","md","|",A2,"_","lg","|",A2,"_","xl") --> función concatenar tallas

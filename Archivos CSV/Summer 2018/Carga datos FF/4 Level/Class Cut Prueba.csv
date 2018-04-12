@@ -1,0 +1,11 @@
+lv1_code,product_class_name,name,status,brand,attribute.saya_cut.single_option,image.1.url,image.1.description,image.1.is_primary,variation_children_code
+3007SAC,Cut,3007SAC14,active,Maaji,SAC,https://res.cloudinary.com/maaji/image/upload/v1520432490/Cuts/hipster_cut.jpg,hipster_cut,,3007SAC_brown
+3007SBC,Cut,3007SBC14,active,Maaji,SBC,https://res.cloudinary.com/maaji/image/upload/v1520432489/Cuts/signature_cut.jpg,signature_cut,,3007SBC_brown
+3007SCC,Cut,3007SCC14,active,Maaji,SCC,https://res.cloudinary.com/maaji/image/upload/v1520432488/Cuts/cheeky_cut.jpg,cheeky_cut,,3007SCC_brown
+3007SDC,Cut,3007SDC14,active,Maaji,SDC,https://res.cloudinary.com/maaji/image/upload/v1520432488/Cuts/chi_chi_cut.jpg,chi_chi_cut,,3007SDC_brown
+3013SBC,Cut,3013SBC03,active,Maaji,SBC,https://res.cloudinary.com/maaji/image/upload/v1520432489/Cuts/signature_cut.jpg,signature_cut,,3013SBC_red
+3013SCC,Cut,3013SCC03,active,Maaji,SCC,https://res.cloudinary.com/maaji/image/upload/v1520432488/Cuts/cheeky_cut.jpg,cheeky_cut,,3013SCC_red
+307SAC,Cut,3007SAC15,active,Maaji,SAC,https://res.cloudinary.com/maaji/image/upload/v1520432490/Cuts/hipster_cut.jpg,hipster_cut,,307SAC_red
+307SBC,Cut,3007SBC15,active,Maaji,SBC,https://res.cloudinary.com/maaji/image/upload/v1520432489/Cuts/signature_cut.jpg,signature_cut,,307SBC_red
+307SCC,Cut,3007SCC15,active,Maaji,SCC,https://res.cloudinary.com/maaji/image/upload/v1520432488/Cuts/cheeky_cut.jpg,cheeky_cut,,307SCC_red
+307SDC,Cut,3007SDC15,active,Maaji,SDC,https://res.cloudinary.com/maaji/image/upload/v1520432488/Cuts/chi_chi_cut.jpg,chi_chi_cut,,307SDC_red

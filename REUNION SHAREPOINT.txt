@@ -1,0 +1,49 @@
+REUNION SHAREPOINT
+
+solo correo para sizfra
+
+que no aparezca comercio exterior
+
+fecha de creación en las vistas
+
+CORREOS
+
+comercio exterior, facturar a bodega y sizfra
+
+estado de comercio exterior, estado en sisfra --> obsequio
+
+notificación cuando se adjunta documento
+
+Redacción de los correos en los que quieren estar involucrados --> bodega
+
+como verificar lo que se esta enviando, observaciones colocar las unidades, 
+
+
+
+Filtros: es la metodología utilizada en el diligenciamiento de los campos en los flujos
+
+No muestra información de nada en los filtros
+
+Información de los informes, no tiene toda los datos necesarios
+
+Reportes y filtros
+
+Filtro de clientes y buscar proforma por proforma, como mejorar el filtro de las proformas
+
+Repite correos más de una vez
+
+Se cambia el estado y llega correo más de una vez de lo mismo
+
+Sizfra se ve reflejado la duplicación de la proforma
+
+No llega correo cuando se asigna de comercio exterior a sizfra
+
+Actualizació de los datos, no se ve reflejado en seguimiento despacho
+
+
+Todo en uno
+
+Un solo flujo para la misma guía
+
+
+
