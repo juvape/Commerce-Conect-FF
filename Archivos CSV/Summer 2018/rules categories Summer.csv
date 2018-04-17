@@ -1,0 +1,2 @@
+code,status,option,if.join_by,if.condition.product_code,if.condition.saya_occasion,if.then.category_path
+1,active,add,and,1233XTW02,ACCESORIES BAG,default: ACCESORIES
