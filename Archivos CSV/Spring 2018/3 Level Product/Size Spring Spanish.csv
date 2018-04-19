@@ -150,6 +150,6 @@ lv1_code,product_class_name,name,status,brand,attribute.dw_size_code.single_opti
 2118SSF01_wine_sm,Size,2118SSF01_wine_sm,active,Maaji,PEQUEÑO,7702781002800,PEQUEÑO,105000,COP Price
 2118SSF01_wine_md,Size,2118SSF01_wine_md,active,Maaji,MEDIO,7702781002817,MEDIO,105000,COP Price
 2118SSF01_wine_lg,Size,2118SSF01_wine_lg,active,Maaji,GRANDE,7702781002824,GRANDE,105000,COP Price
-2118SSF01_wine_sm,Size,2118SSF01_wine_sm,active,Maaji,PEQUEÑO,7.70278E+12,PEQUEÑO,105000,COP Price
-2118SSF01_wine_md,Size,2118SSF01_wine_md,active,Maaji,MEDIO,7.70278E+12,MEDIO,105000,COP Price
-2118SSF01_wine_lg,Size,2118SSF01_wine_lg,active,Maaji,GRANDE,7.70278E+12,GRANDE,105000,COP Price
+2118SSF01_wine_sm,Size,2118SSF01_wine_sm,active,Maaji,PEQUEÑO,770278000000000000,PEQUEÑO,105000,COP Price
+2118SSF01_wine_md,Size,2118SSF01_wine_md,active,Maaji,MEDIO,770278000000000000,MEDIO,105000,COP Price
+2118SSF01_wine_lg,Size,2118SSF01_wine_lg,active,Maaji,GRANDE,770278000000000000,GRANDE,105000,COP Price
