@@ -1,5 +1,5 @@
-lv1_code,product_class_name,name,status,attribute.saya_product_status.string,brand,attribute.country_of_origin.string,attribute.co_online.boolean,attribute.us_online.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.description.html,attribute.dw_size_code.single_option,attribute.fabric_care.text,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_group.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,imag3.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,image.7.url,image.7.description,image.7.is_primary,image.7.url,image.7.description,image.7.is_primary,group_member_code
-3045SFT01-JUNEBERRY FLIRT,Sets,JUNEBERRY DELIGHTFUL-JUNEBERRY FLIRT,active,active,Maaji,Colombia,1,1,,"Entrega
+lv1_code,product_class_name,name,status,attribute.saya_product_status.string,brand,attribute.country_of_origin.string,attribute.co_online.boolean,attribute.us_online.boolean,attribute.cup_size.single_option,category.1.path,category.1.category_set,category.2.path,category.2.category_set,category.3.path,category.3.category_set,category.4.path,category.4.category_set,category.5.path,category.5.category_set,attribute.delivery_returns.text,attribute.description.html,attribute.dw_size_code.single_option,attribute.fabric_care.text,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_group.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,imag3.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,image.7.url,image.7.description,image.7.is_primary,image.7.url,image.7.description,image.7.is_primary,group_member_code
+3045SFT01-JUNEBERRY FLIRT,Sets,JUNEBERRY DELIGHTFUL-JUNEBERRY FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -21,7 +21,7 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>JUNEBERRY DELIGHTFUL-JUNEBERRY FLIRT</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524070489/Spring2018/3045SFT01_3039SBC02_purple_3.jpg,3045SFT01_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524070490/Spring2018/3045SFT01_3039SBC02_purple_4.jpg,3045SFT01_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524070490/Spring2018/3045SFT01_3039SBC02_purple_5.jpg,3045SFT01_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524070489/Spring2018/3045SFT01_3039SBC02_purple_6.jpg,3045SFT01_JUNEBERRY_FLIRT,,,,,,,,,,,,,,3045SFT01|JUNEBERRY FLIRT
-3046SHN01-JUNEBERRY SUBLIME,Sets,JUNEBERRY JAZZY-JUNEBERRY SUBLIME,active,active,Maaji,Colombia,1,1,,"Entrega
+3046SHN01-JUNEBERRY SUBLIME,Sets,JUNEBERRY JAZZY-JUNEBERRY SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -43,7 +43,7 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>JUNEBERRY JAZZY-JUNEBERRY SUBLIME</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524074231/Spring2018/3046SHN01_3007SAC03_purple_3.jpg,3046SHN01_JUNEBERRY_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524074230/Spring2018/3046SHN01_3007SAC03_purple_4.jpg,3046SHN01_JUNEBERRY_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524074232/Spring2018/3046SHN01_3007SAC03_purple_5.jpg,3046SHN01_JUNEBERRY_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524074231/Spring2018/3046SHN01_3007SAC03_purple_6.jpg,3046SHN01_JUNEBERRY_SUBLIME,,,,,,,,,,,,,,3046SHN01|JUNEBERRY SUBLIME
-3012SFH02-JUNEBERRY FLIRT,Sets,JUNEBERRY ALLURE-JUNEBERRY FLIRT,active,active,Maaji,Colombia,1,1,,"Entrega
+3012SFH02-JUNEBERRY FLIRT,Sets,JUNEBERRY ALLURE-JUNEBERRY FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -65,7 +65,7 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>JUNEBERRY ALLURE-JUNEBERRY FLIRT</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524075147/Spring2018/3012SFH02_3039SBC02_purple_3.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075149/Spring2018/3012SFH02_3039SBC02_purple_4.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075149/Spring2018/3012SFH02_3039SBC02_purple_5.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075146/Spring2018/3012SFH02_3039SBC02_purple_6.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075145/Spring2018/3012SFH02_3039SBC02_purple_7.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075146/Spring2018/3012SFH02_3039SBC02_purple_8.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075146/Spring2018/3012SFH02_3039SBC02_purple_9.jpg,3012SFH02_JUNEBERRY_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1524075147/Spring2018/3012SFH02_3039SBC02_purple_10.jpg,3012SFH02_JUNEBERRY_FLIRT,,3012SFH02|JUNEBERRY FLIRT
-3049SFA01-CINNAMON SUBLIME,Sets,CINNAMON DIVINE-CINNAMON SUBLIME,active,active,Maaji,Colombia,1,1,,"Entrega
+3049SFA01-CINNAMON SUBLIME,Sets,CINNAMON DIVINE-CINNAMON SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -86,7 +86,7 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>CINNAMON DIVINE-CINNAMON SUBLIME</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524077099/Spring2018/3049SFA01_3007SAC04_red_3.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077101/Spring2018/3049SFA01_3007SAC04_red_4.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077103/Spring2018/3049SFA01_3007SAC04_red_5.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077098/Spring2018/3049SFA01_3007SAC04_red_6.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077095/Spring2018/3049SFA01_3007SAC04_red_7.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077091/Spring2018/3049SFA01_3007SAC04_red_8.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077096/Spring2018/3049SFA01_3007SAC04_red_9.jpg,3049SFA01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524077098/Spring2018/3049SFA01_3007SAC04_red_10.jpg,3049SFA01_CINNAMON_SUBLIME,,3049SFA01|CINNAMON SUBLIME
-3047SFH01-CINNAMON SUBLIME,Sets,CINNAMON SANDCASTLE-CINNAMON SUBLIME,active,active,Maaji,Colombia,1,1,,"Entrega
+3047SFH01-CINNAMON SUBLIME,Sets,CINNAMON SANDCASTLE-CINNAMON SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -109,7 +109,7 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>CINNAMON SANDCASTLE-CINNAMON SUBLIME</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524082500/Spring2018/3047SFH01_3007SAC04_red_3.jpg,3047SFH01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524082500/Spring2018/3047SFH01_3007SAC04_red_4.jpg,3047SFH01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524082500/Spring2018/3047SFH01_3007SAC04_red_5.jpg,3047SFH01_CINNAMON_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524082500/Spring2018/3047SFH01_3007SAC04_red_6.jpg,3047SFH01_CINNAMON_SUBLIME,,,,,,,,,,,,,,3047SFH01|CINNAMON SUBLIME
-3048SUN01-CINNAMON SUNNY,Sets,CINNAMON LOVELY-CINNAMON SUNNY,active,active,Maaji,Colombia,1,1,,"Entrega
+3048SUN01-CINNAMON SUNNY,Sets,CINNAMON LOVELY-CINNAMON SUNNY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -130,7 +130,7 @@ Amarre en costados
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>CINNAMON LOVELY-CINNAMON SUNNY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524083083/Spring2018/3048SUN01_3044SBC01_red_3.jpg,3048SUN01_CINNAMON_SUNNY,,https://res.cloudinary.com/maaji/image/upload/v1524083084/Spring2018/3048SUN01_3044SBC01_red_4.jpg,3048SUN01_CINNAMON_SUNNY,,https://res.cloudinary.com/maaji/image/upload/v1524083084/Spring2018/3048SUN01_3044SBC01_red_5.jpg,3048SUN01_CINNAMON_SUNNY,,https://res.cloudinary.com/maaji/image/upload/v1524083084/Spring2018/3048SUN01_3044SBC01_red_6.jpg,3048SUN01_CINNAMON_SUNNY,,,,,,,,,,,,,,3048SUN01|CINNAMON SUNNY
-2115SSE01-BRISTLE GARDENS,Sets,BRISTLE GARDENS-BRISTLE GARDENS,active,active,Maaji,Colombia,1,1,,"Entrega
+2115SSE01-BRISTLE GARDENS,Sets,BRISTLE GARDENS-BRISTLE GARDENS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -152,7 +152,7 @@ Amarre en costados
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>BRISTLE GARDENS-BRISTLE GARDENS</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524083882/Spring2018/2115SSE01_2116SBC01_purple_3.jpg,2115SSE01_BRISTLE_GARDENS,,https://res.cloudinary.com/maaji/image/upload/v1524083882/Spring2018/2115SSE01_2116SBC01_purple_4.jpg,2115SSE01_BRISTLE_GARDENS,,,,,,,,,,,,,,,,,,,,2115SSE01|BRISTLE GARDENS
-2117SSP01-ROSE VELVET,Sets,ROSE VELVET-ROSE VELVET,active,active,Maaji,Colombia,1,1,,"Entrega
+2117SSP01-ROSE VELVET,Sets,ROSE VELVET-ROSE VELVET,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -173,7 +173,7 @@ Reversible
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>ROSE VELVET-ROSE VELVET</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524084400/Spring2018/2117SSP01_1930SBC01_purple_3.jpg,2117SSP01_ROSE_VELVET,,https://res.cloudinary.com/maaji/image/upload/v1524084400/Spring2018/2117SSP01_1930SBC01_purple_4.jpg,2117SSP01_ROSE_VELVET,,,,,,,,,,,,,,,,,,,,2117SSP01|ROSE VELVET
-1916SFH02-ARUSI MERLOT,Sets,ARUSI MERLOT-ARUSI MERLOT,active,active,Maaji,Colombia,1,1,,"Entrega
+1916SFH02-ARUSI MERLOT,Sets,ARUSI MERLOT-ARUSI MERLOT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -194,7 +194,7 @@ Reversible
 Tiro bajo
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>ARUSI MERLOT-ARUSI MERLOT</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524086700/Spring2018/1916SFH02_2120SAC01_purple_3.jpg,1916SFH02_ARUSI_MERLOT,,https://res.cloudinary.com/maaji/image/upload/v1524086701/Spring2018/1916SFH02_2120SAC01_purple_4.jpg,1916SFH02_ARUSI_MERLOT,,,,,,,,,,,,,,,,,,,,1916SFH02|ARUSI MERLOT
-2113SFT01-CINNAMON ATTILA,Sets,CINNAMON ATTILA-CINNAMON ATTILA,active,active,Maaji,Colombia,1,1,,"Entrega
+2113SFT01-CINNAMON ATTILA,Sets,CINNAMON ATTILA-CINNAMON ATTILA,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -216,7 +216,7 @@ Ajustable en costados
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>CINNAMON ATTILA-CINNAMON ATTILA</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524087353/Spring2018/2113SFT01_2114SBC01_purple_3.jpg,2113SFT01_CINNAMON_ATTILA,,https://res.cloudinary.com/maaji/image/upload/v1524087351/Spring2018/2113SFT01_2114SBC01_purple_4.jpg,2113SFT01_CINNAMON_ATTILA,,,,,,,,,,,,,,,,,,,,2113SFT01|CINNAMON ATTILA
-2021SFA02-CUMBIA SOCIETY,Sets,CUMBIA SOCIETY-CUMBIA SOCIETY,active,active,Maaji,Colombia,1,1,,"Entrega
+2021SFA02-CUMBIA SOCIETY,Sets,CUMBIA SOCIETY-CUMBIA SOCIETY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -238,7 +238,7 @@ Reversible
 Low Rise
 Moderate coverage
 Made in Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>CUMBIA SOCIETY-CUMBIA SOCIETY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524087801/Spring2018/2021SFA02_2110SBC01_purple_3.jpg,2021SFA02_CUMBIA_SOCIETY,,https://res.cloudinary.com/maaji/image/upload/v1524087800/Spring2018/2021SFA02_2110SBC01_purple_4.jpg,2021SFA02_CUMBIA_SOCIETY,,,,,,,,,,,,,,,,,,,,2021SFA02|CUMBIA SOCIETY
-2112SFA01-SCARLET CACIQUE,Sets,SCARLET CACIQUE-SCARLET CACIQUE,active,active,Maaji,Colombia,1,1,,"Entrega
+2112SFA01-SCARLET CACIQUE,Sets,SCARLET CACIQUE-SCARLET CACIQUE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -260,7 +260,7 @@ Ajustable en costados
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>SCARLET CACIQUE-SCARLET CACIQUE</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524088319/Spring2018/2112SFA01_2041SAC01_purple_3.jpg,2112SFA01_SCARLET_CACIQUE,,https://res.cloudinary.com/maaji/image/upload/v1524088319/Spring2018/2112SFA01_2041SAC01_purple_4.jpg,2112SFA01_SCARLET_CACIQUE,,,,,,,,,,,,,,,,,,,,2112SFA01|SCARLET CACIQUE
-3046SHN01-BORDEAUX WAVES,Sets,JUNEBERRY JAZZY-BORDEAUX WAVES,active,active,Maaji,Colombia,1,1,,"Entrega
+3046SHN01-BORDEAUX WAVES,Sets,JUNEBERRY JAZZY-BORDEAUX WAVES,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -279,7 +279,7 @@ Hecho en Colombia
 BOTTOM:
 Fajón ancho
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>JUNEBERRY JAZZY-BORDEAUX WAVES</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524088891/Spring2018/3046SHN01_2118SSF01_purple_3.jpg,3046SHN01_BORDEAUX_WAVES,,https://res.cloudinary.com/maaji/image/upload/v1524088889/Spring2018/3046SHN01_2118SSF01_purple_4.jpg,3046SHN01_BORDEAUX_WAVES,,,,,,,,,,,,,,,,,,,,3046SHN01|2118SSF01
-2115SSE01-BABY FINLEY,Sets,BRISTLE GARDENS-BABY FINLEY,active,active,Maaji,Colombia,1,1,,"Entrega
+2115SSE01-BABY FINLEY,Sets,BRISTLE GARDENS-BABY FINLEY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -298,7 +298,7 @@ Hecho en Colombia
 BOTTOM:
 Detalle de puntada laterales
 Abertura lateral",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>BRISTLE GARDENS-BABY FINLEY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524097295/Spring2018/2115SSE01_1464CPA01_purple_1.jpg,2115SSE01_BABY_FINLEY,,https://res.cloudinary.com/maaji/image/upload/v1524097300/Spring2018/2115SSE01_1464CPA01_purple_2.jpg,2115SSE01_BABY_FINLEY,,,,,,,,,,,,,,,,,,,,2115SSE01|1464CPA01
-3045SFT01-BUBBLE GALAXY,Sets,JUNEBERRY DELIGHTFUL-BUBBLE GALAXY,active,active,Maaji,Colombia,1,1,,"Entrega
+3045SFT01-BUBBLE GALAXY,Sets,JUNEBERRY DELIGHTFUL-BUBBLE GALAXY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -317,7 +317,7 @@ Hecho en Colombia
 BOTTOM:
 Pretina elástica
 Bolsillos laterales",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>JUNEBERRY DELIGHTFUL-BUBBLE GALAXY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524098493/Spring2018/3045SFT01_1426CSH01_purple_1.jpg,3045SFT01_BUBBLE_GALAXY,,https://res.cloudinary.com/maaji/image/upload/v1524098496/Spring2018/3045SFT01_1426CSH01_purple_2.jpg,3045SFT01_BUBBLE_GALAXY,,,,,,,,,,,,,,,,,,,,3045SFT01|1426CSH01
-2117SSP01-SEA RAINBOW,Sets,ROSE VELVET-SEA RAINBOW,active,active,Maaji,Colombia,1,1,,"Entrega
+2117SSP01-SEA RAINBOW,Sets,ROSE VELVET-SEA RAINBOW,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -336,7 +336,7 @@ Hecho en Colombia
 BOTTOM:
 Pantalon Jogger
 Bolsillos laterales",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>ROSE VELVET-SEA RAINBOW</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524099770/Spring2018/2117SSP01_1378CPA01_purple_1.jpg,2117SSP01_SEA_RAINBOW,,https://res.cloudinary.com/maaji/image/upload/v1524099769/Spring2018/2117SSP01_1378CPA01_purple_2.jpg,2117SSP01_SEA_RAINBOW,,,,,,,,,,,,,,,,,,,,2117SSP01|1378CPA01
-1520SFH01-STARGAZER SUBLIME,Sets,STARGAZER SWIRL-STARGAZER SUBLIME,active,active,Maaji,Colombia,1,1,,"Entrega
+1520SFH01-STARGAZER SUBLIME,Sets,STARGAZER SWIRL-STARGAZER SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -358,7 +358,7 @@ Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>STARGAZER SWIRL-STARGAZER SUBLIME</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524100348/Spring2018/1520SFH01_3007SDC06_blue_3.jpg,1520SFH01_STARGAZER_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524100351/Spring2018/1520SFH01_3007SDC06_blue_4.jpg,1520SFH01_STARGAZER_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524100352/Spring2018/1520SFH01_3007SDC06_blue_5.jpg,1520SFH01_STARGAZER_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524100347/Spring2018/1520SFH01_3007SDC06_blue_6.jpg,1520SFH01_STARGAZER_SUBLIME,,,,,,,,,,,,,,1520SFH01|STARGAZER SUBLIME
-3053SFA01-STARGAZER ORNATE,Sets,STARGAZER DECK-STARGAZER ORNATE,active,active,Maaji,Colombia,1,1,,"Entrega
+3053SFA01-STARGAZER ORNATE,Sets,STARGAZER DECK-STARGAZER ORNATE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -382,7 +382,7 @@ Tiro bajo
 Detalle de bolero en costados
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>STARGAZER DECK-STARGAZER ORNATE</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524100898/Spring2018/3053SFA01_3052SBC01_blue_3.jpg,3053SFA01_STARGAZER_ORNATE,,https://res.cloudinary.com/maaji/image/upload/v1524100896/Spring2018/3053SFA01_3052SBC01_blue_4.jpg,3053SFA01_STARGAZER_ORNATE,,https://res.cloudinary.com/maaji/image/upload/v1524100901/Spring2018/3053SFA01_3052SBC01_blue_5.jpg,3053SFA01_STARGAZER_ORNATE,,https://res.cloudinary.com/maaji/image/upload/v1524100899/Spring2018/3053SFA01_3052SBC01_blue_6.jpg,3053SFA01_STARGAZER_ORNATE,,,,,,,,,,,,,,3053SFA01|STARGAZER ORNATE
-3054SFA01-STARGAZER CASCADE,Sets,STARGAZER DAZZLING-STARGAZER CASCADE,active,active,Maaji,Colombia,1,1,,"Entrega
+3054SFA01-STARGAZER CASCADE,Sets,STARGAZER DAZZLING-STARGAZER CASCADE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -404,7 +404,7 @@ Costuras invisibles
 Corte retro de pierna alta
 Poco cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>STARGAZER DAZZLING-STARGAZER CASCADE</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524101352/Spring2018/3054SFA01_3008SCC01_blue_3.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101347/Spring2018/3054SFA01_3008SCC01_blue_4.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101346/Spring2018/3054SFA01_3008SCC01_blue_5.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101362/Spring2018/3054SFA01_3008SCC01_blue_6.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101358/Spring2018/3054SFA01_3008SCC01_blue_7.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101356/Spring2018/3054SFA01_3008SCC01_blue_8.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101367/Spring2018/3054SFA01_3008SCC01_blue_9.jpg,3054SFA01_STARGAZER_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1524101369/Spring2018/3054SFA01_3008SCC01_blue_10.jpg,3054SFA01_STARGAZER_CASCADE,,3054SFA01|STARGAZER CASCADE
-3049SFA02-HERITAGE SUBLIME,Sets,HERITAGE DEVOTION-HERITAGE SUBLIME,active,active,Maaji,Colombia,1,1,,"Entrega
+3049SFA02-HERITAGE SUBLIME,Sets,HERITAGE DEVOTION-HERITAGE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -424,7 +424,7 @@ Reversible
 Tiro bajo
 Poco cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>HERITAGE DEVOTION-HERITAGE SUBLIME</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524101934/Spring2018/3049SFA02_3007SBC05_blue_3.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101956/Spring2018/3049SFA02_3007SBC05_blue_4.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101954/Spring2018/3049SFA02_3007SBC05_blue_5.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101957/Spring2018/3049SFA02_3007SBC05_blue_6.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101957/Spring2018/3049SFA02_3007SBC05_blue_7.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101965/Spring2018/3049SFA02_3007SBC05_blue_8.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101942/Spring2018/3049SFA02_3007SBC05_blue_9.jpg,3049SFA02_HERITAGE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524101963/Spring2018/3049SFA02_3007SBC05_blue_10.jpg,3049SFA02_HERITAGE_SUBLIME,,3049SFA02|HERITAGE SUBLIME
-3051SSE01-HERITAGE RENDEZVOUS,Sets,HERITAGE GOSSIP-HERITAGE RENDEZVOUS,active,active,Maaji,Colombia,1,1,,"Entrega
+3051SSE01-HERITAGE RENDEZVOUS,Sets,HERITAGE GOSSIP-HERITAGE RENDEZVOUS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -447,7 +447,7 @@ Tiro bajo
 Ajustable en costados
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>HERITAGE GOSSIP-HERITAGE RENDEZVOUS</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524103094/Spring2018/3051SSE01_3013SBC02_blue_3.jpg,3051SSE01_HERITAGE_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1524102403/Spring2018/3051SSE01_3013SBC02_blue_4.jpg,3051SSE01_HERITAGE_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1524102408/Spring2018/3051SSE01_3013SBC02_blue_5.jpg,3051SSE01_HERITAGE_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1524102408/Spring2018/3051SSE01_3013SBC02_blue_6.jpg,3051SSE01_HERITAGE_RENDEZVOUS,,,,,,,,,,,,,,3051SSE01|HERITAGE RENDEZVOUS
-2121SHN01-ANDES FOLIAGE,Sets,ANDES FOLIAGE-ANDES FOLIAGE,active,active,Maaji,Colombia,1,1,,"Entrega
+2121SHN01-ANDES FOLIAGE,Sets,ANDES FOLIAGE-ANDES FOLIAGE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -468,7 +468,7 @@ Reversible
 Tiro bajo
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>ANDES FOLIAGE-ANDES FOLIAGE</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524144444/Spring2018/2121SHN01_2047SBC02_blue_3.jpg,2121SHN01_ANDES_FOLIAGE,,https://res.cloudinary.com/maaji/image/upload/v1524144445/Spring2018/2121SHN01_2047SBC02_blue_4.jpg,2121SHN01_ANDES_FOLIAGE,,,,,,,,,,,,,,,,,,,,2121SHN01|ANDES FOLIAGE
-2033SUN01-SEASHELLS NIGHTS,Sets,SEASHELLS NIGHTS-SEASHELLS NIGHTS,active,active,Maaji,Colombia,1,1,,"Entrega
+2033SUN01-SEASHELLS NIGHTS,Sets,SEASHELLS NIGHTS-SEASHELLS NIGHTS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -489,7 +489,7 @@ Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>SEASHELLS NIGHTS-SEASHELLS NIGHTS</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524146017/Spring2018/2033SUN01_1943SBC01_blue_3.jpg,2033SUN01_SEASHELLS_NIGHTS,,https://res.cloudinary.com/maaji/image/upload/v1524146018/Spring2018/2033SUN01_1943SBC01_blue_4.jpg,2033SUN01_SEASHELLS_NIGHTS,,,,,,,,,,,,,,,,,,,,2033SUN01|SEASHELLS NIGHTS
-1929SFA02-FESTIVE COQUETTE,Sets,FESTIVE COQUETTE-FESTIVE COQUETTE,active,active,Maaji,Colombia,1,1,,"Entrega
+1929SFA02-FESTIVE COQUETTE,Sets,FESTIVE COQUETTE-FESTIVE COQUETTE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -508,7 +508,7 @@ Reversible
 Tiro bajo
 Poco cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>FESTIVE COQUETTE-FESTIVE COQUETTE</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524146495/Spring2018/1929SFA02_2062SBC03_blue_3.jpg,1929SFA02_FESTIVE_COQUETTE,,https://res.cloudinary.com/maaji/image/upload/v1524146495/Spring2018/1929SFA02_2062SBC03_blue_4.jpg,1929SFA02_FESTIVE_COQUETTE,,,,,,,,,,,,,,,,,,,,1929SFA02|FESTIVE COQUETTE
-2125SSP01-GORGONA FOREST,Sets,GORGONA FOREST-GORGONA FOREST,active,active,Maaji,Colombia,1,1,,"Entrega
+2125SSP01-GORGONA FOREST,Sets,GORGONA FOREST-GORGONA FOREST,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -528,7 +528,7 @@ Reversible
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>GORGONA FOREST-GORGONA FOREST</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524146933/Spring2018/2125SSP01_2126SDC01_blue_3.jpg,2125SSP01_GORGONA_FOREST,,https://res.cloudinary.com/maaji/image/upload/v1524146932/Spring2018/2125SSP01_2126SDC01_blue_4.jpg,2125SSP01_GORGONA_FOREST,,,,,,,,,,,,,,,,,,,,2125SSP01|GORGONA FOREST
-2113SFT02-PALOMINO SKY,Sets,PALOMINO SKY-PALOMINO SKY,active,active,Maaji,Colombia,1,1,,"Entrega
+2113SFT02-PALOMINO SKY,Sets,PALOMINO SKY-PALOMINO SKY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -549,7 +549,7 @@ Reversible
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>PALOMINO SKY-PALOMINO SKY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524147366/Spring2018/2113SFT02_2062SDC02_blue_3.jpg,2113SFT02_PALOMINO_SKY,,https://res.cloudinary.com/maaji/image/upload/v1524147365/Spring2018/2113SFT02_2062SDC02_blue_4.jpg,2113SFT02_PALOMINO_SKY,,,,,,,,,,,,,,,,,,,,2113SFT02|PALOMINO SKY
-2127SFH01-COCONUT VALLEY,Sets,COCONUT VALLEY-COCONUT VALLEY,active,active,Maaji,Colombia,1,1,,"Entrega
+2127SFH01-COCONUT VALLEY,Sets,COCONUT VALLEY-COCONUT VALLEY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -571,7 +571,7 @@ Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>COCONUT VALLEY-COCONUT VALLEY</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524147747/Spring2018/2127SFH01_2120SBC02_blue_3.jpg,2127SFH01_COCONUT_VALLEY,,https://res.cloudinary.com/maaji/image/upload/v1524147748/Spring2018/2127SFH01_2120SBC02_blue_4.jpg,2127SFH01_COCONUT_VALLEY,,,,,,,,,,,,,,,,,,,,2127SFH01|COCONUT VALLEY
-2128SFA01-DENIM COLOMBIA,Sets,DENIM COLOMBIA-DENIM COLOMBIA,active,active,Maaji,Colombia,1,1,,"Entrega
+2128SFA01-DENIM COLOMBIA,Sets,DENIM COLOMBIA-DENIM COLOMBIA,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -591,7 +591,7 @@ Reversible
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>DENIM COLOMBIA-DENIM COLOMBIA</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524149233/Spring2018/2128SFA01_2043SCC01_blue_3.jpg,2128SFA01_DENIM_COLOMBIA,,https://res.cloudinary.com/maaji/image/upload/v1524149232/Spring2018/2128SFA01_2043SCC01_blue_4.jpg,2128SFA01_DENIM_COLOMBIA,,https://res.cloudinary.com/maaji/image/upload/v1524149232/Spring2018/2128SFA01_2043SCC01_blue_7.jpg,2128SFA01_DENIM_COLOMBIA,,https://res.cloudinary.com/maaji/image/upload/v1524149233/Spring2018/2128SFA01_2043SCC01_blue_8.jpg,2128SFA01_DENIM_COLOMBIA,,,,,,,,,,,,,,2128SFA01|DENIM COLOMBIA
-2129SBA01-AMAZON RIVER,Sets,AMAZON RIVER-AMAZON RIVER,active,active,Maaji,Colombia,1,1,,"Entrega
+2129SBA01-AMAZON RIVER,Sets,AMAZON RIVER-AMAZON RIVER,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -609,7 +609,7 @@ Buen cubrimiento en delantero
 Hecho en Colombia
 
 BOTTOM:",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>AMAZON RIVER-AMAZON RIVER</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524149686/Spring2018/2129SBA01_2130SCC01_blue_3.jpg,2129SBA01_AMAZON_RIVER,,https://res.cloudinary.com/maaji/image/upload/v1524149686/Spring2018/2129SBA01_2130SCC01_blue_4.jpg,2129SBA01_AMAZON_RIVER,,https://res.cloudinary.com/maaji/image/upload/v1524149687/Spring2018/2129SBA01_2130SCC01_blue_7.jpg,2129SBA01_AMAZON_RIVER,,https://res.cloudinary.com/maaji/image/upload/v1524149687/Spring2018/2129SBA01_2130SCC01_blue_8.jpg,2129SBA01_AMAZON_RIVER,,,,,,,,,,,,,,2129SBA01|AMAZON RIVER
-2128SFA01-CUTIE ARMADILLO,Sets,DENIM COLOMBIA-CUTIE ARMADILLO,active,active,Maaji,Colombia,1,1,,"Entrega
+2128SFA01-CUTIE ARMADILLO,Sets,DENIM COLOMBIA-CUTIE ARMADILLO,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
@@ -633,7 +633,7 @@ Lavar al revés.
 No usar blanqueador.
 No lavar en agua caliente. 
 No usar vinagre",,,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,SPRING 2018,COLOMBIA,,<h4>DENIM COLOMBIA-CUTIE ARMADILLO</h4>,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524150586/Spring2018/2128SFA01_1469CKS01_blue_3.jpg,2128SFA01_CUTIE_ARMADILLO,,https://res.cloudinary.com/maaji/image/upload/v1524150585/Spring2018/2128SFA01_1469CKS01_blue_4.jpg,2128SFA01_CUTIE_ARMADILLO,,,,,,,,,,,,,,,,,,,,2128SFA01|1469CKS01
-1467CCT01-ELEPHANT SEAL,Sets,COOKIECUTTER SHARK-ELEPHANT SEAL,active,active,Maaji,Colombia,1,1,,"Entrega
+1467CCT01-ELEPHANT SEAL,Sets,COOKIECUTTER SHARK-ELEPHANT SEAL,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
 Devoluciones
