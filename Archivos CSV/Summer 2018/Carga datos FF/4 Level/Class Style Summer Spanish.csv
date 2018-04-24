@@ -1,4 +1,4 @@
-lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.page_url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,image.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,attribute.saya_tariff_code.string,variation_children_code
+lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.page_url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,image.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,attribute.saya_tariff_code.string,variation_children_code
 SHIMMERING COGNAC SUBLIME,4 Level Product Style,SHIMMERING COGNAC SUBLIME,active,Maaji,0,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -10,7 +10,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SHIMMERING COGNAC SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,SHIMMERING COGNAC SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SHIMMERING COGNAC SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,SHIMMERING COGNAC SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -26,7 +37,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",DAHLIA RENDEZVOUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Ajustable en costados<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,DAHLIA RENDEZVOUS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",DAHLIA RENDEZVOUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Ajustable en costados<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,DAHLIA RENDEZVOUS,"Reversible
 Costuras invisibles
 Tiro bajo
 Ajustable en costados
@@ -43,7 +65,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",DAHLIA SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,DAHLIA SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",DAHLIA SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,DAHLIA SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -59,7 +92,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",CAPE LA VELA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Detalle de ojalates y amarre en delantero<br/>Espalda cruzada ajustable<br/>Corte clásico<br/>Hecho en Colombia</p>,CAPE LA VELA,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",CAPE LA VELA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Detalle de ojalates y amarre en delantero<br/>Espalda cruzada ajustable<br/>Corte clásico<br/>Hecho en Colombia</p>,CAPE LA VELA,"Reversible
 Entero de escote profundo
 Detalle de ojalates y amarre en delantero
 Espalda cruzada ajustable
@@ -77,7 +121,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",GUAJIRA PARK,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GUAJIRA PARK,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",GUAJIRA PARK,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GUAJIRA PARK,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -93,7 +148,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",RED LEAVES,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,RED LEAVES,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",RED LEAVES,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,RED LEAVES,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -109,7 +175,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",CURUBA TROPICA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,CURUBA TROPICA,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",CURUBA TROPICA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,CURUBA TROPICA,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -125,7 +202,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",CORAL REEF TOUCAN,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,CORAL REEF TOUCAN,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",CORAL REEF TOUCAN,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,CORAL REEF TOUCAN,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -141,7 +229,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",FLOWERY KNOTS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,FLOWERY KNOTS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",FLOWERY KNOTS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,FLOWERY KNOTS,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -157,7 +256,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",ANDALUSIA FRILLS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Detalle de boleros en costados<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,ANDALUSIA FRILLS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",ANDALUSIA FRILLS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Detalle de boleros en costados<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,ANDALUSIA FRILLS,"Reversible
 Costuras invisibles
 Tiro bajo
 Detalle de boleros en costados
@@ -174,7 +284,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",WAYUU ALLURE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,WAYUU ALLURE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",WAYUU ALLURE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,WAYUU ALLURE,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -190,7 +311,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",METEORITE COLOMBIA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,METEORITE COLOMBIA,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",METEORITE COLOMBIA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,METEORITE COLOMBIA,"Reversible
 Entero de escote profundo
 corte retro de pierna alta
 Espalda cruzada que ajusta hombros y espalda
@@ -206,7 +338,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",METEORITE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,METEORITE SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",METEORITE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,METEORITE SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -222,7 +365,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",METEORITE FLIRT,<br/>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,METEORITE FLIRT,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",METEORITE FLIRT,<br/>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,METEORITE FLIRT,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -238,7 +392,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",AFTERLIFE ISLAND,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,AFTERLIFE ISLAND,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",AFTERLIFE ISLAND,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,AFTERLIFE ISLAND,"Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
@@ -254,7 +419,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SPANISH EXPLORER,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,SPANISH EXPLORER,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SPANISH EXPLORER,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,SPANISH EXPLORER,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -270,7 +446,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",PUNTA BAY,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de manga larga<br/>Espalda con escote profundo<br/>Made in Colombia</p>,PUNTA BAY,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",PUNTA BAY,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de manga larga<br/>Espalda con escote profundo<br/>Made in Colombia</p>,PUNTA BAY,"Reversible
 Entero de manga larga
 Espalda con escote profundo
 Made in Colombia",,,,Nuestra modelo usa talla colombiana: TALLA PEQUEÑA,,Colombia,SUMMER 2018,COLOMBIA,87% POLIAMIDA 13% ELASTANO,NEGRO,SWIMWEAR,PUNTA BAY,MUJERES,active,2018,https://res.cloudinary.com/maaji/image/upload/v1517522455/Summer2018/2122SOB02_2122SOC02_black_3.jpg,2122SOB02_black_3,,https://res.cloudinary.com/maaji/image/upload/v1517522456/Summer2018/2122SOB02_2122SOC02_black_4.jpg,2122SOC02_black_4,,,,,,,,,,,,,,61.12.41.00.00,2122SOB02|2122SOC02
@@ -285,7 +472,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",BUMPY ROADS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,BUMPY ROADS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",BUMPY ROADS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,BUMPY ROADS,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -301,7 +499,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",NIGHLTY OASIS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,NIGHLTY OASIS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",NIGHLTY OASIS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,NIGHLTY OASIS,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -317,7 +526,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",GARDEN PILOT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GARDEN PILOT,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",GARDEN PILOT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GARDEN PILOT,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -333,7 +553,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",GULF OF PARIA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GULF OF PARIA,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",GULF OF PARIA,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,GULF OF PARIA,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -349,7 +580,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",PEARL PROVINCE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,PEARL PROVINCE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",PEARL PROVINCE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,PEARL PROVINCE,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -365,7 +607,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",MEDITERRANEAN BLUE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor Cubrimiento<br/>Hecho en Colombia</p>,MEDITERRANEAN BLUE SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",MEDITERRANEAN BLUE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor Cubrimiento<br/>Hecho en Colombia</p>,MEDITERRANEAN BLUE SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor Cubrimiento
@@ -381,7 +634,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",MEDITERRANEAN BLUE FLIRT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento <br/>Hecho en Colombia</p>,MEDITERRANEAN BLUE FLIRT,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",MEDITERRANEAN BLUE FLIRT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento <br/>Hecho en Colombia</p>,MEDITERRANEAN BLUE FLIRT,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
@@ -397,7 +661,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",BALLERINA ORNATE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Detalle de bolero en costados<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,BALLERINA ORNATE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",BALLERINA ORNATE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Detalle de bolero en costados<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,BALLERINA ORNATE,"Reversible
 Costuras invisibles
 Tiro bajo
 Detalle de bolero en costados
@@ -414,7 +689,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",BALLERINA SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,BALLERINA SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",BALLERINA SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,BALLERINA SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -430,7 +716,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",ARAWAKS ROCKS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,ARAWAKS ROCKS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",ARAWAKS ROCKS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,ARAWAKS ROCKS,"Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
@@ -446,7 +743,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",RALLY RACERS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,RALLY RACERS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",RALLY RACERS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,RALLY RACERS,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -462,7 +770,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",HIDDEN LAGOON,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,HIDDEN LAGOON,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",HIDDEN LAGOON,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,HIDDEN LAGOON,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -478,7 +797,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SUNNY RIDES,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Detalle de crocheta en los costados<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SUNNY RIDES,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SUNNY RIDES,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Detalle de crocheta en los costados<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SUNNY RIDES,"Reversible
 Costuras invisibles
 Detalle de crocheta en los costados
 Tiro bajo
@@ -495,7 +825,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",AMERICAN FLAMINGOS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento <br/>Hecho en Colombia</p>,AMERICAN FLAMINGOS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",AMERICAN FLAMINGOS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento <br/>Hecho en Colombia</p>,AMERICAN FLAMINGOS,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
@@ -511,7 +852,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",RIOHACHA VILLAGE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,RIOHACHA VILLAGE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",RIOHACHA VILLAGE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,RIOHACHA VILLAGE,"Reversible
 Entero de escote profundo
 Corte retro de pierna alta
 Espalda cruzada que ajusta hombros y espalda
@@ -527,7 +879,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",WHEELS AND FRILLS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,WHEELS AND FRILLS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",WHEELS AND FRILLS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,WHEELS AND FRILLS,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -543,7 +906,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",BLUE CACIQUE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,BLUE CACIQUE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",BLUE CACIQUE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,BLUE CACIQUE,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
@@ -559,7 +933,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SAND STONE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SAND STONE SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SAND STONE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SAND STONE SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -575,7 +960,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SAND STONE RENDEZVOUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Ajustable en costados<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SAND STONE RENDEZVOUS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SAND STONE RENDEZVOUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Ajustable en costados<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,SAND STONE RENDEZVOUS,"Reversible
 Costuras invisibles
 Ajustable en costados
 Tiro bajo
@@ -592,7 +988,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",MAUVE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,MAUVE SUBLIME,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",MAUVE SUBLIME,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,MAUVE SUBLIME,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -608,7 +1015,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",MAUVE FLIRT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,MAUVE FLIRT,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",MAUVE FLIRT,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,MAUVE FLIRT,"Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
@@ -624,7 +1042,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",DESERT COMMAND,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Manga de boleros<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,DESERT COMMAND,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",DESERT COMMAND,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de escote profundo<br/>Corte retro de pierna alta<br/>Manga de boleros<br/>Espalda cruzada que ajusta hombros y espalda<br/>Hecho en Colombia</p>,DESERT COMMAND,"Reversible
 Entero de escote profundo
 Corte retro de pierna alta
 Manga de boleros
@@ -641,7 +1070,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SUNDOWN SOCIETY,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,SUNDOWN SOCIETY,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SUNDOWN SOCIETY,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,SUNDOWN SOCIETY,"Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
@@ -657,7 +1097,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",TEMPO DUSK,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,TEMPO DUSK,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",TEMPO DUSK,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,TEMPO DUSK,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -673,7 +1124,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SECOND NATURE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,SECOND NATURE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SECOND NATURE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Poco cubrimiento<br/>Hecho en Colombia</p>,SECOND NATURE,"Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
@@ -689,7 +1151,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",SAND MOMENTUM,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de manga larga<br/>Cierre en delantero<br/>Made in Colombia</p>,SAND MOMENTUM,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",SAND MOMENTUM,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Entero de manga larga<br/>Cierre en delantero<br/>Made in Colombia</p>,SAND MOMENTUM,"Reversible
 Entero de manga larga
 Cierre en delantero
 Made in Colombia",,,,Nuestra modelo usa talla colombiana: TALLA PEQUEÑA,,Colombia,SUMMER 2018,COLOMBIA,92% POLIAMIDA 8% ELASTANO,ANARANJADO,SWIMWEAR,SAND MOMENTUM,MUJERES,active,2018,https://res.cloudinary.com/maaji/image/upload/v1517522827/Summer2018/2185SOB01_2185SOC01_orange_3.jpg,2185SOC01_orange_3,,https://res.cloudinary.com/maaji/image/upload/v1517522827/Summer2018/2185SOB01_2185SOC01_orange_4.jpg,2185SOC01_orange_4,,,,,,,,,,,,,,61.12.41.00.00,2185SOB01|2185SOC01
@@ -704,7 +1177,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",DOLCE VELOCE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,DOLCE VELOCE,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",DOLCE VELOCE,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,DOLCE VELOCE,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -720,7 +1204,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",CURUBA HIBISCUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,CURUBA HIBISCUS,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",CURUBA HIBISCUS,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Cubrimiento moderado<br/>Hecho en Colombia</p>,CURUBA HIBISCUS,"Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
@@ -736,7 +1231,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a 
 menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es
-adicional a lo requerido por las leyes colombianas de protección al consumidor.",OASIS GARDEN,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,OASIS GARDEN,"Reversible
+adicional a lo requerido por las leyes colombianas de protección al consumidor.","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",OASIS GARDEN,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Corte tipo brasilero<br/>Hecho en Colombia</p>,OASIS GARDEN,"Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero

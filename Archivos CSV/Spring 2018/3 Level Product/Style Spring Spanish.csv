@@ -1,4 +1,4 @@
-lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.keywords.string,attribute.page_url.string,attribute.size_fit.text,attribute.tax_class.string,attribute.short_description.html,category.1.path,category.1.category_set,category.2.path,category.2.category_set,category.3.path,category.3.category_set,category.4.path,category.4.category_set,category.5.path,category.5.category_set,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,attribute.saya_tariff_code.string,variation_children_code
+lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.keywords.string,attribute.page_url.string,attribute.size_fit.text,attribute.tax_class.string,attribute.short_description.html,category.1.path,category.1.category_set,category.2.path,category.2.category_set,category.3.path,category.3.category_set,category.4.path,category.4.category_set,category.5.path,category.5.category_set,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,attribute.saya_tariff_code.string,variation_children_code
 1467CCT01,3 Level Product Style,1467CCT01,active,Maaji,1,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
 
@@ -8,7 +8,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>COOKIECUTTER SHARK</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Crop top<br/>Detalle espalda ajustable <br/>Dos formas de uso</p>,COOKIECUTTER SHARK,"Crop top
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>COOKIECUTTER SHARK</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Crop top<br/>Detalle espalda ajustable <br/>Dos formas de uso</p>,COOKIECUTTER SHARK,"Crop top
 Detalle espalda ajustable
 Dos formas",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > TOPS,default,COVER UPS > TOPS,Maaji_EUR,COVER UPS > TOPS,Maaji_US,COVER UPS > TOPS,Maaji_AU,ROPA DE PLAYA > TOPS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,AZUL,ROPA DE PLAYA,<h4>COOKIECUTTER SHARK</h4>,MUJERES,active,2018,62.11.43.00.00,1467CCT01_blue
 1468CPA01,3 Level Product Style,1468CPA01,active,Maaji,0,0,,"Entrega
@@ -20,7 +31,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>ELEPHANT SEAL</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pantalon elefante<br/>Pretina posterior elástica<BR/>Bolsillos Laterales</p>,ELEPHANT SEAL,"Pantalon elefante
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>ELEPHANT SEAL</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pantalon elefante<br/>Pretina posterior elástica<BR/>Bolsillos Laterales</p>,ELEPHANT SEAL,"Pantalon elefante
 Pretina posterior elástica
 Bolsillos laterales",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > PANTS,default,COVER UPS > PANTS,Maaji_EUR,COVER UPS > PANTS,Maaji_US,COVER UPS > PANTS,Maaji_AU,ROPA DE PLAYA > PANTALONES,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,AZUL,ROPA DE PLAYA,<h4>ELEPHANT SEAL</h4>,MUJERES,active,2018,62.04.69.00.00,1468CPA01_blue
 1470CRO01,3 Level Product Style,1470CRO01,active,Maaji,0,0,,"Entrega
@@ -32,7 +54,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>JUMP KANGAROO</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Romper<br/>Escote en v<br/>Cintura elástica</p>,JUMP KANGAROO,"Romper
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>JUMP KANGAROO</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Romper<br/>Escote en v<br/>Cintura elástica</p>,JUMP KANGAROO,"Romper
 Escote en v
 Cintura elastica",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,AZUL ,ROPA DE PLAYA,<h4>JUMP KANGAROO</h4>,MUJERES,active,2018,62.11.43.00.00,1470CRO01_blue
 1438CSD02,3 Level Product Style,1438CSD02,active,Maaji,0,0,,"Entrega
@@ -44,7 +77,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BABY FINLEY</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Detalle de puntada laterales<br/>Abertura lateral</p>,BABY FINLEY,"Detalle de puntada laterales
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BABY FINLEY</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Detalle de puntada laterales<br/>Abertura lateral</p>,BABY FINLEY,"Detalle de puntada laterales
 Abertura lateral",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > PANTS,default,COVER UPS > PANTS,Maaji_EUR,COVER UPS > PANTS,Maaji_US,COVER UPS > PANTS,Maaji_AU,ROPA DE PLAYA > PANTALONES,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,ROJO,ROPA DE PLAYA,<h4>BABY FINLEY</h4>,MUJERES,active,2018,62.04.59.00.00,1438CSD02_blue
 1464CPA01,3 Level Product Style,1464CPA01,active,Maaji,1,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
@@ -55,7 +99,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>FUNKY TWIST</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Detalle en de  anudar en delantero<br/>Dos formas de uso</p>,FUNKY TWIST,"Vestido corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>FUNKY TWIST</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Detalle en de  anudar en delantero<br/>Dos formas de uso</p>,FUNKY TWIST,"Vestido corto
 Detalle en de  anudar en delantero
 Dos formas de uso",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% RAYON TEJIDO,AZUL,ROPA DE PLAYA,<h4>FUNKY TWIST</h4>,MUJERES,active,2018,62.04.44.00.00,1464CPA01_pink
 1471CSD01,3 Level Product Style,1471CSD01,active,Maaji,0,0,,"Entrega
@@ -67,7 +122,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BISCUIT LION</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Detalle de anudar en la espalda</p>,BISCUIT LION,"Vestido corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BISCUIT LION</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Detalle de anudar en la espalda</p>,BISCUIT LION,"Vestido corto
 Detalle de anudar en la espalda",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,AZUL,ROPA DE PLAYA,<h4>BISCUIT LION</h4>,MUJERES,active,2018,62.04.44.00.00,1471CSD01_blue
 1472CSD01,3 Level Product Style,1472CSD01,active,Maaji,0,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
@@ -78,7 +144,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>SUGAR SWIZZLE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Pretina elástica<br/>Tiras decorativas<br/>Mangas 3/4<br/>Detalle de puntada en escote<br/>Detalle de bordado en espalda</p>,SUGAR SWIZZLE,"Vestido corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>SUGAR SWIZZLE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Pretina elástica<br/>Tiras decorativas<br/>Mangas 3/4<br/>Detalle de puntada en escote<br/>Detalle de bordado en espalda</p>,SUGAR SWIZZLE,"Vestido corto
 Pretina elástica
 Tiras decorativas
 Mangas 3/4
@@ -93,7 +170,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CUTIE ARMADILLO</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Falda corta<br/>Pretina Elastica<br/>Bolsitllos laterales</p>,CUTIE ARMADILLO,"Falda corta
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CUTIE ARMADILLO</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Falda corta<br/>Pretina Elastica<br/>Bolsitllos laterales</p>,CUTIE ARMADILLO,"Falda corta
 Pretina Elastica
 Bolsitllos laterales",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > SKIRTS,default,COVER UPS > SKIRTS,Maaji_EUR,COVER UPS > SKIRTS,Maaji_US,COVER UPS > SKIRTS,Maaji_AU,ROPA DE PLAYA > FALDAS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,AZUL,ROPA DE PLAYA,<h4>CUTIE ARMADILLO</h4>,MUJERES,active,2018,62.04.59.00.00,1469CKS01_blue
 1461CSD01,3 Level Product Style,1461CSD01,active,Maaji,0,0,,"Entrega
@@ -105,7 +193,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BABY GUPPIES</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Sin mangas<br/>Elástico en la espalda<br/>Cargaderas ajustables</p>,BABY GUPPIES,"Vestido corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BABY GUPPIES</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido corto<br/>Sin mangas<br/>Elástico en la espalda<br/>Cargaderas ajustables</p>,BABY GUPPIES,"Vestido corto
 Sin mangas
 Elástico en la espalda
 Cargaderas ajustables",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,ROJO,ROPA DE PLAYA,<h4>BABY GUPPIES</h4>,MUJERES,active,2018,62.04.44.00.00,1461CSD01_pink
@@ -118,7 +217,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>SEA RAINBOW</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pantalon Jogger<br/>Bolsillos laterales</p>,SEA RAINBOW,"Pantalon Jogger
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>SEA RAINBOW</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pantalon Jogger<br/>Bolsillos laterales</p>,SEA RAINBOW,"Pantalon Jogger
 Bolsillos laterales",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > PANTS,default,COVER UPS > PANTS,Maaji_EUR,COVER UPS > PANTS,Maaji_US,COVER UPS > PANTS,Maaji_AU,ROPA DE PLAYA > PANTALONES,Maaji_CO,Colombia,SPRING 2018,COLOMBIA, 88% VISCOSAS 12% NYLON TEJIDO,ROJO,ROPA DE PLAYA,<h4>SEA RAINBOW</h4>,MUJERES,active,2018,62.04.69.00.00,1378CPA01_purple
 1426CSH01,3 Level Product Style,1426CSH01,active,Maaji,0,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
@@ -129,7 +239,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BUBBLE GALAXY</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pretina elástica<br/>Bolsillos laterales</p>,BUBBLE GALAXY,"Pretina elástica
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BUBBLE GALAXY</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Pretina elástica<br/>Bolsillos laterales</p>,BUBBLE GALAXY,"Pretina elástica
 Bolsillos laterales",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > SHORTS,default,COVER UPS > SHORTS,Maaji_EUR,COVER UPS > SHORTS,Maaji_US,COVER UPS > SHORTS,Maaji_AU,ROPA DE PLAYA > SHORTS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,98% NYLON 2% ELASTANO,ROJO,ROPA DE PLAYA,<h4>BUBBLE GALAXY</h4>,MUJERES,active,2018,61.04.63.00.00,1426CSH01_purple
 1463CLD01,3 Level Product Style,1463CLD01,active,Maaji,0,0,,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de entrega dependerán del destino final pero generalmente son de 2 a 3 días hábiles. 
@@ -140,7 +261,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>OPEN SEA</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido largo<br/>Abertura lateral en falda<br/>Escote en V<br/>Cargaderas regulables hechas en rayon</p>,OPEN SEA,"Vestido largo
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>OPEN SEA</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido largo<br/>Abertura lateral en falda<br/>Escote en V<br/>Cargaderas regulables hechas en rayon</p>,OPEN SEA,"Vestido largo
 Abertura lateral en falda
 Escote en V
 Cargaderas regulables hechas en rayon",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,95% NYLON 5% VISCOSA,ROJO,ROPA DE PLAYA,<h4>OPEN SEA</h4>,MUJERES,active,2018,61.04.43.00.00,1463CLD01_purple
@@ -153,7 +285,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>SHINY ANEMONE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido Corto<br/>Ecote en V<br/>Cargaderas fijas<br/>Detalle de espalda ajustable<br/>Dos formas de uso</p>,SHINY ANEMONE,"Vestido Corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>SHINY ANEMONE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido Corto<br/>Ecote en V<br/>Cargaderas fijas<br/>Detalle de espalda ajustable<br/>Dos formas de uso</p>,SHINY ANEMONE,"Vestido Corto
 Ecote en V
 Cargaderas fijas
 Detalle de espalda ajustable
@@ -167,7 +310,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>RED SEASHELLS</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Hombros descubiertos<br/>Escote en V<br/>Cintura ajustable con lazo<br/>Mangas 3/4</p>,RED SEASHELLS,"Hombros descubiertos
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>RED SEASHELLS</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Hombros descubiertos<br/>Escote en V<br/>Cintura ajustable con lazo<br/>Mangas 3/4</p>,RED SEASHELLS,"Hombros descubiertos
 Escote en V
 Cintura ajustable con lazo
 Mangas 3/4",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,100% VISCOSA TEJIDA,ROJO,ROPA DE PLAYA,<h4>RED SEASHELLS</h4>,MUJERES,active,2018,62.11.43.00.00,1465CRO01_purple
@@ -180,7 +334,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>VIOLET ECLIPSE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido Corto<br/>Escote en V<br/>Bordado en espalda<br/>Cargaderas ajustables hechas en rayon</p>,VIOLET ECLIPSE,"Vestido Corto
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>VIOLET ECLIPSE</h4>,<p>Preferiblemente lavar a mano y con jabon suave.<br/>No lavar a altas temperaturas.<br/>No usar lavado en seco.<br/>No retorcer para escurrir.<br/>Lavar al revés.<br/>No usar blanqueador.<br/>No lavar en agua caliente. <br/>No usar vinagre</p>,<p>Vestido Corto<br/>Escote en V<br/>Bordado en espalda<br/>Cargaderas ajustables hechas en rayon</p>,VIOLET ECLIPSE,"Vestido Corto
 Escote en V
 Bordado en espalda
 Cargaderas ajustables hechas en rayon",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,COVER UPS > DRESSES,default,COVER UPS > DRESSES,Maaji_EUR,COVER UPS > DRESSES,Maaji_US,COVER UPS > DRESSES,Maaji_AU,ROPA DE PLAYA > VESTIDOS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,95% RAYON 5% VISCOSA TEJIDA,ROJO,ROPA DE PLAYA,<h4>VIOLET ECLIPSE</h4>,MUJERES,active,2018,62.04.44.00.00,1422CSD02_wine
@@ -193,7 +358,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>JUNEBERRY JAZZY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de cuello alto<br/>Copas removibles<br/>Espalda cruzada ajustable<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,JUNEBERRY JAZZY,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>JUNEBERRY JAZZY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de cuello alto<br/>Copas removibles<br/>Espalda cruzada ajustable<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,JUNEBERRY JAZZY,"Reversible
 Top de cuello alto
 Copas removibles
 Espalda cruzada ajustable
@@ -208,7 +384,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CINNAMON ATTILA</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,CINNAMON ATTILA,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CINNAMON ATTILA</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,CINNAMON ATTILA,"Reversible
 Top de triangulos fijos
 Detalle de boleros 
 Copas removibles
@@ -223,7 +410,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>JUNEBERRY DELIGHTFUL</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,JUNEBERRY DELIGHTFUL,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>JUNEBERRY DELIGHTFUL</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,JUNEBERRY DELIGHTFUL,"Reversible
 Top de triangulos fijos
 Detalle de boleros 
 Copas removibles
@@ -238,7 +436,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>SCARLET CACIQUE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Cruzado ajustable en el centro<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,SCARLET CACIQUE,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>SCARLET CACIQUE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Cruzado ajustable en el centro<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,SCARLET CACIQUE,"Reversible
 4 formas de usar (con espalda hacia adelante o atrás)
 Copas removibles
 Cruzado ajustable en el centro
@@ -253,7 +462,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BRISTLE GARDENS</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triángulos corredizos<br/>Espalda cruzada ajustable<br/>Detalle de crochetas en tiras de hombros<br/>Cubrimiento medio en delantero<br/>Hecho en Colombia</p>,BRISTLE GARDENS,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BRISTLE GARDENS</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triángulos corredizos<br/>Espalda cruzada ajustable<br/>Detalle de crochetas en tiras de hombros<br/>Cubrimiento medio en delantero<br/>Hecho en Colombia</p>,BRISTLE GARDENS,"Reversible
 Top de triángulos corredizos
 Espalda cruzada ajustable
 Detalle de crochetas en tiras de hombros
@@ -268,7 +488,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CINNAMON SANDCASTLE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Espalda cruzada ajustable con detalle de ojaletes<br/>Recogido en el centro<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,CINNAMON SANDCASTLE,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CINNAMON SANDCASTLE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Espalda cruzada ajustable con detalle de ojaletes<br/>Recogido en el centro<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,CINNAMON SANDCASTLE,"Reversible
 Copas removibles
 Espalda cruzada ajustable con detalle de ojaletes
 Recogido en el centro
@@ -284,7 +515,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>ROSE VELVET</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top con escote en V<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,ROSE VELVET,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>ROSE VELVET</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top con escote en V<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,ROSE VELVET,"Reversible
 Top con escote en V
 Copas removibles
 Buen cubrimiento en delantero
@@ -299,7 +541,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CINNAMON DIVINE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,CINNAMON DIVINE,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CINNAMON DIVINE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,CINNAMON DIVINE,"Reversible
 4 Formas de usar
 Copas removibles
 Buen cubrimiento en delantero 
@@ -313,7 +566,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>STARGAZER DAZZLING</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Cruzado ajustable en el centro<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,STARGAZER DAZZLING,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>STARGAZER DAZZLING</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Cruzado ajustable en el centro<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,STARGAZER DAZZLING,"Reversible
 4 formas de usar (con espalda hacia adelante o atrás)
 Copas removibles
 Cruzado ajustable en el centro
@@ -328,7 +592,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>STARGAZER SWIRL</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,STARGAZER SWIRL,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>STARGAZER SWIRL</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,STARGAZER SWIRL,"Reversible
 Top tipo halter
 Copas removibles
 Buen cubrimiento en delantero
@@ -343,7 +618,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>STARGAZER DECK</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Triple tira en hombros<br/>Recogido en el centro<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,STARGAZER DECK,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>STARGAZER DECK</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Triple tira en hombros<br/>Recogido en el centro<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,STARGAZER DECK,"Reversible
 Copas removibles
 Triple tira en hombros
 Recogido en el centro
@@ -359,7 +645,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>ANDES FOLIAGE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de cuello alto<br/>Copas removibles<br/>Espalda cruzada ajustable<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,ANDES FOLIAGE,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>ANDES FOLIAGE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de cuello alto<br/>Copas removibles<br/>Espalda cruzada ajustable<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,ANDES FOLIAGE,"Reversible
 Top de cuello alto
 Copas removibles
 Espalda cruzada ajustable
@@ -374,7 +671,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>FESTIVE COQUETTE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de hombros descubiertos<br/>Copas removibles<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,FESTIVE COQUETTE,"Top de hombros descubiertos
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>FESTIVE COQUETTE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de hombros descubiertos<br/>Copas removibles<br/>Buen cubrimiento delantero<br/>Hecho en Colombia</p>,FESTIVE COQUETTE,"Top de hombros descubiertos
 Copas removibles
 Buen cubrimiento delantero
 Hecho en Colombia",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,SWIMWEAR > TOPS,default,SWIMWEAR > TOPS,Maaji_EUR,SWIMWEAR > TOPS,Maaji_US,SWIMWEAR > TOPS,Maaji_AU,SWIMWEAR > TOPS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA,91% POLIAMIDA 9% ELASTANO,AZUL,SWIMWEAR,<h4>FESTIVE COQUETTE</h4>,MUJERES,active,2018,61.12.41.00.00,1929SFA02_blue
@@ -387,7 +695,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>SEASHELLS NIGHTS</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,SEASHELLS NIGHTS,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>SEASHELLS NIGHTS</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Costuras invisibles<br/>Tiro bajo<br/>Mayor cubrimiento<br/>Hecho en Colombia</p>,SEASHELLS NIGHTS,"Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
@@ -401,7 +720,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>PALOMINO SKY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,PALOMINO SKY,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>PALOMINO SKY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos fijos<br/>Detalle de boleros <br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,PALOMINO SKY,"Reversible
 Top de triangulos fijos
 Detalle de boleros 
 Copas removibles
@@ -416,7 +746,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>GORGONA FOREST</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Espalda cruzada fija<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,GORGONA FOREST,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>GORGONA FOREST</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Copas removibles<br/>Espalda cruzada fija<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,GORGONA FOREST,"Reversible
 Copas removibles
 Espalda cruzada fija
 Buen cubrimiento en delantero
@@ -430,7 +771,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>DENIM COLOMBIA</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,DENIM COLOMBIA,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>DENIM COLOMBIA</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>,DENIM COLOMBIA,"Reversible
 4 formas de usar (con espalda hacia adelante o atrás)
 Copas removibles
 Buen cubrimiento en delantero
@@ -444,7 +796,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>AMAZON RIVER</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,"<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Tipo tipo ""bandeja""<br/>Tiras de hombros removibles<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>",AMAZON RIVER,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>AMAZON RIVER</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,"<p>Reversible<br/>4 formas de usar (con espalda hacia adelante o atrás)<br/>Tipo tipo ""bandeja""<br/>Tiras de hombros removibles<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Hecho en Colombia</p>",AMAZON RIVER,"Reversible
 4 formas de usar (con espalda hacia adelante o atrás)
 Tipo tipo ""bandeja""
 Tiras de hombros removibles
@@ -460,7 +823,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>COCONUT VALLEY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,COCONUT VALLEY,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>COCONUT VALLEY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,COCONUT VALLEY,"Reversible
 Top tipo halter
 Copas removibles
 Buen cubrimiento en delantero
@@ -475,7 +849,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>HERITAGE DEVOTION</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,HERITAGE DEVOTION,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>HERITAGE DEVOTION</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,HERITAGE DEVOTION,"Reversible
 4 Formas de usar
 Copas removibles
 Buen cubrimiento en delantero 
@@ -489,7 +874,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>HERITAGE GOSSIP</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos corredizos<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Ajustable en espalda<br/>Hecho en Colombia</p>,HERITAGE GOSSIP,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>HERITAGE GOSSIP</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top de triangulos corredizos<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Ajustable en espalda<br/>Hecho en Colombia</p>,HERITAGE GOSSIP,"Reversible
 Top de triangulos corredizos
 Copas removibles
 Buen cubrimiento en delantero
@@ -504,7 +900,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CINNAMON LOVELY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de varilla<br/>Sin copas prehormadas<br/>Espalda cruzada ajustable<br/>Cubrimiento medio en delantero<br/>Hecho en Colombia</p>,CINNAMON LOVELY,"Top de varilla
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CINNAMON LOVELY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de varilla<br/>Sin copas prehormadas<br/>Espalda cruzada ajustable<br/>Cubrimiento medio en delantero<br/>Hecho en Colombia</p>,CINNAMON LOVELY,"Top de varilla
 Sin copas prehormadas
 Espalda cruzada ajustable
 Cubrimiento medio en delantero
@@ -518,7 +925,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>JUNEBERRY ALLURE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Halter top<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,JUNEBERRY ALLURE,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>JUNEBERRY ALLURE</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Halter top<br/>Copas removibles<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,JUNEBERRY ALLURE,"Reversible
 4 Formas de usar
 Halter top
 Copas removibles
@@ -533,7 +951,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>CUMBIA SOCIETY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Escote bandeja<br/>Copas removibles<br/>Recogido en centro<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,CUMBIA SOCIETY,"Reversible 
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>CUMBIA SOCIETY</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>4 Formas de usar<br/>Escote bandeja<br/>Copas removibles<br/>Recogido en centro<br/>Buen cubrimiento en delantero <br/>Hecho en Colombia</p>,CUMBIA SOCIETY,"Reversible 
 4 Formas de usar
 Escote bandeja
 Copas removibles
@@ -549,7 +978,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>ARUSI MERLOT</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,ARUSI MERLOT,"Reversible
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>ARUSI MERLOT</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Reversible<br/>Top tipo halter<br/>Copas removibles<br/>Buen cubrimiento en delantero<br/>Espalda cruzada fija<br/>Hecho en Colombia</p>,ARUSI MERLOT,"Reversible
 Top tipo halter
 Copas removibles
 Buen cubrimiento en delantero
@@ -564,7 +1004,18 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>PAEZ PORT</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de manga larga<br/>Cuello redondo<br/>Protección UV <br/>Hecho en Colombia</p>,PAEZ PORT,"Top de manga larga
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>PAEZ PORT</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Top de manga larga<br/>Cuello redondo<br/>Protección UV <br/>Hecho en Colombia</p>,PAEZ PORT,"Top de manga larga
 Cuello redondo
 Protección UV 
 Hecho en Colombia",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,SWIMWEAR > TOPS,default,SWIMWEAR > TOPS,Maaji_EUR,SWIMWEAR > TOPS,Maaji_US,SWIMWEAR > TOPS,Maaji_AU,SWIMWEAR > TOPS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA, 92% POLIAMIDA 8% ELASTANO,AZUL,SWIMWEAR,<h4>PAEZ PORT</h4>,MUJERES,active,2018,61.10.30.90.00,2123SRA01_blue
@@ -577,5 +1028,16 @@ El producto debe ser devuelto en su estado original. No se aceptarán productos u
 lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales
 y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a menos que los artículos de devolución estén defectuosos. 
 Nuestra política de devoluciones es adicional a lo requerido por las leyes colombianas de protección al consumidor.  
- ",<h4>BORDEAUX WAVES</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Fajón ancho<br/>Hecho en Colombia</p>,BORDEAUX WAVES,"Fajón ancho
+ ","<p><b>Entrega</b>
+<br/>Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000.<br/>
+Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de<br/>
+entrega dependerán del destino final, pero generalmente son de 2 a 3 días hábiles. 
+<br/><br/>
+<b>Devoluciones</b>
+<br/>Se aceptan devoluciones y cambios en la mercancía dentro de los 30 días de recibo. <br/>
+El producto debe ser devuelto en su estado original. No se aceptarán productos usados,<br/>
+lavados o usados de otra manera. Todos los productos deben tener las etiquetas originales<br/>
+y el protector higiénico intactos. Los cargos de envío originales no serán reembolsados a<br/>
+menos que los artículos de devolución estén defectuosos. Nuestra política de devoluciones es<br/>
+adicional a lo requerido por las leyes colombianas de protección al consumidor.</p>",<h4>BORDEAUX WAVES</h4>,<p>Lavar a mano<br/>Siempre enjuagar para quitar el cloro<br/>Secar a la sombra<br/>Evitar superficies asperas</p>,<p>Fajón ancho<br/>Hecho en Colombia</p>,BORDEAUX WAVES,"Fajón ancho
 Hecho en Colombia",,,Nuestra modelo usa talla Colombiana: TALLA PEQUEÑA,,,SWIMWEAR > BOTTOMS,default,SWIMWEAR > BOTTOMS,Maaji_EUR,SWIMWEAR > BOTTOMS,Maaji_US,SWIMWEAR > BOTTOMS,Maaji_AU,SWIMWEAR > BOTTOMS,Maaji_CO,Colombia,SPRING 2018,COLOMBIA, 92% POLIAMIDA 8% ELASTANO,ROJO,SWIMWEAR,<h4>BORDEAUX WAVES</h4>,MUJERES,active,2018,61.04.63.00.00,2118SSF01_wine

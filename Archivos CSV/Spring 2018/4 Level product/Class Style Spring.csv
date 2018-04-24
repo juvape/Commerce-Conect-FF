@@ -1,4 +1,4 @@
-lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.page_url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,image.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,attribute.saya_tariff_code.string,variation_children_code
+lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.page_url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,image.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,attribute.saya_tariff_code.string,variation_children_code
 JUNEBERRY FLIRT,4 Level Product Style,JUNEBERRY FLIRT,active,Maaji,0,0,,"Delivery
 FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders under 
 COP$250.000 will incur a shipping fee.
@@ -12,7 +12,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>JUNEBERRY FLIRT</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise<br/>Moderate coverage <br/>Made in Colombia</p>,JUNEBERRY FLIRT,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>JUNEBERRY FLIRT</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise<br/>Moderate coverage <br/>Made in Colombia</p>,JUNEBERRY FLIRT,"Reversible
 Seamless
 Low Rise 
 Moderate coverage 
@@ -30,7 +43,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>ROSE VELVET</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,ROSE VELVET,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>ROSE VELVET</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,ROSE VELVET,"Reversible
 Low Rise 
 Moderate coverage 
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,RED,SWIMWEAR,<h4>ROSE VELVET</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1523895628/Spring2018/1930SBC01_1930SCC01_purple_1.jpg,1930SBC01_purple_1,,https://res.cloudinary.com/maaji/image/upload/v1523895625/Spring2018/1930SBC01_1930SCC01_purple_2.jpg,1930SBC01_purple_2,,,,,,,,,,,,,,61.12.41.00.00,1930SBC01|1930SCC01
@@ -47,7 +73,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>CUMBIA SOCIETY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Bralette top<br/>Removable soft pads<br/>Pullover<br/>Fixed criss cross back<br/>Full coverage at front<br/>Made in Colombia</p>,CUMBIA SOCIETY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>CUMBIA SOCIETY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Bralette top<br/>Removable soft pads<br/>Pullover<br/>Fixed criss cross back<br/>Full coverage at front<br/>Made in Colombia</p>,CUMBIA SOCIETY,"Reversible
 Bralette top
 Removable soft pads
 Pullover
@@ -67,7 +106,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>CINNAMON ATTILA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Adjustable at sides<br/>Low Rise <br/>Moderate coverage<br/>Made in Colombia</p>,CINNAMON ATTILA,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>CINNAMON ATTILA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Adjustable at sides<br/>Low Rise <br/>Moderate coverage<br/>Made in Colombia</p>,CINNAMON ATTILA,"Reversible
 Adjustable at sides
 Low Rise 
 Moderate coverage 
@@ -85,7 +137,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>CINNAMON SUNNY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ties at sides<br/>Low Rise<br/>Moderate coverage <br/>Made in Colombia</p>,CINNAMON SUNNY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>CINNAMON SUNNY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ties at sides<br/>Low Rise<br/>Moderate coverage <br/>Made in Colombia</p>,CINNAMON SUNNY,"Reversible
 Ties at sides
 Low Rise 
 Moderate coverage 
@@ -103,7 +168,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>ARUSI MERLOT</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise<br/>Full coverage<br/>Made in Colombia</p>,ARUSI MERLOT,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>ARUSI MERLOT</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise<br/>Full coverage<br/>Made in Colombia</p>,ARUSI MERLOT,"Reversible
 Low Rise 
 Full coverage 
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,RED,SWIMWEAR,<h4>ARUSI MERLOT</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1523897329/Spring2018/2120SAC01_2120SBC01_purple_1.jpg,2120SAC01_purple_1,,https://res.cloudinary.com/maaji/image/upload/v1523897329/Spring2018/2120SAC01_2120SBC01_purple_2.jpg,2120SAC01_purple_2,,,,,,,,,,,,,,61.12.41.00.00,2120SAC01|2120SBC01
@@ -120,7 +198,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>BRISTLE GARDENS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ties at sides<br/>Low Rise<br/>Moderate coverage<br/>Made in Colombia</p>,BRISTLE GARDENS,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>BRISTLE GARDENS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ties at sides<br/>Low Rise<br/>Moderate coverage<br/>Made in Colombia</p>,BRISTLE GARDENS,"Reversible
 Ties at sides
 Low Rise 
 Moderate coverage 
@@ -138,7 +229,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>ANDES FOLIAGE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Full coverage<br/>Made in Colombia</p>,ANDES FOLIAGE,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>ANDES FOLIAGE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Full coverage<br/>Made in Colombia</p>,ANDES FOLIAGE,"Reversible
 Low Rise 
 Full coverage 
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>ANDES FOLIAGE</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1523897944/Spring2018/2047SAC02_2047SBC02_blue_1.jpg,2047SAC02_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1523897944/Spring2018/2047SAC02_2047SBC02_blue_2.jpg,2047SAC02_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2047SAC02|2047SBC02
@@ -155,7 +259,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>STARGAZER CASCADE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>High leg cut<br/>Less coverage at rear<br/>Made in Colombia</p>,STARGAZER CASCADE,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>STARGAZER CASCADE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>High leg cut<br/>Less coverage at rear<br/>Made in Colombia</p>,STARGAZER CASCADE,"Reversible
 Seamless
 High leg cut
 Less coverage at rear
@@ -173,7 +290,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>STARGAZER ORNATE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Ruffle detail at sides<br/>Moderate coverage<br/>Made in Colombia</p>,STARGAZER ORNATE,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>STARGAZER ORNATE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Ruffle detail at sides<br/>Moderate coverage<br/>Made in Colombia</p>,STARGAZER ORNATE,"Reversible
 Seamless
 Low rise
 Ruffle detail at sides
@@ -192,7 +322,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>STARGAZER SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,STARGAZER SUBLIME,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>STARGAZER SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,STARGAZER SUBLIME,"Reversible
 Seamless
 Low rise
 Full coverage
@@ -210,7 +353,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>SEASHELLS NIGHTS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,SEASHELLS NIGHTS,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>SEASHELLS NIGHTS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,SEASHELLS NIGHTS,"Reversible
 Seamless
 Low rise
 Full coverage
@@ -228,7 +384,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>PALOMINO SKY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,PALOMINO SKY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>PALOMINO SKY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,PALOMINO SKY,"Reversible
 Low rise
 Moderate coverage
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>PALOMINO SKY</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524062331/Spring2018/2062SBC02_2062SDC02_blue_1.jpg,2062SBC02_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524062332/Spring2018/2062SBC02_2062SDC02_blue_2.jpg,2062SBC02_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2062SBC02|2062SDC02
@@ -245,7 +414,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>GORGONA FOREST</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,GORGONA FOREST,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>GORGONA FOREST</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,GORGONA FOREST,"Reversible
 Low rise
 Moderate coverage
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>GORGONA FOREST</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524060130/Spring2018/2126SBC01_2126SDC01_blue_1.jpg,2126SBC01_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524060126/Spring2018/2126SBC01_2126SDC01_blue_2.jpg,2126SBC01_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2126SBC01|2126SDC01
@@ -262,7 +444,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>COCONUT VALLEY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,COCONUT VALLEY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>COCONUT VALLEY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Full coverage<br/>Made in Colombia</p>,COCONUT VALLEY,"Reversible
 Seamless
 Low rise 
 Full coverage
@@ -280,7 +475,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>HERITAGE RENDEZVOUS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Adjustable at sides<br/>Full coverage<br/>Made in Colombia</p>,HERITAGE RENDEZVOUS,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>HERITAGE RENDEZVOUS</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Adjustable at sides<br/>Full coverage<br/>Made in Colombia</p>,HERITAGE RENDEZVOUS,"Reversible
 Seamless
 Low rise
 Adjustable at sides
@@ -299,7 +507,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>DENIM COLOMBIA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,DENIM COLOMBIA,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>DENIM COLOMBIA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Moderate coverage<br/>Made in Colombia</p>,DENIM COLOMBIA,"Reversible
 Low rise
 Moderate coverage
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>DENIM COLOMBIA</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524062859/Spring2018/2043SBC01_2043SCC01_blue_1.jpg,2043SBC01_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524062859/Spring2018/2043SBC01_2043SCC01_blue_2.jpg,2043SBC01_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2043SBC01|2043SCC01
@@ -316,7 +537,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>AMARANTH MULATTA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece <br/>Zipper on mid-front to close<br/>Made in Colombia</p>,AMARANTH MULATTA,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>AMARANTH MULATTA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece <br/>Zipper on mid-front to close<br/>Made in Colombia</p>,AMARANTH MULATTA,"Reversible
 Long sleeve one piece 
 Zipper on mid-front to close
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,RED,SWIMWEAR,<h4>AMARANTH MULATTA</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524015277/Spring2018/2111SOB01_2111SOC01_purple_3.jpg,2111SOB01_purple_3,,https://res.cloudinary.com/maaji/image/upload/v1524015277/Spring2018/2111SOB01_2111SOC01_purple_4.jpg,2111SOB01_purple_4,,,,,,,,,,,,,,61.12.41.00.00,2111SOB01|2111SOC01
@@ -333,7 +567,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>SOLANO BAY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece <br/>Keyhole cut out at back<br/>Made in Colombia</p>,SOLANO BAY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>SOLANO BAY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece <br/>Keyhole cut out at back<br/>Made in Colombia</p>,SOLANO BAY,"Reversible
 Long sleeve one piece 
 Keyhole cut out at back
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS SWIMWEAR ONE PIECE 91% NYLON 9% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>SOLANO BAY</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524058650/Spring2018/2122SOB01_2122SOC01_blue_3.jpg,2122SOB01_blue_3,,https://res.cloudinary.com/maaji/image/upload/v1524058650/Spring2018/2122SOB01_2122SOC01_blue_4.jpg,2122SOB01_blue_4,,,,,,,,,,,,,,61.12.41.00.00,2122SOB01|2122SOC01
@@ -350,7 +597,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>JUNEBERRY SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise <br/>Moderate coverage<br/>Made in Colombia</p>,JUNEBERRY SUBLIME,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>JUNEBERRY SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise <br/>Moderate coverage<br/>Made in Colombia</p>,JUNEBERRY SUBLIME,"Reversible
 Seamless
 Low Rise 
 Moderate coverage 
@@ -368,7 +628,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>CINNAMON SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,CINNAMON SUBLIME,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>CINNAMON SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,CINNAMON SUBLIME,"Reversible
 Seamless
 Low Rise 
 Moderate coverage 
@@ -386,7 +659,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>FESTIVE COQUETTE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Cheeky coverage <br/>Made in Colombia</p>,FESTIVE COQUETTE,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>FESTIVE COQUETTE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Cheeky coverage <br/>Made in Colombia</p>,FESTIVE COQUETTE,"Reversible
 Low Rise 
 Cheeky coverage 
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 92% NYLON 8% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>FESTIVE COQUETTE</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524059666/Spring2018/2062SBC03_2062SCC03_blue_1.jpg,2062SBC03_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524059669/Spring2018/2062SBC03_2062SCC03_blue_2.jpg,2062SBC03_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2062SBC03|2062SCC03
@@ -403,7 +689,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>SCARLET CACIQUE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Adjustable at sides<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,SCARLET CACIQUE,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>SCARLET CACIQUE</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Adjustable at sides<br/>Low Rise <br/>Moderate coverage <br/>Made in Colombia</p>,SCARLET CACIQUE,"Reversible
 Adjustable at sides
 Low Rise 
 Moderate coverage 
@@ -421,7 +720,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>HERITAGE SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Cheeky coverage <br/>Made in Colombia</p>,HERITAGE SUBLIME,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>HERITAGE SUBLIME</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low Rise <br/>Cheeky coverage <br/>Made in Colombia</p>,HERITAGE SUBLIME,"Reversible
 Low Rise 
 Cheeky coverage 
 Made in Colombia",,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 93% NYLON 7% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>HERITAGE SUBLIME</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524057616/Spring2018/3007SBC05_3007SCC05_blue_1.jpg,3007SBC05_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524057615/Spring2018/3007SBC05_3007SCC05_blue_2.jpg,3007SBC05_blue_2,,https://res.cloudinary.com/maaji/image/upload/v1524057616/Spring2018/3007SBC05_3007SCC05_blue_5.jpg,3007SBC05_blue_5,,https://res.cloudinary.com/maaji/image/upload/v1524057616/Spring2018/3007SBC05_3007SCC05_blue_6.jpg,3007SBC05_blue_6,,,,,,,,61.12.41.00.00,3007SBC05|3007SCC05
@@ -438,7 +750,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>CURRANT COLOMBIA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Regular leg cut<br/>Lace up and tie back string<br/>Made in Colombia</p>,CURRANT COLOMBIA,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>CURRANT COLOMBIA</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Regular leg cut<br/>Lace up and tie back string<br/>Made in Colombia</p>,CURRANT COLOMBIA,"Reversible
 Deep scoop one piece 
 Adjustable criss cross back
 Regular leg cut
@@ -457,7 +782,20 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>STARGAZER HEAVENLY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Lace up and tie string<br/>Adjustable criss cross back<br/>Regular rise<br/>Made in Colombia</p>,STARGAZER HEAVENLY,"Reversible
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>STARGAZER HEAVENLY</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Lace up and tie string<br/>Adjustable criss cross back<br/>Regular rise<br/>Made in Colombia</p>,STARGAZER HEAVENLY,"Reversible
 Deep scoop one piece
 Lace up and tie string
 Adjustable criss cross back
@@ -476,4 +814,17 @@ days of receipt. The product must be returned in original condition. Worn, washe
 or otherwise used products will not be accepted. All products must also have the 
 original tags and hygienic protection sticker intact. Original shipping charges will not 
 be refunded unless the return items are deemed defective. Our Returns Policy is in 
-addition to your rights under the Colombian Consumer Law.",<h4>AMAZON RIVER</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,#N/A,AMAZON RIVER,#N/A,,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 91% NYLON 9% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>AMAZON RIVER</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524063109/Spring2018/2130SCC01_blue_1.jpg,2130SCC01_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524063109/Spring2018/2130SCC01_blue_2.jpg,2130SCC01_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2130SCC01
+addition to your rights under the Colombian Consumer Law.","<p><b>Delivery</b>
+<br/>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Orders<br/>
+under COP $250.000 will incur a shipping fee.<br/>
+Delivery times are dependent on your location but are typically 2-3<br/> 
+working days. Regional areas outside of metro areas, typically add<br/>
+an additional day to delivery estimates. <br/><br/>
+
+<b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30<br/> 
+days of receipt. The product must be returned in original condition. Worn, washed<br/>
+or otherwise used products will not be accepted. All products must also have the<br/> 
+original tags and hygienic protection sticker intact. Original shipping charges will not <br/>
+be refunded unless the return items are deemed defective. Our Returns Policy is in<br/>
+addition to your rights under the Colombian Consumer Law.</p>",<h4>AMAZON RIVER</h4>,<p>Cold hand wash<br/>Always rinse away salt or chlorine<br/>Lay flat to dry<br/>Avoid rough surfaces</p>,#N/A,AMAZON RIVER,#N/A,,,,Ours model wears an Colombian Size SMALL,,Colombia,SPRING 2018,COLOMBIA,WOMENS BOTTOM SWIMWEAR ONE PIECE 91% NYLON 9% SPANDEX KNIT,BLUE,SWIMWEAR,<h4>AMAZON RIVER</h4>,WOMEN,active,2018,https://res.cloudinary.com/maaji/image/upload/v1524063109/Spring2018/2130SCC01_blue_1.jpg,2130SCC01_blue_1,,https://res.cloudinary.com/maaji/image/upload/v1524063109/Spring2018/2130SCC01_blue_2.jpg,2130SCC01_blue_2,,,,,,,,,,,,,,61.12.41.00.00,2130SCC01
