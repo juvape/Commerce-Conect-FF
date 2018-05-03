@@ -326,3 +326,6 @@ lv1_code,product_class_name,name,status,brand,attribute.dw_size_code.single_opti
 2168SDC02_orange_sm,Size,2168SDC02_orange_sm,active,Maaji,SMALL,7702781034207,SMALL,126000,COP Price
 2168SDC02_orange_md,Size,2168SDC02_orange_md,active,Maaji,MEDIUM,7702781034214,MEDIUM,126000,COP Price
 2168SDC02_orange_lg,Size,2168SDC02_orange_lg,active,Maaji,LARGE,7702781034221,LARGE,126000,COP Price
+3008SCC02_brown_sm,Size,3008SCC02_brown_sm,active,Maaji,SMALL,7702781035297,SMALL,95000,COP Price
+3008SCC02_brown_md,Size,3008SCC02_brown_md,active,Maaji,MEDIUM,7702781035303,MEDIUM,95000,COP Price
+3008SCC02_brown_lg,Size,3008SCC02_brown_lg,active,Maaji,LARGE,7702781035310,LARGE,95000,COP Price

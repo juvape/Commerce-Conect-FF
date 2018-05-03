@@ -1,0 +1,56 @@
+ACCESOS
+
+FUSION FACTORY
+
+https://staging-product.commerceconnect.co
+
+Username: jsoto@maajiswimwear.com 
+Password: RI5g0dED$un4e$VA
+
+
+Base de Datos
+Desarrollo
+
+hostname: maaji-dev-instance.c9ql7e614x7u.us-east-1.rds.amazonaws.com
+puerto: 3306
+usuario: maajibddev
+pass: Maaj1BdD3v
+
+Produccion:
+
+hostname: maaji-pdn.c9ql7e614x7u.us-east-1.rds.amazonaws.com
+puerto: 3306
+usuario: maajibddev
+pass: Maaj1BdD3v
+
+
+juvape -->user mailchimp
+Maaji1234! --> mailchimp pass
+
+
+
+https://drive.google.com/drive/folders/0B520wzOnXTOIem1OZGczZUY5dEU --> Drive imagenes
+
+
+https://www.codetwo.com/form/signup-for-beta-program/?gclid=EAIaIQobChMIvobKj-2E2QIVRLjACh1ytQkkEAAYAiAAEgKsX_D_BwE&sts=6849#
+
+
+Clave SAYA-MAS --> P0t4hN6r
+
+Acceso SalesForce
+
+https://development-ap01-seafolly.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-SelectSite?MenuGroupID=ChannelMenu&ChannelID=25d6c159f3c4e370012c7064d4&csrf_token=PvoScBjq-51lMdJsKn6AFd4ogdz8kD_b_6tarcMzuubUMhggZ4vpzHjYiu1q6FiBkwYRCv4rDJWkgtOFyB_HzbrASnwL2vuRlEeFEfdnYjbzIIX_6bmStU3WsY4pf_aOfKosK-yp-4uos_782qPhFjkPYUKtbXJYk1jzLkz5FC3CfPc_S2M
+
+Usuario: jsoto
+Pass: Colombia2018.
+
+
+ACCESO TYPEFORM
+Usuario: mgomez@maajiswimwear.com
+Contraseña: maaji1234
+
+ACCESO MAILCHIMP
+https://login.mailchimp.com/?_ga=2.198892399.1337209422.1524591343-993790991.1523976437&wcookie=5d2a1e335418a1888b20
+
+Username: marianagomez71
+Password: Maaji1234!
