@@ -329,3 +329,6 @@ lv1_code,inventory.1.inventory_source,inventory.1.sku,inventory.1.qty,inventory.
 3008SCC02_brown_sm,CO,3008SCC02_brown_sm,5,in_stock,dynamic,5
 3008SCC02_brown_md,CO,3008SCC02_brown_md,4,in_stock,dynamic,4
 3008SCC02_brown_lg,CO,3008SCC02_brown_lg,3,in_stock,dynamic,3
+2187SSF01_orange_sm,CO,2187SSF01_orange_sm,3,in_stock,dynamic,3
+2187SSF01_orange_md,CO,2187SSF01_orange_md,7,in_stock,dynamic,7
+2187SSF01_orange_lg,CO,2187SSF01_orange_lg,10,in_stock,dynamic,10
