@@ -110,3 +110,4 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 2168SDC02_orange,Colour,2168SDC02_orange,active,Maaji,1,1,anaranjado,2168SDC02_orange_sm|2168SDC02_orange_md|2168SDC02_orange_lg
 3008SCC02_brown,Colour,3008SCC02_brown,active,Maaji,1,1,cafe,3008SCC02_brown_sm|3008SCC02_brown_md|3008SCC02_brown_lg
 2187SSF01_orange,Colour,2187SSF01_orange,active,Maaji,1,1,anaranjado,2187SSF01_orange_sm|2187SSF01_orange_md|2187SSF01_orange_lg
+2135SSF03_red,Colour,2135SSF03_red,active,Maaji,1,1,rojo,2135SSF03_red_sm|2135SSF03_red_md|2135SSF03_red_lg|2135SSF03_red_xl

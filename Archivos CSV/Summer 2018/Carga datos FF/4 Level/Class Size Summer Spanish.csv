@@ -332,3 +332,7 @@ lv1_code,product_class_name,name,status,brand,attribute.dw_size_code.single_opti
 2187SSF01_orange_sm,Size,2187SSF01_orange_sm,active,Maaji,PEQUEÑO,7702781035846,PEQUEÑO,125000,COP Price
 2187SSF01_orange_md,Size,2187SSF01_orange_md,active,Maaji,MEDIO,7702781035853,MEDIO,125000,COP Price
 2187SSF01_orange_lg,Size,2187SSF01_orange_lg,active,Maaji,GRANDE,7702781035860,GRANDE,125000,COP Price
+2135SSF03_red_sm,Size,2135SSF03_red_sm,active,Maaji,PEQUEÑO,7702781035495,PEQUEÑO,125000,COP Price
+2135SSF03_red_md,Size,2135SSF03_red_md,active,Maaji,MEDIO,7702781035501,MEDIO,125000,COP Price
+2135SSF03_red_lg,Size,2135SSF03_red_lg,active,Maaji,GRANDE,7702781035518,GRANDE,125000,COP Price
+2135SSF03_red_xl,Size,2135SSF03_red_xl,active,Maaji,EXTRA GRANDE,7702781035525,EXTRA GRANDE,125000,COP Price
