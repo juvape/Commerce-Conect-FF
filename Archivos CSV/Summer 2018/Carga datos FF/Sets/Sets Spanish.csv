@@ -1,4 +1,4 @@
-lv1_code,product_class_name,name,status,attribute.saya_product_status.string,brand,attribute.country_of_origin.string,attribute.co_online.boolean,attribute.us_online.boolean,attribute.cup_size.single_option,category.1.path,category.1.category_set,category.2.path,category.2.category_set,category.3.path,category.3.category_set,category.4.path,category.4.category_set,category.5.path,category.5.category_set,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.dw_size_code.single_option,attribute.fabric_care.text,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_group.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.2.url,image.2.description,image.2.is_primary,image.3.url,image.3.description,image.3.is_primary,image.4.url,image.4.description,imag3.4.is_primary,image.5.url,image.5.description,image.5.is_primary,image.6.url,image.6.description,image.6.is_primary,group_member_code,,
+lv1_code,product_class_name,name,status,attribute.saya_product_status.string,brand,attribute.country_of_origin.string,attribute.co_online.boolean,attribute.us_online.boolean,attribute.cup_size.single_option,category.1.path,category.1.category_set,category.2.path,category.2.category_set,category.3.path,category.3.category_set,category.4.path,category.4.category_set,category.5.path,category.5.category_set,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.dw_size_code.single_option,attribute.fabric_care.text,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_group.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_season.single_option,image.1.url,image.1.description,image.1.is_primary,image.1.tag_list,image.2.url,image.2.description,image.2.is_primary,image.2.tag_list,image.3.url,image.3.description,image.3.is_primary,image.3.tag_list,image.4.url,image.4.description,imag3.4.is_primary,image.4.tag_list,image.5.url,image.5.description,image.5.is_primary,image.5.tag_list,image.6.url,image.6.description,image.6.is_primary,image.6.tag_list,group_member_code,,
 3060SFA03-SHIMMERING COGNAC SUBLIME,Sets,SHIMMERING COGNAC CUMBIA-SHIMMERING COGNAC SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -35,13 +35,13 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC CUMBIA-SHIMMERING COGNAC SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518786915/Summer2018/3060SFA03_3007SDC14_red_3.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",yes,https://res.cloudinary.com/maaji/image/upload/v1518786914/Summer2018/3060SFA03_3007SDC14_red_4.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518786916/Summer2018/3060SFA03_3007SDC14_red_5.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518786915/Summer2018/3060SFA03_3007SDC14_red_6.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518786914/Summer2018/3060SFA03_3007SDC14_red_7.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",,http://res.cloudinary.com/maaji/image/upload/v1518786914/Summer2018/3060SFA03_3007SDC14_red_8.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
-",,3060SFA03|SHIMMERING COGNAC SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC CUMBIA-SHIMMERING COGNAC SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527888670/Summer2018/3060SFA03_3007SDC14_red_3.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527888671/Summer2018/3060SFA03_3007SDC14_red_4.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527888672/Summer2018/3060SFA03_3007SDC14_red_5.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527888672/Summer2018/3060SFA03_3007SDC14_red_6.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527888673/Summer2018/3060SFA03_3007SDC14_red_7.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527888675/Summer2018/3060SFA03_3007SDC14_red_8.jpg,"3060SFA03_SHIMMERING_COGNAC SUBLIME
+",no,hi-res,3060SFA03|SHIMMERING COGNAC SUBLIME,,
 1520SFH03-SHIMMERING COGNAC SUBLIME,Sets,SHIMMERING COGNAC SWIRL-SHIMMERING COGNAC SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -77,7 +77,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC SWIRL-SHIMMERING COGNAC SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524778623/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_3.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1524778625/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_4.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524778627/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_5.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1524778629/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_6.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,,,,,,,,1520SFH03|SHIMMERING COGNAC SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC SWIRL-SHIMMERING COGNAC SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524778623/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_3.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1524778625/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_4.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1524778627/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_5.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1524778629/Summer2018/1520SFH03_3007SAC14_3007SBC14_red_6.jpg,1520SFH03_SHIMMERING_COGNAC_SUBLIME,no,hi-res,,,,,,,,,1520SFH03|SHIMMERING COGNAC SUBLIME,,
 3047SFH03-DAHLIA RENDEZVOUS,Sets,DAHLIA SANDCASTLE-DAHLIA RENDEZVOUS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -115,7 +115,7 @@ Costuras invisibles
 Tiro bajo
 Ajustable en costados
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA SANDCASTLE-DAHLIA RENDEZVOUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518788600/Summer2018/3047SFH03_3013SCC03_red_3.jpg,3047SFH03_DAHLIA_RENDEZVOUS,yes,https://res.cloudinary.com/maaji/image/upload/v1518788599/Summer2018/3047SFH03_3013SCC03_red_4.jpg,3047SFH03_DAHLIA_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1518788601/Summer2018/3047SFH03_3013SCC03_red_5.jpg,3047SFH03_DAHLIA_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1518788601/Summer2018/3047SFH03_3013SCC03_red_6.jpg,3047SFH03_DAHLIA_RENDEZVOUS,,,,,,,,3047SFH03|DAHLIA RENDEZVOUS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA SANDCASTLE-DAHLIA RENDEZVOUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527864245/Summer2018/3047SFH03_3013SCC03_red_3.jpg,3047SFH03_DAHLIA_RENDEZVOUS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527864247/Summer2018/3047SFH03_3013SCC03_red_4.jpg,3047SFH03_DAHLIA_RENDEZVOUS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527864248/Summer2018/3047SFH03_3013SCC03_red_5.jpg,3047SFH03_DAHLIA_RENDEZVOUS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527864249/Summer2018/3047SFH03_3013SCC03_red_6.jpg,3047SFH03_DAHLIA_RENDEZVOUS,no,hi-res,,,,,,,,,3047SFH03|DAHLIA RENDEZVOUS,,
 3059SFT02-DAHLIA SUBLIME,Sets,DAHLIA BASKET-DAHLIA SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -152,7 +152,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA BASKET-DAHLIA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518974014/Summer2018/3059SFT02_3007SAC15_red_3.jpg,3059SFT02_DAHLIA_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1518974018/Summer2018/3059SFT02_3007SAC15_red_4.jpg,3059SFT02-DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518974023/Summer2018/3059SFT02_3007SAC15_red_5.jpg,3059SFT02_DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518974023/Summer2018/3059SFT02_3007SAC15_red_6.jpg,3059SFT02_DAHLIA_SUBLIME,,,,,,,,3059SFT02|DAHLIA SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA BASKET-DAHLIA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527887968/Summer2018/3059SFT02_3007SAC15_red_3.jpg,3059SFT02_DAHLIA_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527887969/Summer2018/3059SFT02_3007SAC15_red_4.jpg,3059SFT02-DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527887970/Summer2018/3059SFT02_3007SAC15_red_5.jpg,3059SFT02_DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527887970/Summer2018/3059SFT02_3007SAC15_red_6.jpg,3059SFT02_DAHLIA_SUBLIME,no,hi-res,,,,,,,,,3059SFT02|DAHLIA SUBLIME,,
 3062SBA01-DAHLIA SUBLIME,Sets,DAHLIA RUCHED-DAHLIA SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -187,7 +187,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA RUCHED-DAHLIA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518803520/Summer2018/3062SBA01_3007_SAC15_red_5.jpg,3062SBA01_DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518803519/Summer2018/3062SBA01_3007_SAC15_red_6.jpg,3062SBA01_DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518803520/Summer2018/3062SBA01_3007_SAC15_red_7.jpg,3062SBA01_DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518803519/Summer2018/3062SBA01_3007_SAC15_red_8.jpg,3062SBA01_DAHLIA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518803520/Summer2018/3062SBA01_3007SAC15_red_3.jpg,3062SBA01_DAHLIA_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1518803519/Summer2018/3062SBA01_3007SAC15_red_4.jpg,3062SBA01_DAHLIA_SUBLIME,,3062SBA01|DAHLIA SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DAHLIA RUCHED-DAHLIA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528036904/Summer2018/3062SBA01_3007_SAC15_red_5.jpg,3062SBA01_DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036905/Summer2018/3062SBA01_3007_SAC15_red_6.jpg,3062SBA01_DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036905/Summer2018/3062SBA01_3007_SAC15_red_7.jpg,3062SBA01_DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036906/Summer2018/3062SBA01_3007_SAC15_red_8.jpg,3062SBA01_DAHLIA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036907/Summer2018/3062SBA01_3007SAC15_red_3.jpg,3062SBA01_DAHLIA_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036908/Summer2018/3062SBA01_3007SAC15_red_4.jpg,3062SBA01_DAHLIA_SUBLIME,no,hi-res,3062SBA01|DAHLIA SUBLIME,,
 2169SBA01-FLOWERY KNOTS,Sets,FLOWERY KNOTS-FLOWERY KNOTS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -223,7 +223,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,FLOWERY KNOTS-FLOWERY KNOTS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517838639/Summer2018/2169SBA01_2061SBC02_red_3.jpg,2169SBA01_FLOWERY_KNOTS,yes,https://res.cloudinary.com/maaji/image/upload/v1517840649/Summer2018/2169SBA01_2061SCC02_red_8.jpg,2169SBA01_FLOWERY_KNOTS,,https://res.cloudinary.com/maaji/image/upload/v1517838640/Summer2018/2169SBA01_2061SBC02_red_7.jpg,2169SBA01_FLOWERY_KNOTS,,https://res.cloudinary.com/maaji/image/upload/v1517840649/Summer2018/2169SBA01_2061SCC02_red_4.jpg,2169SBA01_FLOWERY_KNOTS,,,,,,,,2169SBA01|FLOWERY KNOTS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,FLOWERY KNOTS-FLOWERY KNOTS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527261491/Summer2018/2169SBA01_2061SBC02_red_3.jpg,2169SBA01_FLOWERY_KNOTS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527261494/Summer2018/2169SBA01_2061SCC02_red_4.jpg,2169SBA01_FLOWERY_KNOTS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527261492/Summer2018/2169SBA01_2061SBC02_red_7.jpg,2169SBA01_FLOWERY_KNOTS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527261496/Summer2018/2169SBA01_2061SCC02_red_8.jpg,2169SBA01_FLOWERY_KNOTS,no,hi-res,,,,,,,,,2169SBA01|FLOWERY KNOTS,,
 2171SFH01-WAYUU ALLURE,Sets,WAYUU ALLURE-WAYUU ALLURE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -260,7 +260,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WAYUU ALLURE-WAYUU ALLURE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517859443/Summer2018/2171SFH01_2114SAC03_red_3.jpg,2171SFH01_WAYUU_ALLURE,yes,https://res.cloudinary.com/maaji/image/upload/v1517861959/Summer2018/2171SFH01_2114SBC03_red_4.jpg,2171SFH01_WAYUU_ALLURE,,https://res.cloudinary.com/maaji/image/upload/v1518974901/Summer2018/2171SFH01_2114SBC03_red_7.jpg,2171SFH01_WAYUU_ALLURE,,https://res.cloudinary.com/maaji/image/upload/v1518975033/Summer2018/2171SFH01_2114SBC03_red_8.jpg,2171SFH01_WAYUU_ALLURE,,,,,,,,2171SFH01|WAYUU ALLURE,, 
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WAYUU ALLURE-WAYUU ALLURE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527262354/Summer2018/2171SFH01_2114SAC03_red_3.jpg,2171SFH01_WAYUU_ALLURE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527262356/Summer2018/2171SFH01_2114SBC03_red_4.jpg,2171SFH01_WAYUU_ALLURE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527262358/Summer2018/2171SFH01_2114SBC03_red_7.jpg,2171SFH01_WAYUU_ALLURE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527262360/Summer2018/2171SFH01_2114SBC03_red_8.jpg,2171SFH01_WAYUU_ALLURE,no,hi-res,,,,,,,,,2171SFH01|WAYUU ALLURE,, 
 3063SBR01-METEORITE SUBLIME,Sets,METEORITE DUNES-METEORITE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -296,7 +296,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE DUNES-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522442/Summer2018/3063SBR01_3007SBC16_black_3.jpg,3063SBR01_METEORITE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1517522446/Summer2018/3063SBR01_3007SBC16_black_4.jpg,3063SBR01_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522447/Summer2018/3063SBR01_3007SBC16_black_5.jpg,3063SBR01_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522452/Summer2018/3063SBR01_3007SBC16_black_6.jpg,3063SBR01_METEORITE_SUBLIME,,,,,,,,3063SBR01|METEORITE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE DUNES-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528038345/Summer2018/3063SBR01_3007SBC16_black_3.jpg,3063SBR01_METEORITE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038349/Summer2018/3063SBR01_3007SBC16_black_4.jpg,3063SBR01_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038353/Summer2018/3063SBR01_3007SBC16_black_5.jpg,3063SBR01_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038357/Summer2018/3063SBR01_3007SBC16_black_6.jpg,3063SBR01_METEORITE_SUBLIME,no,hi-res,,,,,,,,,3063SBR01|METEORITE SUBLIME,,
 3042SFH02-METEORITE SUBLIME,Sets,METEORITE VALLEY-METEORITE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -332,7 +332,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE VALLEY-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522431/Summer2018/3042SFH02_3007SBC16_black_3.jpg,3042SFH02_METEORITE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1517522434/Summer2018/3042SFH02_3007SBC16_black_4.jpg,3042SFH02_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522433/Summer2018/3042SFH02_3007SBC16_black_5.jpg,3042SFH02_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522434/Summer2018/3042SFH02_3007SBC16_black_6.jpg,3042SFH02_METEORITE_SUBLIME,,,,,,,,3042SFH02|METEORITE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE VALLEY-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527641824/Summer2018/3042SFH02_3007SBC16_black_3.jpg,3042SFH02_METEORITE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527641824/Summer2018/3042SFH02_3007SBC16_black_4.jpg,3042SFH02_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527641825/Summer2018/3042SFH02_3007SBC16_black_5.jpg,3042SFH02_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527641826/Summer2018/3042SFH02_3007SBC16_black_6.jpg,3042SFH02_METEORITE_SUBLIME,no,hi-res,,,,,,,,,3042SFH02|METEORITE SUBLIME,,
 3066SUN01-METEORITE FLIRT,Sets,METEORITE SWELL-METEORITE FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -369,7 +369,7 @@ Reversible
 Seamless
 Low rise
 Brazilian cut
-Made in Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE SWELL-METEORITE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522450/Summer2018/3066SUN01_3039SDC04_black_3.jpg,3066SUN01_METEORITE_FLIRT,yes,https://res.cloudinary.com/maaji/image/upload/v1517522449/Summer2018/3066SUN01_3039SDC04_black_4.jpg,3066SUN01_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522450/Summer2018/3066SUN01_3039SDC04_black_5.jpg,3066SUN01_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522451/Summer2018/3066SUN01_3039SDC04_black_6.jpg,3066SUN01_METEORITE_FLIRT,,,,,,,,3066SUN01|METEORITE FLIRT,,
+Made in Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE SWELL-METEORITE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528039455/Summer2018/3066SUN01_3039SDC04_black_3.jpg,3066SUN01_METEORITE_FLIRT,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528039459/Summer2018/3066SUN01_3039SDC04_black_4.jpg,3066SUN01_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528039463/Summer2018/3066SUN01_3039SDC04_black_5.jpg,3066SUN01_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528039468/Summer2018/3066SUN01_3039SDC04_black_6.jpg,3066SUN01_METEORITE_FLIRT,no,hi-res,,,,,,,,,3066SUN01|METEORITE FLIRT,,
 3054SFA03-METEORITE FLIRT,Sets,METEORITE DAZZLING-METEORITE FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -406,7 +406,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE DAZZLING-METEORITE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522435/Summer2018/3054SFA03_30039SDC04_black_3.jpg,3054SFA03_METEORITE_FLIRT,yes,https://res.cloudinary.com/maaji/image/upload/v1517522438/Summer2018/3054SFA03_30039SDC04_black_4.jpg,3054SFA03_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522439/Summer2018/3054SFA03_30039SDC04_black_5.jpg,3054SFA03_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522446/Summer2018/3054SFA03_30039SDC04_black_6.jpg,3054SFA03_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522441/Summer2018/3054SFA03_30039SDC04_black_7.jpg,3054SFA03_METEORITE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522443/Summer2018/3054SFA03_30039SDC04_black_8.jpg,3054SFA03_METEORITE_FLIRT,,3054SFA03|METEORITE FLIRT,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE DAZZLING-METEORITE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527886664/Summer2018/3054SFA03_30039SDC04_black_3.jpg,3054SFA03_METEORITE_FLIRT,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527886664/Summer2018/3054SFA03_30039SDC04_black_4.jpg,3054SFA03_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527886665/Summer2018/3054SFA03_30039SDC04_black_5.jpg,3054SFA03_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527886666/Summer2018/3054SFA03_30039SDC04_black_6.jpg,3054SFA03_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527886667/Summer2018/3054SFA03_30039SDC04_black_7.jpg,3054SFA03_METEORITE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527886668/Summer2018/3054SFA03_30039SDC04_black_8.jpg,3054SFA03_METEORITE_FLIRT,no,hi-res,3054SFA03|METEORITE FLIRT,,
 3068SSP01-METEORITE SUBLIME,Sets,METEORITE COCKTAIL-METEORITE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -442,7 +442,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE COCKTAIL-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522454/Summer2018/3068SSP01_3007SBC16_black_3.jpg,3068SSP01_METEORITE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1517522455/Summer2018/3068SSP01_3007SBC16_black_4.jpg,3068SSP01_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522457/Summer2018/3068SSP01_3007SBC16_black_5.jpg,3068SSP01_METEORITE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522457/Summer2018/3068SSP01_3007SBC16_black_6.jpg,3068SSP01_METEORITE_SUBLIME,,,,,,,,3068SSP01|METEORITE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,METEORITE COCKTAIL-METEORITE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528040530/Summer2018/3068SSP01_3007SBC16_black_3.jpg,3068SSP01_METEORITE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528040534/Summer2018/3068SSP01_3007SBC16_black_4.jpg,3068SSP01_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528040539/Summer2018/3068SSP01_3007SBC16_black_5.jpg,3068SSP01_METEORITE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528040543/Summer2018/3068SSP01_3007SBC16_black_6.jpg,3068SSP01_METEORITE_SUBLIME,no,hi-res,,,,,,,,,3068SSP01|METEORITE SUBLIME,,
 2175SFA01-PEARL PROVINCE,Sets,PEARL PROVINCE-PEARL PROVINCE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -476,7 +476,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,PEARL PROVINCE-PEARL PROVINCE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522463/Summer2018/2175SFA01_2047SCC05_black_3.jpg,2175SFA01_PEARL_PROVINCE,yes,https://res.cloudinary.com/maaji/image/upload/v1517522464/Summer2018/2175SFA01_2047SCC05_black_4.jpg,2175SFA01_PEARL_PROVINCE,,https://res.cloudinary.com/maaji/image/upload/v1517522465/Summer2018/2175SFA01_2047SCC05_black_7.jpg,2175SFA01_PEARL_PROVINCE,,https://res.cloudinary.com/maaji/image/upload/v1517522464/Summer2018/2175SFA01_2047SCC05_black_8.jpg,2175SFA01_PEARL_PROVINCE,,,,,,,,2175SFA01|PEARL PROVINCE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,PEARL PROVINCE-PEARL PROVINCE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527264742/Summer2018/2175SFA01_2047SCC05_black_3.jpg,2175SFA01_PEARL_PROVINCE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527264744/Summer2018/2175SFA01_2047SCC05_black_4.jpg,2175SFA01_PEARL_PROVINCE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527264746/Summer2018/2175SFA01_2047SCC05_black_7.jpg,2175SFA01_PEARL_PROVINCE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527264748/Summer2018/2175SFA01_2047SCC05_black_8.jpg,2175SFA01_PEARL_PROVINCE,no,hi-res,,,,,,,,,2175SFA01|PEARL PROVINCE,,
 3012SFH05-MEDITERRANEAN BLUE SUBLIME,Sets,MEDITERRANEAN BLUE ALLURE-MEDITERRANEAN BLUE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -513,13 +513,13 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE ALLURE-MEDITERRANEAN BLUE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518806482/Summer2018/3012SFH05_3007SAC17_blue_3.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",yes,https://res.cloudinary.com/maaji/image/upload/v1518806481/Summer2018/3012SFH05_3007SAC17_blue_4.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518806482/Summer2018/3012SFH05_3007SAC17_blue_5.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518806482/Summer2018/3012SFH05_3007SAC17_blue_6.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518806483/Summer2018/3012SFH05_3007SAC17_blue_7.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",,https://res.cloudinary.com/maaji/image/upload/v1518806482/Summer2018/3012SFH05_3007SAC17_blue_8.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
-",,3012SFH05|MEDITERRANEAN BLUE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE ALLURE-MEDITERRANEAN BLUE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527629238/Summer2018/3012SFH05_3007SAC17_blue_3.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527629239/Summer2018/3012SFH05_3007SAC17_blue_4.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527629239/Summer2018/3012SFH05_3007SAC17_blue_5.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527629241/Summer2018/3012SFH05_3007SAC17_blue_6.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527629243/Summer2018/3012SFH05_3007SAC17_blue_7.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527629244/Summer2018/3012SFH05_3007SAC17_blue_8.jpg,"3012SFH05_MEDITERRANEAN_BLUE_SUBLIME
+",no,hi-res,3012SFH05|MEDITERRANEAN BLUE SUBLIME,,
 3053SFA05-MEDITERRANEAN BLUE SUBLIME,Sets,MEDITERRANEAN BLUE DECK-MEDITERRANEAN BLUE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -556,7 +556,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE DECK-MEDITERRANEAN BLUE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518288043/Summer2018/3053SFA05_3007SBC17_blue_3.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1518978550/Summer2018/3053SFA05_3007SBC17_blue_4.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518288042/Summer2018/3053SFA05_3007SBC17_blue_5.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518978551/Summer2018/3053SFA05_3007SBC17_blue_6.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,,,,,,,,3053SFA05|MEDITERRANEAN BLUE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE DECK-MEDITERRANEAN BLUE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527885971/Summer2018/3053SFA05_3007SBC17_blue_3.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527885972/Summer2018/3053SFA05_3007SBC17_blue_4.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527885972/Summer2018/3053SFA05_3007SBC17_blue_5.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527885974/Summer2018/3053SFA05_3007SBC17_blue_6.jpg,3053SFA05_MEDITERRANEAN_BLUE_SUBLIME,no,hi-res,,,,,,,,,3053SFA05|MEDITERRANEAN BLUE SUBLIME,,
 3048SUN04-MEDITERRANEAN BLUE FLIRT,Sets,MEDITERRANEAN BLUE LOVELY-MEDITERRANEAN BLUE FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -591,7 +591,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE LOVELY-MEDITERRANEAN BLUE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518276519/Summer2018/3048SUN04_3039SBC05_blue_3.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,yes,https://res.cloudinary.com/maaji/image/upload/v1518276520/Summer2018/3048SUN04_3039SBC05_blue_4.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1518276518/Summer2018/3048SUN04_3039SBC05_blue_5.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1518276519/Summer2018/3048SUN04_3039SBC05_blue_6.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,,,,,,,,3048SUN04|MEDITERRANEAN BLUE FLIRT,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MEDITERRANEAN BLUE LOVELY-MEDITERRANEAN BLUE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527884182/Summer2018/3048SUN04_3039SBC05_blue_3.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527884182/Summer2018/3048SUN04_3039SBC05_blue_4.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527884183/Summer2018/3048SUN04_3039SBC05_blue_5.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527884184/Summer2018/3048SUN04_3039SBC05_blue_6.jpg,3048SUN04_MEDITERRANEAN_BLUE_FLIRT,no,hi-res,,,,,,,,,3048SUN04|MEDITERRANEAN BLUE FLIRT,,
 3045SFT04-BALLERINA ORNATE,Sets,BALLERINA DELIGHTFUL-BALLERINA ORNATE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -628,7 +628,7 @@ Detalle de boleros en costados
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA DELIGHTFUL-BALLERINA ORNATE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518807262/Summer2018/3045SFT04_3052SBC03_pink_3.jpg,3045SFT04_BALLERINA_ORNATE,yes,https://res.cloudinary.com/maaji/image/upload/v1518807264/Summer2018/3045SFT04_3052SBC03_pink_4.jpg,3045SFT04_BALLERINA_ORNATE,,https://res.cloudinary.com/maaji/image/upload/v1518807263/Summer2018/3045SFT04_3052SBC03_pink_5.jpg,3045SFT04_BALLERINA_ORNATE,,https://res.cloudinary.com/maaji/image/upload/v1518807263/Summer2018/3045SFT04_3052SBC03_pink_6.jpg,3045SFT04_BALLERINA_ORNATE,,,,,,,,3045SFT04|BALLERINA ORNATE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA DELIGHTFUL-BALLERINA ORNATE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527861609/Summer2018/3045SFT04_3052SBC03_pink_3.jpg,3045SFT04_BALLERINA_ORNATE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527861610/Summer2018/3045SFT04_3052SBC03_pink_4.jpg,3045SFT04_BALLERINA_ORNATE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527861611/Summer2018/3045SFT04_3052SBC03_pink_5.jpg,3045SFT04_BALLERINA_ORNATE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527861612/Summer2018/3045SFT04_3052SBC03_pink_6.jpg,3045SFT04_BALLERINA_ORNATE,no,hi-res,,,,,,,,,3045SFT04|BALLERINA ORNATE,,
 3011SHN01-BALLERINA SUBLIME,Sets,BALLERINA HONEYCOMB-BALLERINA SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -663,7 +663,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA HONEYCOMB-BALLERINA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518806908/Summer2018/3011SHN01_3007SAC18_pink_3.jpg,3011SHN01_BALLERINA_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1518806909/Summer2018/3011SHN01_3007SAC18_pink_4.jpg,3011SHN01_BALLERINA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518806909/Summer2018/3011SHN01_3007SAC18_pink_5.jpg,3011SHN01_BALLERINA_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1518806909/Summer2018/3011SHN01_3007SAC18_pink_6.jpg,3011SHN01_BALLERINA_SUBLIME,,,,,,,,3011SHN01|BALLERINA SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA HONEYCOMB-BALLERINA SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527627693/Summer2018/3011SHN01_3007SAC18_pink_3.jpg,3011SHN01_BALLERINA_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527627694/Summer2018/3011SHN01_3007SAC18_pink_4.jpg,3011SHN01_BALLERINA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527627696/Summer2018/3011SHN01_3007SAC18_pink_5.jpg,3011SHN01_BALLERINA_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527627696/Summer2018/3011SHN01_3007SAC18_pink_6.jpg,3011SHN01_BALLERINA_SUBLIME,no,hi-res,,,,,,,,,3011SHN01|BALLERINA SUBLIME,,
 2181SBA01-WHEELS AND FRILLS,Sets,WHEELS AND FRILLS-WHEELS AND FRILSS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -700,11 +700,11 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WHEELS AND FRILLS-WHEELS AND FRILSS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517843492/Summer2018/2181SBA01_2062SBC11_blue_3.jpg,"2181SBA01_WHEELS_AND_FRILLS
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517843492/Summer2018/2181SBA01_2062SCC11_blue_4.jpg,"2181SBA01_WHEELS_AND_FRILLS
-",,https://res.cloudinary.com/maaji/image/upload/v1517843492/Summer2018/2181SBA01_2062SBC11_blue_5.jpg,"2181SBA01_WHEELS_AND_FRILLS
-",,https://res.cloudinary.com/maaji/image/upload/v1517843492/Summer2018/2181SBA01_2062SCC11_blue_6.jpg,"2181SBA01_WHEELS_AND_FRILLS
-",,,,,,,,2181SBA01|WHEELS AND FRILLS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WHEELS AND FRILLS-WHEELS AND FRILSS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527601350/Summer2018/2181SBA01_2062SBC11_blue_3.jpg,"2181SBA01_WHEELS_AND_FRILLS
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527601352/Summer2018/2181SBA01_2062SCC11_blue_4.jpg,"2181SBA01_WHEELS_AND_FRILLS
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527601351/Summer2018/2181SBA01_2062SBC11_blue_5.jpg,"2181SBA01_WHEELS_AND_FRILLS
+",no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527601353/Summer2018/2181SBA01_2062SCC11_blue_6.jpg,"2181SBA01_WHEELS_AND_FRILLS
+",no,hi-res,,,,,,,,,2181SBA01|WHEELS AND FRILLS,,
 2153SUN02-GUAJIRA PARK,Sets,GUAJIRA PARK-GUAJIRA PARK,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -741,9 +741,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GUAJIRA PARK-GUAJIRA PARK,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517783371/Summer2018/2153SUN02_2043SBC05_red_3.jpg,"2153SUN02_GUAJIRA_PARK
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517783373/Summer2018/2153SUN02_2043SCC05_red_4.jpg,"2153SUN02_GUAJIRA_PARK
-",,,,,,,,,,,,,,2153SUN02|GUAJIRA PARK,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GUAJIRA PARK-GUAJIRA PARK,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527198259/Summer2018/2153SUN02_2043SBC05_red_3.jpg,"2153SUN02_GUAJIRA_PARK
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527198262/Summer2018/2153SUN02_2043SCC05_red_4.jpg,"2153SUN02_GUAJIRA_PARK
+",no,hi-res,,,,,,,,,,,,,,,,,2153SUN02|GUAJIRA PARK,,
 2167SFT01-RED LEAVES,Sets,RED LEAVES-RED LEAVES,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -781,9 +781,9 @@ Costuras invisibles
 Tiro bajo
 Poco cubrimiento
 Hecho en Colombia""
-",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,RED LEAVES-RED LEAVES,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517879313/Summer2018/2167SFT01_2168SBC01_red_3.jpg.jpg,"2167SFT01_RED_LEAVES
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517879308/Summer2018/2167SFT01_2168SCC01_red_4.jpg,"2167SFT01_RED_LEAVES
-",,,,,,,,,,,,,,2167SFT01|RED LEAVES,,
+",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,RED LEAVES-RED LEAVES,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517879313/Summer2018/2167SFT01_2168SBC01_red_3.jpg,"2167SFT01_RED_LEAVES
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527258534/Summer2018/2167SFT01_2168SCC01_red_4.jpg,"2167SFT01_RED_LEAVES
+",no,hi-res,,,,,,,,,,,,,,,,,2167SFT01|RED LEAVES,,
 2131SUN02-CURUBA TROPICA,Sets,CURUBA TROPICA-CURUBA TROPICA,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -818,9 +818,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CURUBA TROPICA-CURUBA TROPICA,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517842642/Summer2018/2131SUN02_2062SBC09_red_3.jpg,"2131SUN02_CURUBA_TROPICA
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517842643/Summer2018/2131SUN02_2062SCC09_red_4.jpg,"2131SUN02_CURUBA_TROPICA
-",,,,,,,,,,,,,,2131SUN02|CURUBA TROPICA,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CURUBA TROPICA-CURUBA TROPICA,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527195994/Summer2018/2131SUN02_2062SBC09_red_3.jpg,"2131SUN02_CURUBA_TROPICA
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527195997/Summer2018/2131SUN02_2062SCC09_red_4.jpg,"2131SUN02_CURUBA_TROPICA
+",no,hi-res,,,,,,,,,,,,,,,,,2131SUN02|CURUBA TROPICA,,
 2047SHN03-CORAL REEF TOUCAN,Sets,CORAL REEF TOUCAN-CORAL REEF TOUCAN,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -856,9 +856,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CORAL REEF TOUCAN-CORAL REEF TOUCAN,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517787112/Summer2018/2047SHN03_2024SBC05_red_3.jpg,"2047SHN03_CORAL REEF_TOUCAN
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517787111/Summer2018/2047SHN03_2024SBC05_red_4.jpg,"2047SHN03_CORAL REEF_TOUCAN
-",,,,,,,,,,,,,,2047SHN03|CORAL REEF TOUCAN,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CORAL REEF TOUCAN-CORAL REEF TOUCAN,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524779031/Summer2018/2047SHN03_2024SBC05_red_3.jpg,"2047SHN03_CORAL REEF_TOUCAN
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1524779032/Summer2018/2047SHN03_2024SBC05_red_4.jpg,"2047SHN03_CORAL REEF_TOUCAN
+",no,hi-res,,,,,,,,,,,,,,,,,2047SHN03|CORAL REEF TOUCAN,,
 2170SSE01-ANDALUSIA FRILLS,Sets,ANDALUSIA FRILLS-ANDALUSIA FRILLS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -896,9 +896,9 @@ Costuras invisibles
 Tiro bajo
 Detalle de boleros en costados
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,ANDALUSIA FRILLS-ANDALUSIA FRILLS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517881128/Summer2018/2170SSE01_2172SBC01_red_3.jpg,"2170SSE01_ANDALUSIA_FRILLS
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517880543/Summer2018/2170SSE01_2172SDC01_red_4.jpg,"2170SSE01_ANDALUSIA_FRILLS
-",,,,,,,,,,,,,,2170SSE01|ANDALUSIA FRILLS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,ANDALUSIA FRILLS-ANDALUSIA FRILLS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527261991/Summer2018/2170SSE01_2172SBC01_red_3.jpg,"2170SSE01_ANDALUSIA_FRILLS
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527261993/Summer2018/2170SSE01_2172SDC01_red_4.jpg,"2170SSE01_ANDALUSIA_FRILLS
+",no,hi-res,,,,,,,,,,,,,,,,,2170SSE01|ANDALUSIA FRILLS,,
 2161SFA02-AFTERLIFE ISLAND,Sets,AFTERLIFE ISLAND-AFTERLIFE ISLAND,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -935,9 +935,9 @@ Copas  removibles
 Top con escote en """"V""""
 Espalda cruzada ajustable
 Buen cubrimiento delantero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,AFTERLIFE ISLAND-AFTERLIFE ISLAND,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522454/Summer2018/2161SFA02_2187SBC01_black_3.jpg,"2161SFA02_AFTERLIFE_ISLAND
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517522457/Summer2018/2161SFA02_2187SDC01_black_4.jpg,"2161SFA02_AFTERLIFE_ISLAND
-",,,,,,,,,,,,,,2161SFA02|AFTERLIFE ISLAND,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,AFTERLIFE ISLAND-AFTERLIFE ISLAND,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527257050/Summer2018/2161SFA02_2187SBC01_black_3.jpg,"2161SFA02_AFTERLIFE_ISLAND
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527257052/Summer2018/2161SFA02_2187SDC01_black_4.jpg,"2161SFA02_AFTERLIFE_ISLAND
+",no,hi-res,,,,,,,,,,,,,,,,,2161SFA02|AFTERLIFE ISLAND,,
 2173SFA01-SPANISH EXPLORER,Sets,SPANISH EXPLORER-SPANISH EXPLORER,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -972,9 +972,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SPANISH EXPLORER-SPANISH EXPLORER,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522459/Summer2018/2173SFA01_1943SBC04_black_3.jpg,"2173SFA01_SPANISH_EXPLORER
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517522459/Summer2018/2173SFA01_1943SCC04_black_4.jpg,"2173SFA01_SPANISH_EXPLORER
-",,,,,,,,,,,,,,2173SFA01|SPANISH EXPLORER,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SPANISH EXPLORER-SPANISH EXPLORER,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527263416/Summer2018/2173SFA01_1943SBC04_black_3.jpg,"2173SFA01_SPANISH_EXPLORER
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527263418/Summer2018/2173SFA01_1943SCC04_black_4.jpg,"2173SFA01_SPANISH_EXPLORER
+",no,hi-res,,,,,,,,,,,,,,,,,2173SFA01|SPANISH EXPLORER,,
 2050SSE01-BUMPY ROADS,Sets,BUMPY ROADS-BUMPY ROADS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1010,9 +1010,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BUMPY ROADS-BUMPY ROADS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522452/Summer2018/2050SSE01_2050SBC01_black_3.jpg,"2050SSE01_BUMPY_ROADS
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517522453/Summer2018/2050SSE01_2050SDC01_black_4.jpg,"2050SSE01_BUMPY_ROADS
-",,,,,,,,,,,,,,2050SSE01|BUMPY ROADS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BUMPY ROADS-BUMPY ROADS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527189896/Summer2018/2050SSE01_2050SBC01_black_3.jpg,"2050SSE01_BUMPY_ROADS
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527189899/Summer2018/2050SSE01_2050SDC01_black_4.jpg,"2050SSE01_BUMPY_ROADS
+",no,hi-res,,,,,,,,,,,,,,,,,2050SSE01|BUMPY ROADS,,
 2033SUN04-NIGHLTY OASIS,Sets,NIGHLTY OASIS-NIGHLTY OASIS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1048,9 +1048,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,NIGHLTY OASIS-NIGHLTY OASIS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522449/Summer2018/2033SUN04_1943SAC03_black_3.jpg,"2033SUN04_NIGHLTY_OASIS
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517522448/Summer2018/2033SUN04_1943SAC03_black_4.jpg,"2033SUN04_NIGHLTY_OASIS
-",,,,,,,,,,,,,,2033SUN04|NIGHLTY OASIS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,NIGHLTY OASIS-NIGHLTY OASIS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527177837/Summer2018/2033SUN04_1943SAC03_black_3.jpg,"2033SUN04_NIGHLTY_OASIS
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527177840/Summer2018/2033SUN04_1943SAC03_black_4.jpg,"2033SUN04_NIGHLTY_OASIS
+",no,hi-res,,,,,,,,,,,,,,,,,2033SUN04|NIGHLTY OASIS,,
 2174SLT01-GARDEN PILOT,Sets,GARDEN PILOT-GARDEN PILOT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1085,9 +1085,9 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GARDEN PILOT-GARDEN PILOT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522461/Summer2018/2174SLT01_2061SBC03_black_3.jpg,"2174SLT01_GARDEN_PILOT
-",yes,https://res.cloudinary.com/maaji/image/upload/v1517522460/Summer2018/2174SLT01_2061SCC03_black_4.jpg,"2174SLT01_GARDEN_PILOT
-",,,,,,,,,,,,,,2174SLT01|GARDEN PILOT,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GARDEN PILOT-GARDEN PILOT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527264329/Summer2018/2174SLT01_2061SBC03_black_3.jpg,"2174SLT01_GARDEN_PILOT
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527264331/Summer2018/2174SLT01_2061SCC03_black_4.jpg,"2174SLT01_GARDEN_PILOT
+",no,hi-res,,,,,,,,,,,,,,,,,2174SLT01|GARDEN PILOT,,
 1932SFT04-GULF OF PARIA,Sets,GULF OF PARIA-GULF OF PARIA,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1124,8 +1124,8 @@ Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
 Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GULF OF PARIA-GULF OF PARIA,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525793459/Summer2018/1932SFT04_2041SAC07_black_3.jpg,"1932SFT04_GULF_OF_PARIA
-",yes,https://res.cloudinary.com/maaji/image/upload/v1525793461/Summer2018/1932SFT04_2041SAC07_black_4.jpg,"1932SFT04_GULF_OF_PARIA
-",,,,,,,,,,,,,,1932SFT04|GULF OF PARIA,,
+",yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525793461/Summer2018/1932SFT04_2041SAC07_black_4.jpg,"1932SFT04_GULF_OF_PARIA
+",no,hi-res,,,,,,,,,,,,,,,,,1932SFT04|GULF OF PARIA,,
 2162SFA02-ARAWAKS ROCKS,Sets,ARAWAKS ROCKS-ARAWAKS ROCKS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1162,7 +1162,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,ARAWAKS ROCKS-ARAWAKS ROCKS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517843007/Summer2018/2162SFA02_2062SBC10_blue_3.jpg,2162SFA02_ARAWAKS_ROCKS,yes,https://res.cloudinary.com/maaji/image/upload/v1517843008/Summer2018/2162SFA02_2062SDC10_blue_4.jpg,2162SFA02_ARAWAKS_ROCKS,,,,,,,,,,,,,,2162SFA02|ARAWAKS ROCKS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,ARAWAKS ROCKS-ARAWAKS ROCKS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527257435/Summer2018/2162SFA02_2062SBC10_blue_3.jpg,2162SFA02_ARAWAKS_ROCKS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527257437/Summer2018/2162SFA02_2062SDC10_blue_4.jpg,2162SFA02_ARAWAKS_ROCKS,no,hi-res,,,,,,,,,,,,,,,,,2162SFA02|ARAWAKS ROCKS,,
 2177SFA01-RALLY RACERS,Sets,RALLY RACERS-RALLY RACERS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1199,7 +1199,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,RALLY RACERS-RALLY RACERS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517934845/Summer2018/2179SSE01_2061SBC05_blue_3.jpg,2177SFA01_RALLY_RACERS,yes,https://res.cloudinary.com/maaji/image/upload/v1517842170/Summer2018/2179SSE01_2061SDC05_blue_4.jpg,2177SFA01_RALLY_RACERS,,,,,,,,,,,,,,2177SFA01|RALLY RACERS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,RALLY RACERS-RALLY RACERS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527265613/Summer2018/2177SFA01_2043SAC07_blue_3.jpg,2177SFA01_RALLY_RACERS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527265615/Summer2018/2177SFA01_2043SBC07_blue_4.jpg,2177SFA01_RALLY_RACERS,no,hi-res,,,,,,,,,,,,,,,,,2177SFA01|RALLY RACERS,,
 2178SUN01-HIDDEN LAGOON,Sets,HIDDEN LAGOON-HIDDEN LAGOON,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1235,7 +1235,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,HIDDEN LAGOON-HIDDEN LAGOON,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517782179/Summer2018/2178SUN01_2043SAC08_blue_3.jpg,2178SUN01_HIDDEN_LAGOON,yes,https://res.cloudinary.com/maaji/image/upload/v1517782178/Summer2018/2178SUN01_2043SBC08_blue_4.jpg,2178SUN01_HIDDEN_LAGOON,,,,,,,,,,,,,,2178SUN01|HIDDEN LAGOON,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,HIDDEN LAGOON-HIDDEN LAGOON,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527266211/Summer2018/2178SUN01_2043SAC08_blue_3.jpg,2178SUN01_HIDDEN_LAGOON,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527266214/Summer2018/2178SUN01_2043SBC08_blue_4.jpg,2178SUN01_HIDDEN_LAGOON,no,hi-res,,,,,,,,,,,,,,,,,2178SUN01|HIDDEN LAGOON,,
 2179SSE01-SUNNY RIDES,Sets,SUNNY RIDES-SUNNY RIDES,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1273,7 +1273,7 @@ Costuras invisibles
 Detalle de crocheta en los costados
 Tiro bajo
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SUNNY RIDES-SUNNY RIDES,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517934845/Summer2018/2179SSE01_2061SBC05_blue_3.jpg,2179SSE01_SUNNY_RIDES,yes,https://res.cloudinary.com/maaji/image/upload/v1517842170/Summer2018/2179SSE01_2061SDC05_blue_4.jpg,2179SSE01_SUNNY_RIDES,,,,,,,,,,,,,,2179SSE01|SUNNY RIDES,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SUNNY RIDES-SUNNY RIDES,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527266620/Summer2018/2179SSE01_2061SBC05_blue_3.jpg,2179SSE01_SUNNY_RIDES,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527266622/Summer2018/2179SSE01_2061SDC05_blue_4.jpg,2179SSE01_SUNNY_RIDES,no,hi-res,,,,,,,,,,,,,,,,,2179SSE01|SUNNY RIDES,,
 2180SFT01-AMERICAN FLAMINGOS,Sets,AMERICAN FLAMINGOS-AMERICAN FLAMINGOS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1310,7 +1310,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,AMERICAN FLAMINGOS-AMERICAN FLAMINGOS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517838195/Summer2018/2180SFT01_2061SBC04_blue_3.jpg,2180SFT01_AMERICAN_FLAMINGOS,yes,https://res.cloudinary.com/maaji/image/upload/v1517838195/Summer2018/2180SFT01_2061SCC04_blue_4.jpg,2180SFT01_AMERICAN_FLAMINGOS,,,,,,,,,,,,,,2180SFT01|AMERICAN FLAMINGOS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,AMERICAN FLAMINGOS-AMERICAN FLAMINGOS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527518394/Summer2018/2180SFT01_2061SBC04_blue_3.jpg,2180SFT01_AMERICAN_FLAMINGOS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527518395/Summer2018/2180SFT01_2061SCC04_blue_4.jpg,2180SFT01_AMERICAN_FLAMINGOS,no,hi-res,,,,,,,,,,,,,,,,,2180SFT01|AMERICAN FLAMINGOS,,
 2112SFA02-BLUE CACIQUE,Sets,BLUE CACIQUE-BLUE CACIQUE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1346,7 +1346,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BLUE CACIQUE-BLUE CACIQUE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517781129/Summer2018/2112SFA02_2041SBC08_blue_3.jpg,2112SFA02_BLUE_CACIQUE,yes,https://res.cloudinary.com/maaji/image/upload/v1517781131/Summer2018/2112SFA02_2041SBC08_blue_4.jpg,2112SFA02_BLUE_CACIQUE,,https://res.cloudinary.com/maaji/image/upload/v1518986784/Summer2018/2112SFA02_2041SBC08_blue_5.jpg,2112SFA02_BLUE_CACIQUE,,https://res.cloudinary.com/maaji/image/upload/v1518986787/Summer2018/2112SFA02_2041SBC08_blue_6.jpg,2112SFA02_BLUE_CACIQUE,,,,,,,,2112SFA02|BLUE CACIQUE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BLUE CACIQUE-BLUE CACIQUE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527193676/Summer2018/2112SFA02_2041SBC08_blue_3.jpg,2112SFA02_BLUE_CACIQUE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527193680/Summer2018/2112SFA02_2041SBC08_blue_4.jpg,2112SFA02_BLUE_CACIQUE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527193683/Summer2018/2112SFA02_2041SBC08_blue_5.jpg,2112SFA02_BLUE_CACIQUE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527193686/Summer2018/2112SFA02_2041SBC08_blue_6.jpg,2112SFA02_BLUE_CACIQUE,no,hi-res,,,,,,,,,2112SFA02|BLUE CACIQUE,,
 3068SSP02-SAND STONE SUBLIME,Sets,SAND STONE COCKTAIL-SAND STONE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1382,7 +1382,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE COCKTAIL-SAND STONE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522835/Summer2018/3068SSP02_3007SDC19_orange_3.jpg,3068SSP02_SAND_STONE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1517522835/Summer2018/3068SSP02_3007SDC19_orange_4.jpg,3068SSP02_SAND_STONE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522834/Summer2018/3068SSP02_3007SDC19_orange_5.jpg,3068SSP02_SAND_STONE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522836/Summer2018/3068SSP02_3007SDC19_orange_6.jpg,3068SSP02_SAND_STONE_SUBLIME,,,,,,,,3068SSP02|SAND STONE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE COCKTAIL-SAND STONE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528042610/Summer2018/3068SSP02_3007SDC19_orange_3.jpg,3068SSP02_SAND_STONE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528042614/Summer2018/3068SSP02_3007SDC19_orange_4.jpg,3068SSP02_SAND_STONE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528042618/Summer2018/3068SSP02_3007SDC19_orange_5.jpg,3068SSP02_SAND_STONE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528042623/Summer2018/3068SSP02_3007SDC19_orange_6.jpg,3068SSP02_SAND_STONE_SUBLIME,no,hi-res,,,,,,,,,3068SSP02|SAND STONE SUBLIME,,
 3063SBR02-SAND STONE RENDEZVOUS,Sets,SAND STONE DUNES-SAND STONE RENDEZVOUS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1419,7 +1419,7 @@ Costuras invisibles
 Ajustable en costados
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE DUNES-SAND STONE RENDEZVOUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522832/Summer2018/3063SBR02_3013SCC04_orange_5.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1517522833/Summer2018/3063SBR02_3013SCC04_orange_6.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,,https://res.cloudinary.com/maaji/image/upload/v1517522833/Summer2018/3063SBR02_3013SCC04_orange_3.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,yes,https://res.cloudinary.com/maaji/image/upload/v1517522834/Summer2018/3063SBR02_3013SCC04_orange_4.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,,,,,,,,3063SBR02|SAND STONE RENDEZVOUS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE DUNES-SAND STONE RENDEZVOUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528038842/Summer2018/3063SBR02_3013SCC04_orange_5.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038847/Summer2018/3063SBR02_3013SCC04_orange_6.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038834/Summer2018/3063SBR02_3013SCC04_orange_3.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528038838/Summer2018/3063SBR02_3013SCC04_orange_4.jpg,3063SBR02_SAND_STONE_RENDEZVOUS,no,hi-res,,,,,,,,,3063SBR02|SAND STONE RENDEZVOUS,,
 3069SSE01-SAND STONE SUBLIME,Sets,SAND STONE LEGEND-SAND STONE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1455,7 +1455,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE LEGEND-SAND STONE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522837/Summer2018/3069SSE01_3007SDC19_orange_3.jpg,3069SSE01_SAND_STONE_SUBLIME,yes,https://res.cloudinary.com/maaji/image/upload/v1517522835/Summer2018/3069SSE01_3007SDC19_orange_4.jpg,3069SSE01_SAND_STONE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522838/Summer2018/3069SSE01_3007SDC19_orange_5.jpg,3069SSE01_SAND_STONE_SUBLIME,,https://res.cloudinary.com/maaji/image/upload/v1517522837/Summer2018/3069SSE01_3007SDC19_orange_6.jpg,3069SSE01_SAND_STONE_SUBLIME,,,,,,,,3069SSE01|SAND STONE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE LEGEND-SAND STONE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528043107/Summer2018/3069SSE01_3007SDC19_orange_3.jpg,3069SSE01_SAND_STONE_SUBLIME,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043110/Summer2018/3069SSE01_3007SDC19_orange_4.jpg,3069SSE01_SAND_STONE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043115/Summer2018/3069SSE01_3007SDC19_orange_5.jpg,3069SSE01_SAND_STONE_SUBLIME,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043119/Summer2018/3069SSE01_3007SDC19_orange_6.jpg,3069SSE01_SAND_STONE_SUBLIME,no,hi-res,,,,,,,,,3069SSE01|SAND STONE SUBLIME,,
 3070SBR01-MAUVE FLIRT,Sets,MAUVE AFTERLIGHT-MAUVE FLIRT,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1492,7 +1492,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MAUVE AFTERLIGHT-MAUVE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522838/Summer2018/3070SBR01_3039SBC06_purple_3.jpg,3070SBR01_MAUVE_FLIRT,yes,https://res.cloudinary.com/maaji/image/upload/v1517522838/Summer2018/3070SBR01_3039SBC06_purple_4.jpg,3070SBR01_MAUVE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522839/Summer2018/3070SBR01_3039SCC06_purple_5.jpg,3070SBR01_MAUVE_FLIRT,,https://res.cloudinary.com/maaji/image/upload/v1517522839/Summer2018/3070SBR01_3039SCC06_purple_6.jpg,3070SBR01_MAUVE_FLIRT,,,,,,,,3070SBR01|MAUVE FLIRT,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MAUVE AFTERLIGHT-MAUVE FLIRT,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528043917/Summer2018/3070SBR01_3039SBC06_purple_3.jpg,3070SBR01_MAUVE_FLIRT,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043921/Summer2018/3070SBR01_3039SBC06_purple_4.jpg,3070SBR01_MAUVE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043926/Summer2018/3070SBR01_3039SCC06_purple_5.jpg,3070SBR01_MAUVE_FLIRT,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528043930/Summer2018/3070SBR01_3039SCC06_purple_6.jpg,3070SBR01_MAUVE_FLIRT,no,hi-res,,,,,,,,,3070SBR01|MAUVE FLIRT,,
 2021SFA04-SUNDOWN SOCIETY,Sets,SUNDOWN SOCIETY-SUNDOWN SOCIETY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1529,7 +1529,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Corte tipo brasilero
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SUNDOWN SOCIETY-SUNDOWN SOCIETY,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522818/Summer2018/2021SFA04_2110SBC03_orange_3.jpg,2021SFA04_SUNDOWN_SOCIETY,yes,https://res.cloudinary.com/maaji/image/upload/v1517522819/Summer2018/2021SFA04_2110SDC03_orange_4.jpg,2021SFA04_SUNDOWN_SOCIETY,,https://res.cloudinary.com/maaji/image/upload/v1517522819/Summer2018/2021SFA04_2110SBC03_orange_5.jpg,2021SFA04_SUNDOWN_SOCIETY,,https://res.cloudinary.com/maaji/image/upload/v1517522819/Summer2018/2021SFA04_2110SDC03_orange_8.jpg,2021SFA04_SUNDOWN_SOCIETY,,,,,,,,2021SFA04|SUNDOWN SOCIETY,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SUNDOWN SOCIETY-SUNDOWN SOCIETY,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527174911/Summer2018/2021SFA04_2110SBC03_orange_3.jpg,2021SFA04_SUNDOWN_SOCIETY,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527174917/Summer2018/2021SFA04_2110SDC03_orange_4.jpg,2021SFA04_SUNDOWN_SOCIETY,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527174914/Summer2018/2021SFA04_2110SBC03_orange_5.jpg,2021SFA04_SUNDOWN_SOCIETY,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527174920/Summer2018/2021SFA04_2110SDC03_orange_8.jpg,2021SFA04_SUNDOWN_SOCIETY,no,hi-res,,,,,,,,,2021SFA04|SUNDOWN SOCIETY,,
 2186SSP01-TEMPO DUSK,Sets,TEMPO DUSK-TEMPO DUSK,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1564,7 +1564,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Poco cubrimiento 
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,TEMPO DUSK-TEMPO DUSK,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522827/Summer2018/2186SSP01_2023SBC01_orange_3.jpg,2186SSP01_TEMPO_DUSK,yes,https://res.cloudinary.com/maaji/image/upload/v1517522829/Summer2018/2186SSP01_2023SCC01_orange_4.jpg,2186SSP01_TEMPO_DUSK,,,,,,,,,,,,,,2186SSP01|TEMPO DUSK,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,TEMPO DUSK-TEMPO DUSK,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527606389/Summer2018/2186SSP01_2023SBC01_orange_3.jpg,2186SSP01_TEMPO_DUSK,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527606390/Summer2018/2186SSP01_2023SCC01_orange_4.jpg,2186SSP01_TEMPO_DUSK,no,hi-res,,,,,,,,,,,,,,,,,2186SSP01|TEMPO DUSK,,
 2183SCT01-SECOND NATURE,Sets,SECOND NATURE-SECOND NATURE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1598,7 +1598,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SECOND NATURE-SECOND NATURE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522823/Summer2018/2183SCT01_2188SBC01_orange_3.jpg,2183SCT01_SECOND_NATURE,yes,https://res.cloudinary.com/maaji/image/upload/v1517522824/Summer2018/2183SCT01_2188SCC01_orange_4.jpg,2183SCT01_SECOND_NATURE,,,,,,,,,,,,,,2183SCT01|SECOND NATURE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SECOND NATURE-SECOND NATURE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527603330/Summer2018/2183SCT01_2188SBC01_orange_3.jpg,2183SCT01_SECOND_NATURE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527603330/Summer2018/2183SCT01_2188SCC01_orange_4.jpg,2183SCT01_SECOND_NATURE,no,hi-res,,,,,,,,,,,,,,,,,2183SCT01|SECOND NATURE,,
 1932SFT05-DOLCE VELOCE,Sets,DOLCE VELOCE-DOLCE VELOCE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1634,7 +1634,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DOLCE VELOCE-DOLCE VELOCE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522816/Summer2018/1932SFT05_1932SAC02_orange_3.jpg,1932SFT05_DOLCE_VELOCE,yes,https://res.cloudinary.com/maaji/image/upload/v1517522817/Summer2018/1932SFT05_1932SAC02_orange_4.jpg,1932SFT05_DOLCE_VELOCE,,,,,,,,,,,,,,1932SFT05|DOLCE VELOCE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,DOLCE VELOCE-DOLCE VELOCE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525814680/Summer2018/1932SFT05_1932SAC02_orange_3.jpg,1932SFT05_DOLCE_VELOCE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525814682/Summer2018/1932SFT05_1932SAC02_orange_4.jpg,1932SFT05_DOLCE_VELOCE,no,hi-res,,,,,,,,,,,,,,,,,1932SFT05|DOLCE VELOCE,,
 2131SUN03-CURUBA HIBISCUS,Sets,CURUBA HIBISCUS-CURUBA HIBISCUS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1669,7 +1669,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CURUBA HIBISCUS-CURUBA HIBISCUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522821/Summer2018/2131SUN03_2062SBC12_orange_3.jpg,2131SUN03_CURUBA_HIBISCUS,yes,https://res.cloudinary.com/maaji/image/upload/v1517522821/Summer2018/2131SUN03_2062SCC12_orange_4.jpg,2131SUN03_CURUBA_HIBISCUS,,,,,,,,,,,,,,2131SUN03|CURUBA HIBISCUS,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CURUBA HIBISCUS-CURUBA HIBISCUS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527196962/Summer2018/2131SUN03_2062SBC12_orange_3.jpg,2131SUN03_CURUBA_HIBISCUS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527196967/Summer2018/2131SUN03_2062SCC12_orange_4.jpg,2131SUN03_CURUBA_HIBISCUS,no,hi-res,,,,,,,,,,,,,,,,,2131SUN03|CURUBA HIBISCUS,,
 2184SBA01-OASIS GARDEN,Sets,OASIS GARDEN-OASIS GARDEN,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1705,7 +1705,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Cubrimiento moderado
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,OASIS GARDEN-OASIS GARDEN,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522824/Summer2018/2184SBA01_2168SBC02_purple_3.jpg,2184SBA01_OASIS_GARDEN,yes,https://res.cloudinary.com/maaji/image/upload/v1517522826/Summer2018/2184SBA01_2168SBC02_purple_4.jpg,2184SBA01_OASIS_GARDEN,,https://res.cloudinary.com/maaji/image/upload/v1517522826/Summer2018/2184SBA01_2168SBC02_purple_7.jpg,2184SBA01_OASIS_GARDEN,,https://res.cloudinary.com/maaji/image/upload/v1517522827/Summer2018/2184SBA01_2168SBC02_purple_8.jpg,2184SBA01_OASIS_GARDEN,,,,,,,,2184SBA01|OASIS GARDEN,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,OASIS GARDEN-OASIS GARDEN,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527604122/Summer2018/2184SBA01_2168SBC02_purple_3.jpg,2184SBA01_OASIS_GARDEN,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527604123/Summer2018/2184SBA01_2168SBC02_purple_4.jpg,2184SBA01_OASIS_GARDEN,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527604124/Summer2018/2184SBA01_2168SBC02_purple_7.jpg,2184SBA01_OASIS_GARDEN,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527604125/Summer2018/2184SBA01_2168SBC02_purple_8.jpg,2184SBA01_OASIS_GARDEN,no,hi-res,,,,,,,,,2184SBA01|OASIS GARDEN,,
 3061SSP01-SHIMMERING COGNAC CASCADE,Sets,SHIMMERING COGNAC PORTO-SHIMMERING COGNAC CASCADE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1741,7 +1741,7 @@ Reversible
 Costuras invisibles
 Corte retro de pierna alta
 Poco cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC PORTO-SHIMMERING COGNAC CASCADE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1518979822/Summer2018/3061SSP01_3008SCC02_red_3.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,yes,https://res.cloudinary.com/maaji/image/upload/v1518979821/Summer2018/3061SSP01_30082CC02_red_4.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1518979820/Summer2018/3061SSP01_3008SCC02_red_5.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,,https://res.cloudinary.com/maaji/image/upload/v1518979812/Summer2018/3061SSP01_3008SCC02_red_6.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,,,,,,,,3061SSP01|SHIMMERING COGNAC CASCADE,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SHIMMERING COGNAC PORTO-SHIMMERING COGNAC CASCADE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1528036072/Summer2018/3061SSP01_30082CC02_red_4.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036070/Summer2018/3061SSP01_3008SCC02_red_3.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036070/Summer2018/3061SSP01_3008SCC02_red_5.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1528036071/Summer2018/3061SSP01_3008SCC02_red_6.jpg,3061SSP01_SHIMMERING_COGNAC_CASCADE,no,hi-res,,,,,,,,,3061SSP01|SHIMMERING COGNAC CASCADE,,
 1483CCT02-SUNSHINE VALLEY,Sets,CARIBBEAN OASIS-SUNSHINE VALLEY,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1769,7 +1769,7 @@ Crop Top anudado en delantero con mangas cortas.
 Tiene diferentes maneras de poner y anudar. 
 
 BOTTOM:
-Pantalon gaucho con aberturas laterales y pretina elástica en posterior",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CARIBBEAN OASIS-SUNSHINE VALLEY,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524759694/Summer2018/1483CCT02_1468CPA03_red_3.jpg,1483CCT02_1468CPA03,yes,https://res.cloudinary.com/maaji/image/upload/v1524759697/Summer2018/1483CCT02_1468CPA03_red_4.jpg,1483CCT02_1468CPA03,,,,,,,,,,,,,,1483CCT02|1468CPA03,,
+Pantalon gaucho con aberturas laterales y pretina elástica en posterior",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,CARIBBEAN OASIS-SUNSHINE VALLEY,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1524759694/Summer2018/1483CCT02_1468CPA03_red_3.jpg,1483CCT02_1468CPA03,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1524759697/Summer2018/1483CCT02_1468CPA03_red_4.jpg,1483CCT02_1468CPA03,no,hi-res,,,,,,,,,,,,,,,,,1483CCT02|1468CPA03,,
 2174SLT01-WHITE SAND,Sets,GARDEN PILOT-WHITE SAND,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1801,7 +1801,7 @@ Hecho en Colombia
 
 BOTTOM:
 Short ajustado con pretina elastica con jareta para graduar la media de la cintura.
-La tela de este short es  elastica y se ajusta al cuerpo.",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GARDEN PILOT-WHITE SAND,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522460/Summer2018/2174SLT01_1372CSH02_black_3.jpg,2174SLT01_1372CSH02,yes,https://res.cloudinary.com/maaji/image/upload/v1517522460/Summer2018/2174SLT01_1372CSH02_black_4.jpg,2174SLT01_1372CSH02,,,,,,,,,,,,,,2174SLT01|1372CSH02,,
+La tela de este short es  elastica y se ajusta al cuerpo.",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,GARDEN PILOT-WHITE SAND,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527263991/Summer2018/2174SLT01_1372CSH02_black_3.jpg,2174SLT01_1372CSH02,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527264004/Summer2018/2174SLT01_1372CSH02_black_4.jpg,2174SLT01_1372CSH02,no,hi-res,,,,,,,,,,,,,,,,,2174SLT01|1372CSH02,,
 1508CCT01-VIVACIOUS QUEST,Sets,WANNA HAVE SUN-VIVACIOUS QUEST,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1830,7 +1830,7 @@ Cargaderas en trenza fijas
 Encauchado
 
 BOTTOM:
-Falda con pretina elástica en v. Tiene una mezcla de telas entre punto y plano con Bolsillos laterales",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WANNA HAVE SUN-VIVACIOUS QUEST,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525297386/Summer2018/1508CCT01_1507CKS01_green_3.jpg,1508CCT01_1507CKS01,yes,https://res.cloudinary.com/maaji/image/upload/v1525297389/Summer2018/1508CCT01_1507CKS01_green_4.jpg,1508CCT01_1507CKS01,,,,,,,,,,,,,,1508CCT01|1507CKS01,,
+Falda con pretina elástica en v. Tiene una mezcla de telas entre punto y plano con Bolsillos laterales",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,WANNA HAVE SUN-VIVACIOUS QUEST,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525297386/Summer2018/1508CCT01_1507CKS01_green_3.jpg,1508CCT01_1507CKS01,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525297389/Summer2018/1508CCT01_1507CKS01_green_4.jpg,1508CCT01_1507CKS01,no,hi-res,,,,,,,,,,,,,,,,,1508CCT01|1507CKS01,,
 1516CCT01-GAZING AT BEAUTIFUL,Sets,NO MATTER WHERE-GAZING AT BEAUTIFUL,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1857,7 +1857,7 @@ adicional a lo requerido por las leyes colombianas de protección al consumidor.<
 Top reversible, se puede anudar al frente o en la espalda, con cargaderas ajustables 
 
 BOTTOM:
-Falda larga con pretina ajustable y abertura en delantero",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,NO MATTER WHERE-GAZING AT BEAUTIFUL,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525310553/Summer2018/1516CCT01_1446CKL01_blue_3.jpg,1516CCT01_1446CKL01,yes,https://res.cloudinary.com/maaji/image/upload/v1525310560/Summer2018/1516CCT01_1446CKL01_blue_4.jpg,1516CCT01_1446CKL01,,https://res.cloudinary.com/maaji/image/upload/v1525310566/Summer2018/1516CCT01_1446CKL01_blue_5.jpg,1516CCT01_1446CKL01,,https://res.cloudinary.com/maaji/image/upload/v1525310628/Summer2018/1516CCT01_1446CKL01_blue_6.jpg,1516CCT01_1446CKL01,,https://res.cloudinary.com/maaji/image/upload/v1525310639/Summer2018/1516CCT01_1446CKL01_blue_7.jpg,1516CCT01_1446CKL01,,https://res.cloudinary.com/maaji/image/upload/v1525310645/Summer2018/1516CCT01_1446CKL01_blue_8.jpg,1516CCT01_1446CKL01,,1516CCT01|1446CKL01,,
+Falda larga con pretina ajustable y abertura en delantero",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,NO MATTER WHERE-GAZING AT BEAUTIFUL,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525310553/Summer2018/1516CCT01_1446CKL01_blue_3.jpg,1516CCT01_1446CKL01,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525310560/Summer2018/1516CCT01_1446CKL01_blue_4.jpg,1516CCT01_1446CKL01,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525310566/Summer2018/1516CCT01_1446CKL01_blue_5.jpg,1516CCT01_1446CKL01,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525310628/Summer2018/1516CCT01_1446CKL01_blue_6.jpg,1516CCT01_1446CKL01,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525310639/Summer2018/1516CCT01_1446CKL01_blue_7.jpg,1516CCT01_1446CKL01,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525310645/Summer2018/1516CCT01_1446CKL01_blue_8.jpg,1516CCT01_1446CKL01,no,hi-res,1516CCT01|1446CKL01,,
 3042SFH03-MAUVE SUBLIME,Sets,MAUVE VALLEY-MAUVE SUBLIME,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1893,7 +1893,7 @@ Reversible
 Costuras invisibles
 Tiro bajo
 Mayor cubrimiento
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MAUVE VALLEY-MAUVE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522831/Summer2018/3042SFH03_3007SAC20_purple_3.jpg,3042SFH03_3007SAC20,yes,https://res.cloudinary.com/maaji/image/upload/v1517522830/Summer2018/3042SFH03_3007SAC20_purple_4.jpg,3042SFH03_3007SAC20,,https://res.cloudinary.com/maaji/image/upload/v1517522831/Summer2018/3042SFH03_3007SAC20_purple_5.jpg,3042SFH03_3007SAC20,,https://res.cloudinary.com/maaji/image/upload/v1517522832/Summer2018/3042SFH03_3007SAC20_purple_6.jpg,3042SFH03_3007SAC20,,,,,,,,3042SFH03|MAUVE SUBLIME,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,MAUVE VALLEY-MAUVE SUBLIME,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527642351/Summer2018/3042SFH03_3007SAC20_purple_3.jpg,3042SFH03_3007SAC20,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527642352/Summer2018/3042SFH03_3007SAC20_purple_4.jpg,3042SFH03_3007SAC20,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527642354/Summer2018/3042SFH03_3007SAC20_purple_5.jpg,3042SFH03_3007SAC20,no,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527642355/Summer2018/3042SFH03_3007SAC20_purple_6.jpg,3042SFH03_3007SAC20,no,hi-res,,,,,,,,,3042SFH03|MAUVE SUBLIME,,
 3063SBR02-SURFER SCORPION,Sets,SAND STONE DUNES-SURFER SCORPION,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1926,7 +1926,7 @@ Hecho en Colombia
 
 BOTTOM:
 Fajón ancho
-Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE DUNES-SURFER SCORPION,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522829/Summer2018/2187SSF01_orange_3.jpg,3063SBR02_SURFER_SCORPION,yes,https://res.cloudinary.com/maaji/image/upload/v1517522830/Summer2018/2187SSF01_orange_4.jpg,3063SBR02_SURFER_SCORPION,,,,,,,,,,,,,,3063SBR02|SURFER SCORPION,,
+Hecho en Colombia",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SAND STONE DUNES-SURFER SCORPION,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527608248/Summer2018/2187SSF01_orange_3.jpg,3063SBR02_SURFER_SCORPION,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527608248/Summer2018/2187SSF01_orange_4.jpg,3063SBR02_SURFER_SCORPION,no,hi-res,,,,,,,,,,,,,,,,,3063SBR02|SURFER SCORPION,,
 2183SCT01-EPIC SUNSET,Sets,SECOND NATURE-EPIC SUNSET,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1956,7 +1956,7 @@ Buen cubrimiento
 Hecho en Colombia
 
 BOTTOM:
-Short pretina elástica, con voleros en costados",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SECOND NATURE-EPIC SUNSET,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517522823/Summer2018/2183SCT01_1442CSH05_orange_3.jpg,2183SCT01-1442CSH05,yes,https://res.cloudinary.com/maaji/image/upload/v1517522824/Summer2018/2183SCT01_1442CSH05_orange_4.jpg,2183SCT01-1442CSH05,,,,,,,,,,,,,,2183SCT01|1442CSH05,,
+Short pretina elástica, con voleros en costados",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,SECOND NATURE-EPIC SUNSET,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527602857/Summer2018/2183SCT01_1442CSH05_orange_3.jpg,2183SCT01-1442CSH05,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527602859/Summer2018/2183SCT01_1442CSH05_orange_4.jpg,2183SCT01-1442CSH05,no,hi-res,,,,,,,,,,,,,,,,,2183SCT01|1442CSH05,,
 1519CCT01-EXOTIC VOYAGE,Sets,TRADE WINDS-EXOTIC VOYAGE,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -1983,7 +1983,7 @@ adicional a lo requerido por las leyes colombianas de protección al consumidor.<
 Top de un hombro con bolero y top interno elástico.
 
 BOTTOM:
-Falda corta con pretina elástica y bolsillos en laterales",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,TRADE WINDS-EXOTIC VOYAGE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525312007/Summer2018/1519CCT01_1469CKS04_orange_3.jpg,1519CCT01_EXOTICVOYAGE,yes,https://res.cloudinary.com/maaji/image/upload/v1525312013/Summer2018/1519CCT01_1469CKS04_orange_4.jpg,1519CCT01_EXOTICVOYAGE,,,,,,,,,,,,,,1519CCT01|1469CKS04,,
+Falda corta con pretina elástica y bolsillos en laterales",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,TRADE WINDS-EXOTIC VOYAGE,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1525312007/Summer2018/1519CCT01_1469CKS04_orange_3.jpg,1519CCT01_EXOTICVOYAGE,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1525312013/Summer2018/1519CCT01_1469CKS04_orange_4.jpg,1519CCT01_EXOTICVOYAGE,no,hi-res,,,,,,,,,,,,,,,,,1519CCT01|1469CKS04,,
 3045SFT04-SAILING SHIPS,Sets,BALLERINA DELIGHTFUL-SAILING SHIPS,active,active,Maaji,Colombia,1,1,,SWIMWEAR > MATCHING SETS,default,SWIMWEAR > MATCHING SETS,Maaji_US,SWIMWEAR > MATCHING SETS,Maaji_EUR,SWIMWEAR > MATCHING SETS,Maaji_AU,SWIMWEAR > MATCHING SETS,Maaji_CO,"Entrega
 Envió GRATUITO dentro de COLOMBIA para pedidos superiores a COP $250.000. 
 Los pedidos inferiores a $250.000 incurrirán en una tarifa de envío. Los plazos de 
@@ -2015,4 +2015,4 @@ Buen cubrimiento en delantero
 Hecho en Colombia
 
 BOTTOM:
-Short pretina elástica, con voleros en costados",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA DELIGHTFUL-SAILING SHIPS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1517593440/Summer2018/3045SFT04_1442CSH06_blue_3.jpg,3045SFT04-SAILING SHIPS,yes,https://res.cloudinary.com/maaji/image/upload/v1517593442/Summer2018/3045SFT04_1442CSH06_blue_4.jpg,3045SFT04-SAILING SHIPS,,,,,,,,,,,,,,3045SFT04|1442CSH06,,
+Short pretina elástica, con voleros en costados",,,,Nuestra modelo usa talla colombiana:  S,,SUMMER 2018,COLOMBIA,,BALLERINA DELIGHTFUL-SAILING SHIPS,MUJERES,2018,https://res.cloudinary.com/maaji/image/upload/v1527861278/Summer2018/3045SFT04_1442CSH06_blue_3.jpg,3045SFT04-SAILING SHIPS,yes,hi-res,https://res.cloudinary.com/maaji/image/upload/v1527861279/Summer2018/3045SFT04_1442CSH06_blue_4.jpg,3045SFT04-SAILING SHIPS,no,hi-res,,,,,,,,,,,,,,,,,3045SFT04|1442CSH06,,
