@@ -1,0 +1,16 @@
+PREGUNTAS SOBRE LAS REGLAS DE LAS CATEGORÍAS
+
+1. Cómo puedo asociar en el archivo CSV de las reglas varias condiciones sobre un mismo campo o atributo?
+
+2. Desde saya los productos se clasifican en diferentes categorías, por ejemplo para los accesorios podemos tener lo siguiente:
+
+ACCESORIES BAG
+ACCESORIES JEWELRY
+ACCESORIES HAT
+ACCESORIES SHOES
+ACCESORIES FLIP FLOPS
+ACCESORIES SANDALS
+ACCESORIES BEACH 
+HEAD ACCESORY
+
+Como puedo desde el archivo CSV condicionar para tener en cuenta cada una de estas categorías y así poder determinar su categoría en FF, es decir que si algún producto pertenece a alguna de estas categorías me lo clasifique en la categoría de accesorios, para no tener que crear una archivo por cada una de estas opciones, y por ende no tener varias reglas creadas, sino que desde una misma regla condicionar todos los posibles valores de un atributo o campo.

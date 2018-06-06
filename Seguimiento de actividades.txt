@@ -1,0 +1,22 @@
+SEGUIMIENTO SEMANA DEL 05/06/2018 AL 05/08/2018
+
+
+MARTES 05/06/2018 
+
+Desde las 8:30 AM me quede sin internet hasta las 9:20 AM
+
+A primeras horas de la mañana Jhonatan dijo que hiba a actualizar todos los campos de SAYA, que son requeridos en el API para poder hacer la sincronización de los productos en FF producción.
+
+Cliente objetivo queda inicialmente para todas las referencias de SAYA en women(mujeres).
+
+Jhonatan actualiza colores, tallas, cliente objetivo y estado de conservación de las referencias de SAYA Artmode.
+
+Jonhatan crea en SAYA los nombres de los colores en español
+
+El atributo talla de FF será mapeado con saya con el campo código alterno
+
+El campo talla complemento será mapeado desde SAYA con el campo descripción 1
+
+Línea en SAYA Jhonatan cambia los nombres a español
+
+Cliente Objetivo --> en SAYA Jhonata hace la respectiva traducción

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<order order-no="00035203">
+  <shipments>
+    <shipment>
+      <product-lineitems>
+        <product-lineitem position="1">
+          <product-id>1218XTW02</product-id>
+          <product-qty>7</product-qty>
+          <custom-attribute attribute-id="productLineStatus">
+            <value>Returned</value>
+          </custom-attribute>
+        </product-lineitem>
+      </product-lineitems>
+    </shipment>
+  </shipments>
+  <custom-attributes>
+    <custom-attribute attribute-id="orderHeaderStatus">
+      <value>Order Returned</value>
+    </custom-attribute>
+  </custom-attributes>
+</order>

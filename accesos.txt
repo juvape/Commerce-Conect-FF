@@ -1,6 +1,6 @@
 ACCESOS
 
-FUSION FACTORY
+FUSION FACTORY DESARROLLO
 
 https://staging-product.commerceconnect.co
 
@@ -8,6 +8,12 @@ Username: jsoto@maajiswimwear.com
 Password: RI5g0dED$un4e$VA
 
 X0!Z9YABko!4hock
+
+
+FUSION FACTORY PRODUCCIÓN
+
+Username: jsoto@maajiswimwear.com 
+Password: <Uw]\HPSq!9@-=3,
 
 
 Base de Datos
