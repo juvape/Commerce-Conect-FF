@@ -1,0 +1,11 @@
+lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attribute.us_online.boolean,attribute.saya_color.single_option,variation_children_code
+3007SAC_brown,Colour,3007SAC14_brown,active,Maaji,1,0,brown,3007SAC_brown_sm|3007SAC_brown_md|3007SAC_brown_lg
+3007SBC_brown,Colour,3007SBC14_brown,active,Maaji,1,0,brown,3007SBC_brown_sm|3007SBC_brown_md|3007SBC_brown_lg
+3007SCC_brown,Colour,3007SCC14_brown,active,Maaji,1,0,brown,3007SCC_brown_sm|3007SCC_brown_md|3007SCC_brown_lg
+3007SDC_brown,Colour,3007SDC14_brown,active,Maaji,1,0,brown,3007SDC_brown_sm|3007SDC_brown_md|3007SDC_brown_lg
+3013SBC_red,Colour,3013SBC03_red,active,Maaji,1,0,red,3013SBC_red_sm|3013SBC_red_md|3013SBC_red_lg
+3013SCC_red,Colour,3013SCC03_red,active,Maaji,1,0,red,3013SCC_red_sm|3013SCC_red_md|3013SCC_red_lg
+307SAC_red,Colour,3007SAC15_red,active,Maaji,1,0,red,307SAC_red_sm|307SAC_red_md|307SAC_red_lg
+307SBC_red,Colour,3007SBC15_red,active,Maaji,1,0,red,307SBC_red_sm|307SBC_red_md|307SBC_red_lg
+307SCC_red,Colour,3007SCC15_red,active,Maaji,1,0,red,307SCC_red_sm|307SCC_red_md|307SCC_red_lg
+307SDC_red,Colour,3007SDC15_red,active,Maaji,1,0,red,307SDC_red_sm|307SDC_red_md|307SDC_red_lg
