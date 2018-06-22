@@ -1,0 +1,5 @@
+lv1_code,product_class_name,name,status,brand,attribute.dw_size_code.single_option,attribute.saya_ean.string,attribute.saya_size.single_option,price_item.1.amount,price_item.1.price_book
+1049tss04_azul_sm,Size,1049TSS04 AZUL SM,active,Maaji,SM,7702781037499,SM,180000,COP
+1049tss04_azul_md,Size,1049TSS04 AZUL MD,active,Maaji,MD,7702781037505,MD,180000,COP
+1049tss04_azul_lg,Size,1049TSS04 AZUL LG,active,Maaji,LG,7702781037512,LG,180000,COP
+1049tss04_azul_xl,Size,1049TSS04 AZUL XL,active,Maaji,XL,7702781037529,XL,180000,COP
