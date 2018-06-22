@@ -122,11 +122,11 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 1695kkc01_morado,Colour,1695KKC01 MORADO,active,Maaji,1,1,,1695c01_morado_02|1695c01_morado_04|1695c01_morado_06|1695c01_morado_08|1695c01_morado_10|1695c01_morado_12|1695c01_morado_14|1695c01_morado_16
 1891asa01_gris,Colour,1891ASA01 GRIS,active,Maaji,1,1,,1891asa01_gris_sm|1891asa01_gris_md|1891asa01_gris_lg
 1863alm03_gris,Colour,1863ALM03 GRIS,active,Maaji,1,1,,1863alm03_gris_xs|1863alm03_gris_sm|1863alm03_gris_md|1863alm03_gris_lg
-1832asb02_beige,Colour,1832ASB02 BEIGE,active,Maaji,1,1,,1832asb02_beige_sm|1832asb02_beige_md|1832asb02_beige_lg
+1832asb02_azul,Colour,1832ASB02 AZUL,active,Maaji,1,1,,1832asb02_azul_sm|1832asb02_azul_md|1832asb02_azul_lg
 1886ash02_gris,Colour,1886ASH02 GRIS,active,Maaji,1,1,,1886ash02_gris_xs|1886ash02_gris_sm|1886ash02_gris_md|1886ash02_gris_lg
-1760asb05_beige,Colour,1760ASB05 BEIGE,active,Maaji,1,1,,1760asb05_beige_sm|1760asb05_beige_md|1760asb05_beige_lg
+1760asb05_azul,Colour,1760ASB05 AZUL,active,Maaji,1,1,,1760asb05_azul_sm|1760asb05_azul_md|1760asb05_azul_lg
 1887asa01_gris,Colour,1887ASA01 GRIS,active,Maaji,1,1,,1887asa01_gris_sm|1887asa01_gris_md|1887asa01_gris_lg
-1872abd01_beige,Colour,1872ABD01 BEIGE,active,Maaji,1,1,,1872abd01_beige_sm|1872abd01_beige_md|1872abd01_beige_lg
+1872abd01_azul,Colour,1872ABD01 AZUL,active,Maaji,1,1,,1872abd01_azul_sm|1872abd01_azul_md|1872abd01_azul_lg
 1886ash01_blanco,Colour,1886ASH01 BLANCO,active,Maaji,1,1,,1886ash01_blanco_xs|1886ash01_blanco_sm|1886ash01_blanco_md|1886ash01_blanco_lg
 1785aly04_gris,Colour,1785ALY04 GRIS,active,Maaji,1,1,,1785aly04_gris_sm|1785aly04_gris_md|1785aly04_gris_lg
 1769all05_negro,Colour,1769ALL05 NEGRO,active,Maaji,1,1,,1769all05_negro_xs|1769all05_negro_sm|1769all05_negro_md|1769all05_negro_lg
@@ -146,7 +146,7 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 1849att01_negro,Colour,1849ATT01 NEGRO,active,Maaji,1,1,,1849att01_negro_sm|1849att01_negro_md|1849att01_negro_lg
 1888att03_azul,Colour,1888ATT03 AZUL,active,Maaji,1,1,,1888att03_azul_sm|1888att03_azul_md|1888att03_azul_lg
 1795apa05_azul,Colour,1795APA05 AZUL,active,Maaji,1,1,,1795apa05_azul_sm|1795apa05_azul_md|1795apa05_azul_lg
-1883att02_beige,Colour,1883ATT02 BEIGE,active,Maaji,1,1,,1883att02_beige_sm|1883att02_beige_md|1883att02_beige_lg
+1883att02_azul,Colour,1883ATT02 AZUL,active,Maaji,1,1,,1883att02_azul_sm|1883att02_azul_md|1883att02_azul_lg
 1892aly01_gris,Colour,1892ALY01 GRIS,active,Maaji,1,1,,1892aly01_gris_sm|1892aly01_gris_md|1892aly01_gris_lg
 1869als03_gris,Colour,1869ALS03 GRIS,active,Maaji,1,1,,1869als03_gris_sm|1869als03_gris_md|1869als03_gris_lg
 1889ahl01_gris,Colour,1889AHL01 GRIS,active,Maaji,1,1,,1889ahl01_gris_sm|1889ahl01_gris_md|1889ahl01_gris_lg
@@ -191,7 +191,7 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 1822all04_gris,Colour,1822ALL04 GRIS,active,Maaji,1,1,,1822all04_gris_xs|1822all04_gris_sm|1822all04_gris_md|1822all04_gris_lg
 1795apa04_blanco,Colour,1795APA04 BLANCO,active,Maaji,1,1,,1795apa04_blanco_sm|1795apa04_blanco_md|1795apa04_blanco_lg
 1888att02_blanco,Colour,1888ATT02 BLANCO,active,Maaji,1,1,,1888att02_blanco_sm|1888att02_blanco_md|1888att02_blanco_lg
-1883att06_beige,Colour,1883ATT06 BEIGE,active,Maaji,1,1,,1883att06_beige_sm|1883att06_beige_md|1883att06_beige_lg
+1883att06_negro,Colour,1883ATT06 NEGRO,active,Maaji,1,1,,1883att06_negro_sm|1883att06_negro_md|1883att06_negro_lg
 1883att01_blanco,Colour,1883ATT01 BLANCO,active,Maaji,1,1,,1883att01_blanco_sm|1883att01_blanco_md|1883att01_blanco_lg
 1892aly02_anaranjado,Colour,1892ALY02 ANARANJADO,active,Maaji,1,1,,1892aly02_anaranjado_sm|1892aly02_anaranjado_md|1892aly02_anaranjado_lg
 1880ats02_blanco,Colour,1880ATS02 BLANCO,active,Maaji,1,1,,1880ats02_blanco_sm|1880ats02_blanco_md|1880ats02_blanco_lg
