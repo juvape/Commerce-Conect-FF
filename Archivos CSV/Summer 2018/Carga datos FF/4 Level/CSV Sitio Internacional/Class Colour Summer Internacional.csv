@@ -66,7 +66,6 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 2062sbc10_azul,Colour,2062SBC10 AZUL,active,Maaji,1,1,,2062sbc10_azul_sm|2062sbc10_azul_md|2062sbc10_azul_lg
 2062sdc10_azul,Colour,2062SDC10 AZUL,active,Maaji,1,1,,2062sdc10_azul_sm|2062sdc10_azul_md|2062sdc10_azul_lg
 2043sac07_azul,Colour,2043SAC07 AZUL,active,Maaji,1,1,,2043sac07_azul_sm|2043sac07_azul_md|2043sac07_azul_lg
-2043sbc07_azul,Colour,2043SBC07 AZUL,active,Maaji,1,1,,2043sbc07_azul_sm|2043sbc07_azul_md|2043sbc07_azul_lg
 2043sac08_azul,Colour,2043SAC08 AZUL,active,Maaji,1,1,,2043sac08_azul_sm|2043sac08_azul_md|2043sac08_azul_lg
 2043sbc08_azul,Colour,2043SBC08 AZUL,active,Maaji,1,1,,2043sbc08_azul_sm|2043sbc08_azul_md|2043sbc08_azul_lg
 2061sbc05_azul,Colour,2061SBC05 AZUL,active,Maaji,1,1,,2061sbc05_azul_sm|2061sbc05_azul_md|2061sbc05_azul_lg
@@ -81,8 +80,6 @@ lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attrib
 2041scc08_azul,Colour,2041SCC08 AZUL,active,Maaji,1,1,,2041scc08_azul_sm|2041scc08_azul_md|2041scc08_azul_lg
 3007sac19_anaranjado,Colour,3007SAC19 ANARANJADO,active,Maaji,1,1,,3007sac19_anaranjado_sm|3007sac19_anaranjado_md|3007sac19_anaranjado_lg
 3007sbc19_anaranjado,Colour,3007SBC19 ANARANJADO,active,Maaji,1,1,,3007sbc19_anaranjado_sm|3007sbc19_anaranjado_md|3007sbc19_anaranjado_lg
-3007scc19_anaranjado,Colour,3007SCC19 ANARANJADO,active,Maaji,1,1,,3007scc19_anaranjado_sm|3007scc19_anaranjado_md|3007scc19_anaranjado_lg
-3007sdc19_anaranjado,Colour,3007SDC19 ANARANJADO,active,Maaji,1,1,,3007sdc19_anaranjado_sm|3007sdc19_anaranjado_md|3007sdc19_anaranjado_lg
 3013sbc04_anaranjado,Colour,3013SBC04 ANARANJADO,active,Maaji,1,1,,3013sbc04_anaranjado_sm|3013sbc04_anaranjado_md|3013sbc04_anaranjado_lg
 3013scc04_anaranjado,Colour,3013SCC04 ANARANJADO,active,Maaji,1,1,,3013scc04_anaranjado_sm|3013scc04_anaranjado_md|3013scc04_anaranjado_lg
 3007sac20_morado,Colour,3007SAC20 MORADO,active,Maaji,1,1,,3007sac20_morado_sm|3007sac20_morado_md|3007sac20_morado_lg

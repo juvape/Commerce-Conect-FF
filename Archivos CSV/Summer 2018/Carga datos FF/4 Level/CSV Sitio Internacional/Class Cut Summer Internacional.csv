@@ -66,7 +66,6 @@ lv1_code,product_class_name,name,status,brand,attribute.saya_cut.single_option,v
 2062sbc10,Cut,2062SBC10,active,Maaji,,2062sbc10_azul
 2062sdc10,Cut,2062SDC10,active,Maaji,,2062sdc10_azul
 2043sac07,Cut,2043SAC07,active,Maaji,,2043sac07_azul
-2043sbc07,Cut,2043SBC07,active,Maaji,,2043sbc07_azul
 2043sac08,Cut,2043SAC08,active,Maaji,,2043sac08_azul
 2043sbc08,Cut,2043SBC08,active,Maaji,,2043sbc08_azul
 2061sbc05,Cut,2061SBC05,active,Maaji,,2061sbc05_azul
@@ -81,8 +80,6 @@ lv1_code,product_class_name,name,status,brand,attribute.saya_cut.single_option,v
 2041scc08,Cut,2041SCC08,active,Maaji,,2041scc08_azul
 3007sac19,Cut,3007SAC19,active,Maaji,,3007sac19_anaranjado
 3007sbc19,Cut,3007SBC19,active,Maaji,,3007sbc19_anaranjado
-3007scc19,Cut,3007SCC19,active,Maaji,,3007scc19_anaranjado
-3007sdc19,Cut,3007SDC19,active,Maaji,,3007sdc19_anaranjado
 3013sbc04,Cut,3013SBC04,active,Maaji,,3013sbc04_anaranjado
 3013scc04,Cut,3013SCC04,active,Maaji,,3013scc04_anaranjado
 3007sac20,Cut,3007SAC20,active,Maaji,,3007sac20_morado
