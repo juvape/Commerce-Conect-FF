@@ -1,58 +1,58 @@
 lv1_code,product_class_name,name,status,brand,attribute.co_online.boolean,attribute.us_online.boolean,attribute.saya_color.single_option,variation_children_code
-3039SBC02_purple,Colour,3039SBC02_purple,active,Maaji,1,1,purple,3039SBC02_purple_sm|3039SBC02_purple_md|3039SBC02_purple_lg
-3039SDC02_purple,Colour,3039SDC02_purple,active,Maaji,1,1,purple,3039SDC02_purple_sm|3039SDC02_purple_md|3039SDC02_purple_lg
-1930SBC01_purple,Colour,1930SBC01_purple,active,Maaji,1,1,purple,1930SBC01_purple_sm|1930SBC01_purple_md|1930SBC01_purple_lg
-1930SCC01_purple,Colour,1930SCC01_purple,active,Maaji,1,1,purple,1930SCC01_purple_sm|1930SCC01_purple_md|1930SCC01_purple_lg
-2110SBC01_purple,Colour,2110SBC01_purple,active,Maaji,1,1,purple,2110SBC01_purple_sm|2110SBC01_purple_md|2110SBC01_purple_lg
-2110SDC01_purple,Colour,2110SDC01_purple,active,Maaji,1,1,purple,2110SDC01_purple_sm|2110SDC01_purple_md|2110SDC01_purple_lg
-2114SBC01_purple,Colour,2114SBC01_purple,active,Maaji,1,1,purple,2114SBC01_purple_sm|2114SBC01_purple_md|2114SBC01_purple_lg
-2114SCC01_purple,Colour,2114SCC01_purple,active,Maaji,1,1,purple,2114SCC01_purple_sm|2114SCC01_purple_md|2114SCC01_purple_lg
-3044SBC01_red,Colour,3044SBC01_red,active,Maaji,1,1,red,3044SBC01_red_sm|3044SBC01_red_md|3044SBC01_red_lg
-3044SCC01_red,Colour,3044SCC01_red,active,Maaji,1,1,red,3044SCC01_red_sm|3044SCC01_red_md|3044SCC01_red_lg
-2120SAC01_purple,Colour,2120SAC01_purple,active,Maaji,1,1,purple,2120SAC01_purple_sm|2120SAC01_purple_md|2120SAC01_purple_lg
-2120SBC01_purple,Colour,2120SBC01_purple,active,Maaji,1,1,purple,2120SBC01_purple_sm|2120SBC01_purple_md|2120SBC01_purple_lg
-2116SBC01_purple,Colour,2116SBC01_purple,active,Maaji,1,1,purple,2116SBC01_purple_sm|2116SBC01_purple_md|2116SBC01_purple_lg
-2116SDC01_purple,Colour,2116SDC01_purple,active,Maaji,1,1,purple,2116SDC01_purple_sm|2116SDC01_purple_md|2116SDC01_purple_lg
-2047SAC02_blue,Colour,2047SAC02_blue,active,Maaji,1,1,blue,2047SAC02_blue_sm|2047SAC02_blue_md|2047SAC02_blue_lg
-2047SBC02_blue,Colour,2047SBC02_blue,active,Maaji,1,1,blue,2047SBC02_blue_sm|2047SBC02_blue_md|2047SBC02_blue_lg
-3008SCC01_blue,Colour,3008SCC01_blue,active,Maaji,1,1,blue,3008SCC01_blue_sm|3008SCC01_blue_md|3008SCC01_blue_lg
-3052SBC01_blue,Colour,3052SBC01_blue,active,Maaji,1,1,blue,3052SBC01_blue_sm|3052SBC01_blue_md|3052SBC01_blue_lg
-3052SDC01_blue,Colour,3052SDC01_blue,active,Maaji,1,1,blue,3052SDC01_blue_sm|3052SDC01_blue_md|3052SDC01_blue_lg
-3007SAC06_blue,Colour,3007SAC06_blue,active,Maaji,1,1,blue,3007SAC06_blue_sm|3007SAC06_blue_md|3007SAC06_blue_lg
-3007SBC06_blue,Colour,3007SBC06_blue,active,Maaji,1,1,blue,3007SBC06_blue_sm|3007SBC06_blue_md|3007SBC06_blue_lg
-3007SCC06_blue,Colour,3007SCC06_blue,active,Maaji,1,1,blue,3007SCC06_blue_sm|3007SCC06_blue_md|3007SCC06_blue_lg
-3007SDC06_blue,Colour,3007SDC06_blue,active,Maaji,1,1,blue,3007SDC06_blue_sm|3007SDC06_blue_md|3007SDC06_blue_lg
-1943SAC01_blue,Colour,1943SAC01_blue,active,Maaji,1,1,blue,1943SAC01_blue_sm|1943SAC01_blue_md|1943SAC01_blue_lg
-1943SBC01_blue,Colour,1943SBC01_blue,active,Maaji,1,1,blue,1943SBC01_blue_sm|1943SBC01_blue_md|1943SBC01_blue_lg
-2062SBC02_blue,Colour,2062SBC02_blue,active,Maaji,1,1,blue,2062SBC02_blue_sm|2062SBC02_blue_md|2062SBC02_blue_lg
-2062SDC02_blue,Colour,2062SDC02_blue,active,Maaji,1,1,blue,2062SDC02_blue_sm|2062SDC02_blue_md|2062SDC02_blue_lg
-2126SBC01_blue,Colour,2126SBC01_blue,active,Maaji,1,1,blue,2126SBC01_blue_sm|2126SBC01_blue_md|2126SBC01_blue_lg
-2126SDC01_blue,Colour,2126SDC01_blue,active,Maaji,1,1,blue,2126SDC01_blue_sm|2126SDC01_blue_md|2126SDC01_blue_lg
-2120SAC02_blue,Colour,2120SAC02_blue,active,Maaji,1,1,blue,2120SAC02_blue_sm|2120SAC02_blue_md|2120SAC02_blue_lg
-2120SBC02_blue,Colour,2120SBC02_blue,active,Maaji,1,1,blue,2120SBC02_blue_sm|2120SBC02_blue_md|2120SBC02_blue_lg
-3013SBC02_blue,Colour,3013SBC02_blue,active,Maaji,1,1,blue,3013SBC02_blue_sm|3013SBC02_blue_md|3013SBC02_blue_lg
-2043SBC01_blue,Colour,2043SBC01_blue,active,Maaji,1,1,blue,2043SBC01_blue_sm|2043SBC01_blue_md|2043SBC01_blue_lg
-2043SCC01_blue,Colour,2043SCC01_blue,active,Maaji,1,1,blue,2043SCC01_blue_sm|2043SCC01_blue_md|2043SCC01_blue_lg
-2111SOB01_purple,Colour,2111SOB01_purple,active,Maaji,1,1,purple,2111SOB01_purple_sm|2111SOB01_purple_md|2111SOB01_purple_lg
-2111SOC01_purple,Colour,2111SOC01_purple,active,Maaji,1,1,purple,2111SOC01_purple_sm|2111SOC01_purple_md|2111SOC01_purple_lg
-2122SOB01_blue,Colour,2122SOB01_blue,active,Maaji,1,1,blue,2122SOB01_blue_sm|2122SOB01_blue_md|2122SOB01_blue_lg
-2122SOC01_blue,Colour,2122SOC01_blue,active,Maaji,1,1,blue,2122SOC01_blue_sm|2122SOC01_blue_md|2122SOC01_blue_lg
-3007SAC03_purple,Colour,3007SAC03_purple,active,Maaji,1,1,purple,3007SAC03_purple_sm|3007SAC03_purple_md|3007SAC03_purple_lg
-3007SBC03_purple,Colour,3007SBC03_purple,active,Maaji,1,1,purple,3007SBC03_purple_sm|3007SBC03_purple_md|3007SBC03_purple_lg
-3007SCC03_purple,Colour,3007SCC03_purple,active,Maaji,1,1,purple,3007SCC03_purple_sm|3007SCC03_purple_md|3007SCC03_purple_lg
-3007SDC03_purple,Colour,3007SDC03_purple,active,Maaji,1,1,purple,3007SDC03_purple_sm|3007SDC03_purple_md|3007SDC03_purple_lg
-3007SAC04_red,Colour,3007SAC04_red,active,Maaji,1,1,red,3007SAC04_red_sm|3007SAC04_red_md|3007SAC04_red_lg
-3007SBC04_red,Colour,3007SBC04_red,active,Maaji,1,1,red,3007SBC04_red_sm|3007SBC04_red_md|3007SBC04_red_lg
-3007SCC04_red,Colour,3007SCC04_red,active,Maaji,1,1,red,3007SCC04_red_sm|3007SCC04_red_md|3007SCC04_red_lg
-3007SDC04_red,Colour,3007SDC04_red,active,Maaji,1,1,red,3007SDC04_red_sm|3007SDC04_red_md|3007SDC04_red_lg
-2062SBC03_blue,Colour,2062SBC03_blue,active,Maaji,1,1,blue,2062SBC03_blue_sm|2062SBC03_blue_md|2062SBC03_blue_lg
-2062SCC03_blue,Colour,2062SCC03_blue,active,Maaji,1,1,blue,2062SCC03_blue_sm|2062SCC03_blue_md|2062SCC03_blue_lg
-2041SAC01_wine,Colour,2041SAC01_wine,active,Maaji,1,1,wine,2041SAC01_wine_sm|2041SAC01_wine_md|2041SAC01_wine_lg
-2041SBC01_wine,Colour,2041SBC01_wine,active,Maaji,1,1,wine,2041SBC01_wine_sm|2041SBC01_wine_md|2041SBC01_wine_lg
-3007SBC05_blue,Colour,3007SBC05_blue,active,Maaji,1,1,blue,3007SBC05_blue_sm|3007SBC05_blue_md|3007SBC05_blue_lg
-3007SCC05_blue,Colour,3007SCC05_blue,active,Maaji,1,1,blue,3007SCC05_blue_sm|3007SCC05_blue_md|3007SCC05_blue_lg
-2119SOH01_purple,Colour,2119SOH01_purple,active,Maaji,1,1,purple,2119SOH01_purple_sm|2119SOH01_purple_md|2119SOH01_purple_lg
-2119SOR01_purple,Colour,2119SOR01_purple,active,Maaji,1,1,purple,2119SOR01_purple_sm|2119SOR01_purple_md|2119SOR01_purple_lg
-3050SOH01_blue,Colour,3050SOH01_blue,active,Maaji,1,1,blue,3050SOH01_blue_sm|3050SOH01_blue_md|3050SOH01_blue_lg
-3050SOR01_blue,Colour,3050SOR01_blue,active,Maaji,1,1,blue,3050SOR01_blue_sm|3050SOR01_blue_md|3050SOR01_blue_lg
-2130SCC01_blue,Colour,2130SCC01_blue,active,Maaji,1,1,blue,2130SCC01_blue_sm|2130SCC01_blue_md|2130SCC01_blue_lg
+3039sbc02_morado,Colour,3039SBC02 MORADO,active,Maaji,1,1,,3039sbc02_morado_sm|3039sbc02_morado_md|3039sbc02_morado_lg
+3039sdc02_morado,Colour,3039SDC02 MORADO,active,Maaji,1,1,,3039sdc02_morado_sm|3039sdc02_morado_md|3039sdc02_morado_lg
+1930sbc01_morado,Colour,1930SBC01 MORADO,active,Maaji,1,1,,1930sbc01_morado_sm|1930sbc01_morado_md|1930sbc01_morado_lg
+1930scc01_morado,Colour,1930SCC01 MORADO,active,Maaji,1,1,,1930scc01_morado_sm|1930scc01_morado_md|1930scc01_morado_lg
+2110sbc01_morado,Colour,2110SBC01 MORADO,active,Maaji,1,1,,2110sbc01_morado_sm|2110sbc01_morado_md|2110sbc01_morado_lg
+2110sdc01_morado,Colour,2110SDC01 MORADO,active,Maaji,1,1,,2110sdc01_morado_sm|2110sdc01_morado_md|2110sdc01_morado_lg
+2114sbc01_morado,Colour,2114SBC01 MORADO,active,Maaji,1,1,,2114sbc01_morado_sm|2114sbc01_morado_md|2114sbc01_morado_lg
+2114scc01_morado,Colour,2114SCC01 MORADO,active,Maaji,1,1,,2114scc01_morado_sm|2114scc01_morado_md|2114scc01_morado_lg
+3044sbc01_rojo,Colour,3044SBC01 ROJO,active,Maaji,1,1,,3044sbc01_rojo_sm|3044sbc01_rojo_md|3044sbc01_rojo_lg
+3044scc01_rojo,Colour,3044SCC01 ROJO,active,Maaji,1,1,,3044scc01_rojo_sm|3044scc01_rojo_md|3044scc01_rojo_lg
+2120sac01_morado,Colour,2120SAC01 MORADO,active,Maaji,1,1,,2120sac01_morado_sm|2120sac01_morado_md|2120sac01_morado_lg
+2120sbc01_morado,Colour,2120SBC01 MORADO,active,Maaji,1,1,,2120sbc01_morado_sm|2120sbc01_morado_md|2120sbc01_morado_lg
+2116sbc01_morado,Colour,2116SBC01 MORADO,active,Maaji,1,1,,2116sbc01_morado_sm|2116sbc01_morado_md|2116sbc01_morado_lg
+2116sdc01_morado,Colour,2116SDC01 MORADO,active,Maaji,1,1,,2116sdc01_morado_sm|2116sdc01_morado_md|2116sdc01_morado_lg
+2047sac02_azul,Colour,2047SAC02 AZUL,active,Maaji,1,1,,2047sac02_azul_sm|2047sac02_azul_md|2047sac02_azul_lg
+2047sbc02_azul,Colour,2047SBC02 AZUL,active,Maaji,1,1,,2047sbc02_azul_sm|2047sbc02_azul_md|2047sbc02_azul_lg
+3008scc01_azul,Colour,3008SCC01 AZUL,active,Maaji,1,1,,3008scc01_azul_sm|3008scc01_azul_md|3008scc01_azul_lg
+3052sbc01_azul,Colour,3052SBC01 AZUL,active,Maaji,1,1,,3052sbc01_azul_sm|3052sbc01_azul_md|3052sbc01_azul_lg
+3052sdc01_azul,Colour,3052SDC01 AZUL,active,Maaji,1,1,,3052sdc01_azul_sm|3052sdc01_azul_md|3052sdc01_azul_lg
+3007sac06_azul,Colour,3007SAC06 AZUL,active,Maaji,1,1,,3007sac06_azul_sm|3007sac06_azul_md|3007sac06_azul_lg
+3007sbc06_azul,Colour,3007SBC06 AZUL,active,Maaji,1,1,,3007sbc06_azul_sm|3007sbc06_azul_md|3007sbc06_azul_lg
+3007scc06_azul,Colour,3007SCC06 AZUL,active,Maaji,1,1,,3007scc06_azul_sm|3007scc06_azul_md|3007scc06_azul_lg
+3007sdc06_azul,Colour,3007SDC06 AZUL,active,Maaji,1,1,,3007sdc06_azul_sm|3007sdc06_azul_md|3007sdc06_azul_lg
+1943sac01_azul,Colour,1943SAC01 AZUL,active,Maaji,1,1,,1943sac01_azul_sm|1943sac01_azul_md|1943sac01_azul_lg
+1943sbc01_azul,Colour,1943SBC01 AZUL,active,Maaji,1,1,,1943sbc01_azul_sm|1943sbc01_azul_md|1943sbc01_azul_lg
+2062sbc02_azul,Colour,2062SBC02 AZUL,active,Maaji,1,1,,2062sbc02_azul_sm|2062sbc02_azul_md|2062sbc02_azul_lg
+2062sdc02_azul,Colour,2062SDC02 AZUL,active,Maaji,1,1,,2062sdc02_azul_sm|2062sdc02_azul_md|2062sdc02_azul_lg
+2126sbc01_azul,Colour,2126SBC01 AZUL,active,Maaji,1,1,,2126sbc01_azul_sm|2126sbc01_azul_md|2126sbc01_azul_lg
+2126sdc01_azul,Colour,2126SDC01 AZUL,active,Maaji,1,1,,2126sdc01_azul_sm|2126sdc01_azul_md|2126sdc01_azul_lg
+2120sac02_azul,Colour,2120SAC02 AZUL,active,Maaji,1,1,,2120sac02_azul_sm|2120sac02_azul_md|2120sac02_azul_lg
+2120sbc02_azul,Colour,2120SBC02 AZUL,active,Maaji,1,1,,2120sbc02_azul_sm|2120sbc02_azul_md|2120sbc02_azul_lg
+3013sbc02_azul,Colour,3013SBC02 AZUL,active,Maaji,1,1,,3013sbc02_azul_sm|3013sbc02_azul_md|3013sbc02_azul_lg
+2043sbc01_azul,Colour,2043SBC01 AZUL,active,Maaji,1,1,,2043sbc01_azul_sm|2043sbc01_azul_md|2043sbc01_azul_lg
+2043scc01_azul,Colour,2043SCC01 AZUL,active,Maaji,1,1,,2043scc01_azul_sm|2043scc01_azul_md|2043scc01_azul_lg
+2111sob01_morado,Colour,2111SOB01 MORADO,active,Maaji,1,1,,2111sob01_morado_sm|2111sob01_morado_md|2111sob01_morado_lg
+2111soc01_morado,Colour,2111SOC01 MORADO,active,Maaji,1,1,,2111soc01_morado_sm|2111soc01_morado_md|2111soc01_morado_lg
+2122sob01_azul,Colour,2122SOB01 AZUL,active,Maaji,1,1,,2122sob01_azul_sm|2122sob01_azul_md|2122sob01_azul_lg
+2122soc01_azul,Colour,2122SOC01 AZUL,active,Maaji,1,1,,2122soc01_azul_sm|2122soc01_azul_md|2122soc01_azul_lg
+3007sac03_morado,Colour,3007SAC03 MORADO,active,Maaji,1,1,,3007sac03_morado_sm|3007sac03_morado_md|3007sac03_morado_lg
+3007sbc03_morado,Colour,3007SBC03 MORADO,active,Maaji,1,1,,3007sbc03_morado_sm|3007sbc03_morado_md|3007sbc03_morado_lg
+3007scc03_morado,Colour,3007SCC03 MORADO,active,Maaji,1,1,,3007scc03_morado_sm|3007scc03_morado_md|3007scc03_morado_lg
+3007sdc03_morado,Colour,3007SDC03 MORADO,active,Maaji,1,1,,3007sdc03_morado_sm|3007sdc03_morado_md|3007sdc03_morado_lg
+3007sac04_rojo,Colour,3007SAC04 ROJO,active,Maaji,1,1,,3007sac04_rojo_sm|3007sac04_rojo_md|3007sac04_rojo_lg
+3007sbc04_rojo,Colour,3007SBC04 ROJO,active,Maaji,1,1,,3007sbc04_rojo_sm|3007sbc04_rojo_md|3007sbc04_rojo_lg
+3007scc04_rojo,Colour,3007SCC04 ROJO,active,Maaji,1,1,,3007scc04_rojo_sm|3007scc04_rojo_md|3007scc04_rojo_lg
+3007sdc04_rojo,Colour,3007SDC04 ROJO,active,Maaji,1,1,,3007sdc04_rojo_sm|3007sdc04_rojo_md|3007sdc04_rojo_lg
+2062sbc03_azul,Colour,2062SBC03 AZUL,active,Maaji,1,1,,2062sbc03_azul_sm|2062sbc03_azul_md|2062sbc03_azul_lg
+2062scc03_azul,Colour,2062SCC03 AZUL,active,Maaji,1,1,,2062scc03_azul_sm|2062scc03_azul_md|2062scc03_azul_lg
+2041sac01_vinotinto,Colour,2041SAC01 VINOTINTO,active,Maaji,1,1,,2041sac01_vinotinto_sm|2041sac01_vinotinto_md|2041sac01_vinotinto_lg
+2041sbc01_vinotinto,Colour,2041SBC01 VINOTINTO,active,Maaji,1,1,,2041sbc01_vinotinto_sm|2041sbc01_vinotinto_md|2041sbc01_vinotinto_lg
+3007sbc05_azul,Colour,3007SBC05 AZUL,active,Maaji,1,1,,3007sbc05_azul_sm|3007sbc05_azul_md|3007sbc05_azul_lg
+3007scc05_azul,Colour,3007SCC05 AZUL,active,Maaji,1,1,,3007scc05_azul_sm|3007scc05_azul_md|3007scc05_azul_lg
+2119soh01_morado,Colour,2119SOH01 MORADO,active,Maaji,1,1,,2119soh01_morado_sm|2119soh01_morado_md|2119soh01_morado_lg
+2119sor01_morado,Colour,2119SOR01 MORADO,active,Maaji,1,1,,2119sor01_morado_sm|2119sor01_morado_md|2119sor01_morado_lg
+3050soh01_azul,Colour,3050SOH01 AZUL,active,Maaji,1,1,,3050soh01_azul_sm|3050soh01_azul_md|3050soh01_azul_lg
+3050sor01_azul,Colour,3050SOR01 AZUL,active,Maaji,1,1,,3050sor01_azul_sm|3050sor01_azul_md|3050sor01_azul_lg
+2130scc01_azul,Colour,2130SCC01 AZUL,active,Maaji,1,1,,2130scc01_azul_sm|2130scc01_azul_md|2130scc01_azul_lg
