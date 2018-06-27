@@ -13,7 +13,7 @@ X0!Z9YABko!4hock
 FUSION FACTORY PRODUCCIÓN
 
 Username: jsoto@maajiswimwear.com 
-Password: <Uw]\HPSq!9@-=3,
+Password: 3dU5PuAqsM-nC6y9rMkd
 
 
 Base de Datos
@@ -64,6 +64,8 @@ Username: marianagomez71
 Password: Maaji1234!
 
 
+X0!Z9YABko!4hock
+
 
 https://projects.invisionapp.com/d/main#/console/12960616/272115746/preview 
 
@@ -78,3 +80,13 @@ PASS: W2dReth$
 
 URL API HOST GRATUITO
 https://api-cloudinary.000webhostapp.com/upload.php
+
+
+DOCUMENTACIÓN SFCC
+USER: jvargasp@maajiswimwear.com
+PASS: 2v!3!G7!
+
+
+STAGING SALESFORCE:
+USER: jvargasp@maajiswimwear.com
+PASS: Colombia2019.
