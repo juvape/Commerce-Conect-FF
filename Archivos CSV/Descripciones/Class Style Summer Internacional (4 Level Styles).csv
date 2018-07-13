@@ -1,256 +1,284 @@
 lv1_code,product_class_name,name,status,brand,attribute.saya_2_ways.boolean,attribute.saya_4_ways.boolean,attribute.cup_size.single_option,attribute.delivery_returns.text,attribute.deliveryreturns.html,attribute.description.html,attribute.fabric_care.html,attribute.online_description.html,attribute.online_name.string,attribute.page_description.text,attribute.page_keywords.string,attribute.page_url.string,attribute.short_description.html,attribute.size_fit.text,attribute.tax_class.string,attribute.country_of_origin.string,attribute.saya_collection.single_option,attribute.saya_country.single_option,attribute.saya_fabric_content.string,attribute.saya_group.single_option,attribute.saya_line.single_option,attribute.saya_long_description.html,attribute.saya_product_department.single_option,attribute.saya_product_status.string,attribute.saya_season.single_option,attribute.saya_tariff_code.string,variation_children_code
-shimmering_cognac_sublime,4 Level Product Style,SHIMMERING COGNAC SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+shimmering_cognac_sublime,4 Level Product Style,SHIMMERING COGNAC SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SHIMMERING COGNAC SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SHIMMERING COGNAC SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SHIMMERING COGNAC SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SHIMMERING COGNAC SUBLIME,"Reversible
 Seamless
 Low rise
 Brazilian cut
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SHIMMERING COGNAC SUBLIME,,active,2018,61.12.41.00.00,3007sac14|3007sbc14|3007scc14|3007sdc14
-dahlia_rendezvous,4 Level Product Style,DAHLIA RENDEZVOUS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+dahlia_rendezvous,4 Level Product Style,DAHLIA RENDEZVOUS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA RENDEZVOUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Adjustable at sides<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,DAHLIA RENDEZVOUS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA RENDEZVOUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Adjustable at sides<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,DAHLIA RENDEZVOUS,"Reversible
 Seamless
 Low rise
 Adjustable at sides
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,DAHLIA RENDEZVOUS,,active,2018,61.12.41.00.00,3013sbc03|3013scc03
-dahlia_sublime,4 Level Product Style,DAHLIA SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+dahlia_sublime,4 Level Product Style,DAHLIA SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,DAHLIA SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,DAHLIA SUBLIME,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,DAHLIA SUBLIME,,active,2018,61.12.41.00.00,3007sac15|3007sbc15|3007scc15|3007sdc15
-cape_la_vela,4 Level Product Style,CAPE LA VELA,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+cape_la_vela,4 Level Product Style,CAPE LA VELA,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CAPE LA VELA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Lace up and tie string<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Made in Colombia</p>,CAPE LA VELA,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CAPE LA VELA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Lace up and tie string<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Made in Colombia</p>,CAPE LA VELA,"Reversible
 Deep scoop one piece
 Lace up and tie string
 Adjustable criss cross back
 Regular rise
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,CAPE LA VELA,,active,2018,61.12.41.00.00,2166sor01|2166soh01
-guajira_park,4 Level Product Style,GUAJIRA PARK,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+guajira_park,4 Level Product Style,GUAJIRA PARK,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GUAJIRA PARK,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GUAJIRA PARK,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GUAJIRA PARK,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GUAJIRA PARK,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,GUAJIRA PARK,,active,2018,61.12.41.00.00,2043sbc05|2043scc05
-red_leaves,4 Level Product Style,RED LEAVES,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+red_leaves,4 Level Product Style,RED LEAVES,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RED LEAVES,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,RED LEAVES,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RED LEAVES,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,RED LEAVES,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,RED LEAVES,,active,2018,61.12.41.00.00,2168sbc01|2168scc01
-curuba_tropica,4 Level Product Style,CURUBA TROPICA,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+curuba_tropica,4 Level Product Style,CURUBA TROPICA,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CURUBA TROPICA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CURUBA TROPICA,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CURUBA TROPICA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CURUBA TROPICA,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,CURUBA TROPICA,,active,2018,61.12.41.00.00,2062sbc09|2062scc09
-coral_reef_toucan,4 Level Product Style,CORAL REEF TOUCAN,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+coral_reef_toucan,4 Level Product Style,CORAL REEF TOUCAN,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CORAL REEF TOUCAN,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CORAL REEF TOUCAN,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CORAL REEF TOUCAN,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CORAL REEF TOUCAN,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,CORAL REEF TOUCAN,,active,2018,61.12.41.00.00,2024sac05|2024sbc05
-flowery_knots,4 Level Product Style,FLOWERY KNOTS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+flowery_knots,4 Level Product Style,FLOWERY KNOTS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",FLOWERY KNOTS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,FLOWERY KNOTS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",FLOWERY KNOTS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,FLOWERY KNOTS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,FLOWERY KNOTS,,active,2018,61.12.41.00.00,2061sbc02|2061scc02
-andalusia_frills,4 Level Product Style,ANDALUSIA FRILLS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+andalusia_frills,4 Level Product Style,ANDALUSIA FRILLS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",ANDALUSIA FRILLS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ruffle detail at sides<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,ANDALUSIA FRILLS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",ANDALUSIA FRILLS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ruffle detail at sides<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,ANDALUSIA FRILLS,"Reversible
 Ruffle detail at sides
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,ANDALUSIA FRILLS,,active,2018,61.12.41.00.00,2172sbc01|2172sdc01
-wayuu_allure,4 Level Product Style,WAYUU ALLURE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+wayuu_allure,4 Level Product Style,WAYUU ALLURE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",WAYUU ALLURE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,WAYUU ALLURE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",WAYUU ALLURE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,WAYUU ALLURE,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,WAYUU ALLURE,,active,2018,61.12.41.00.00,2114sac03|2114sbc03
-meteorite_colombia,4 Level Product Style,METEORITE COLOMBIA,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+meteorite_colombia,4 Level Product Style,METEORITE COLOMBIA,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE COLOMBIA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,METEORITE COLOMBIA,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE COLOMBIA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,METEORITE COLOMBIA,"Reversible
 Deep scoop one piece 
 Adjustable criss cross back
 High leg cut
 Lace up and tie back string
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,METEORITE COLOMBIA,,active,2018,61.12.41.00.00,3067sor01|3067soh01
-meteorite_sublime,4 Level Product Style,METEORITE SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+meteorite_sublime,4 Level Product Style,METEORITE SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,METEORITE SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,METEORITE SUBLIME,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,METEORITE SUBLIME,,active,2018,61.12.41.00.00,3007sac16|3007sbc16|3007scc16|3007sdc16
-meteorite_flirt,4 Level Product Style,METEORITE FLIRT,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+meteorite_flirt,4 Level Product Style,METEORITE FLIRT,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,METEORITE FLIRT,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",METEORITE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,METEORITE FLIRT,"Reversible
 Seamless
 Low rise
 Brazilian cut
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,METEORITE FLIRT,,active,2018,61.12.41.00.00,3039sbc04|3039scc04|3039sdc04
-afterlife_island,4 Level Product Style,AFTERLIFE ISLAND,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+afterlife_island,4 Level Product Style,AFTERLIFE ISLAND,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",AFTERLIFE ISLAND,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,AFTERLIFE ISLAND,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",AFTERLIFE ISLAND,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,AFTERLIFE ISLAND,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,AFTERLIFE ISLAND,,active,2018,61.12.41.00.00,2187sbc01|2187sdc01
-spanish_explorer,4 Level Product Style,SPANISH EXPLORER,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+spanish_explorer,4 Level Product Style,SPANISH EXPLORER,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SPANISH EXPLORER,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SPANISH EXPLORER,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SPANISH EXPLORER,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SPANISH EXPLORER,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SPANISH EXPLORER,,active,2018,61.12.41.00.00,1943sbc04|1943scc04
-punta_bay,4 Level Product Style,PUNTA BAY,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+punta_bay,4 Level Product Style,PUNTA BAY,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",PUNTA BAY,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece<br/>Keyhole cut out at back<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,PUNTA BAY,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",PUNTA BAY,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece<br/>Keyhole cut out at back<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,PUNTA BAY,"Reversible
 Long sleeve one piece 
 Keyhole cut out at back
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,PUNTA BAY,,active,2018,61.12.41.00.00,2122sob02|2122soc02
-bumpy_roads,4 Level Product Style,BUMPY ROADS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+bumpy_roads,4 Level Product Style,BUMPY ROADS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BUMPY ROADS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BUMPY ROADS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BUMPY ROADS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BUMPY ROADS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,BUMPY ROADS,,active,2018,61.12.41.00.00,2050sbc01|2050sdc01
-nighlty_oasis,4 Level Product Style,NIGHLTY OASIS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+nighlty_oasis,4 Level Product Style,NIGHLTY OASIS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",NIGHLTY OASIS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,NIGHLTY OASIS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",NIGHLTY OASIS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,NIGHLTY OASIS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,NIGHLTY OASIS,,active,2018,61.12.41.00.00,1943sac03|1943sbc03
-garden_pilot,4 Level Product Style,GARDEN PILOT,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+garden_pilot,4 Level Product Style,GARDEN PILOT,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GARDEN PILOT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GARDEN PILOT,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GARDEN PILOT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GARDEN PILOT,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,GARDEN PILOT,,active,2018,61.12.41.00.00,2061sbc03|2061scc03
-gulf_of_paria,4 Level Product Style,GULF OF PARIA,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+gulf_of_paria,4 Level Product Style,GULF OF PARIA,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GULF OF PARIA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GULF OF PARIA,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",GULF OF PARIA,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,GULF OF PARIA,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,GULF OF PARIA,,active,2018,61.12.41.00.00,2041sac07|2041sbc07
-pearl_province,4 Level Product Style,PEARL PROVINCE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+pearl_province,4 Level Product Style,PEARL PROVINCE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",PEARL PROVINCE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,PEARL PROVINCE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",PEARL PROVINCE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,PEARL PROVINCE,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,PEARL PROVINCE,,active,2018,61.12.41.00.00,2047sbc05|2047scc05
-mediterranean_blue_sublime,4 Level Product Style,MEDITERRANEAN BLUE SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+mediterranean_blue_sublime,4 Level Product Style,MEDITERRANEAN BLUE SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MEDITERRANEAN BLUE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MEDITERRANEAN BLUE SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MEDITERRANEAN BLUE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MEDITERRANEAN BLUE SUBLIME,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,MEDITERRANEAN BLUE SUBLIME,,active,2018,61.12.41.00.00,3007sac17|3007sbc17|3007scc17|3007sdc17
-mediterranean_blue_flirt,4 Level Product Style,MEDITERRANEAN BLUE FLIRT,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+mediterranean_blue_flirt,4 Level Product Style,MEDITERRANEAN BLUE FLIRT,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MEDITERRANEAN BLUE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MEDITERRANEAN BLUE FLIRT,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MEDITERRANEAN BLUE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MEDITERRANEAN BLUE FLIRT,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,MEDITERRANEAN BLUE FLIRT,,active,2018,61.12.41.00.00,3039sbc05|3039scc05|3039sdc05
-ballerina_ornate,4 Level Product Style,BALLERINA ORNATE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+ballerina_ornate,4 Level Product Style,BALLERINA ORNATE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BALLERINA ORNATE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ruffle detail at sides<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,BALLERINA ORNATE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BALLERINA ORNATE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Ruffle detail at sides<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,BALLERINA ORNATE,"Reversible
 Ruffle detail at sides
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,BALLERINA ORNATE,,active,2018,61.12.41.00.00,3052sbc03|3052sdc03
-ballerina_sublime,4 Level Product Style,BALLERINA SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+ballerina_sublime,4 Level Product Style,BALLERINA SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BALLERINA SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BALLERINA SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BALLERINA SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BALLERINA SUBLIME,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,BALLERINA SUBLIME,,active,2018,61.12.41.00.00,3007sac18|3007sbc18|3007scc18|3007sdc18
-arawaks_rocks,4 Level Product Style,ARAWAKS ROCKS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+arawaks_rocks,4 Level Product Style,ARAWAKS ROCKS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",ARAWAKS ROCKS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,ARAWAKS ROCKS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",ARAWAKS ROCKS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,ARAWAKS ROCKS,"Reversible
 Seamless
 Low rise
 Brazilian cut
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,ARAWAKS ROCKS,,active,2018,61.12.41.00.00,2062sbc10|2062sdc10
-rally_racers,4 Level Product Style,RALLY RACERS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+rally_racers,4 Level Product Style,RALLY RACERS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RALLY RACERS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,RALLY RACERS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RALLY RACERS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,RALLY RACERS,"Reversible
 Bralette top
 Removable soft pads
 Pullover
@@ -258,193 +286,214 @@ Triple shoulder strings
 Pleated on mid-front
 Criss cross back 
 Full coverage at front
-Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,RALLY RACERS,,active,2018,61.12.41.00.00,2043sac07
-hidden_lagoon,4 Level Product Style,HIDDEN LAGOON,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,RALLY RACERS,,active,2018,61.12.41.00.00,2043sac07|2043sbc07
+hidden_lagoon,4 Level Product Style,HIDDEN LAGOON,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",HIDDEN LAGOON,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,HIDDEN LAGOON,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",HIDDEN LAGOON,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,HIDDEN LAGOON,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,HIDDEN LAGOON,,active,2018,61.12.41.00.00,2043sac08|2043sbc08
-sunny_rides,4 Level Product Style,SUNNY RIDES,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+sunny_rides,4 Level Product Style,SUNNY RIDES,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SUNNY RIDES,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Crochet trim detail at sides<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SUNNY RIDES,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SUNNY RIDES,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Crochet trim detail at sides<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SUNNY RIDES,"Reversible
 Seamless
 Low rise
 Crochet trim detail at sides
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SUNNY RIDES,,active,2018,61.12.41.00.00,2061sbc05|2061sdc05
-american_flamingos,4 Level Product Style,AMERICAN FLAMINGOS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+american_flamingos,4 Level Product Style,AMERICAN FLAMINGOS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",AMERICAN FLAMINGOS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,AMERICAN FLAMINGOS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",AMERICAN FLAMINGOS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,AMERICAN FLAMINGOS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,AMERICAN FLAMINGOS,,active,2018,61.12.41.00.00,2061sbc04|2061scc04
-riohacha_village,4 Level Product Style,RIOHACHA VILLAGE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+riohacha_village,4 Level Product Style,RIOHACHA VILLAGE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RIOHACHA VILLAGE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,RIOHACHA VILLAGE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",RIOHACHA VILLAGE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,RIOHACHA VILLAGE,"Reversible
 Deep scoop one piece 
 Adjustable criss cross back
 High leg cut
 Lace up and tie back string
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,RIOHACHA VILLAGE,,active,2018,61.12.41.00.00,2119sor02|2119soh02
-wheels_and_frills,4 Level Product Style,WHEELS AND FRILLS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+wheels_and_frills,4 Level Product Style,WHEELS AND FRILLS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",WHEELS AND FRILLS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,WHEELS AND FRILLS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",WHEELS AND FRILLS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,WHEELS AND FRILLS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,WHEELS AND FRILLS,,active,2018,61.12.41.00.00,2062sbc11|2062scc11
-blue_cacique,4 Level Product Style,BLUE CACIQUE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+blue_cacique,4 Level Product Style,BLUE CACIQUE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BLUE CACIQUE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BLUE CACIQUE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",BLUE CACIQUE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,BLUE CACIQUE,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,BLUE CACIQUE,,active,2018,61.12.41.00.00,2041sbc08|2041scc08
-sand_stone_sublime,4 Level Product Style,SAND STONE SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+sand_stone_sublime,4 Level Product Style,SAND STONE SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND STONE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SAND STONE SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND STONE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SAND STONE SUBLIME,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SAND STONE SUBLIME,,active,2018,61.12.41.00.00,3007sac19|3007sbc19
-sand_stone_rendezvous,4 Level Product Style,SAND STONE RENDEZVOUS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+sand_stone_rendezvous,4 Level Product Style,SAND STONE RENDEZVOUS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND STONE RENDEZVOUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Adjustable at sides<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,SAND STONE RENDEZVOUS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND STONE RENDEZVOUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Adjustable at sides<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/><br/>Made in Colombia</p>,SAND STONE RENDEZVOUS,"Reversible
 Seamless
 Adjustable at sides
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SAND STONE RENDEZVOUS,,active,2018,61.12.41.00.00,3013sbc04|3013scc04
-mauve_sublime,4 Level Product Style,MAUVE SUBLIME,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+mauve_sublime,4 Level Product Style,MAUVE SUBLIME,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MAUVE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MAUVE SUBLIME,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MAUVE SUBLIME,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MAUVE SUBLIME,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,MAUVE SUBLIME,,active,2018,61.12.41.00.00,3007sac20|3007sbc20|3007scc20|3007sdc20
-mauve_flirt,4 Level Product Style,MAUVE FLIRT,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+mauve_flirt,4 Level Product Style,MAUVE FLIRT,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MAUVE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MAUVE FLIRT,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",MAUVE FLIRT,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,MAUVE FLIRT,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,MAUVE FLIRT,,active,2018,61.12.41.00.00,3039sbc06|3039scc06|3039sdc06
-desert_command,4 Level Product Style,DESERT COMMAND,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+desert_command,4 Level Product Style,DESERT COMMAND,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DESERT COMMAND,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Ruffle sleeve<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,DESERT COMMAND,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DESERT COMMAND,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Deep scoop one piece<br/>Adjustable criss cross back<br/>Ruffle sleeve<br/>Coverage depends on the leg rise (regular or high)<br/>Lace up and tie back string<br/>Made in Colombia</p>,DESERT COMMAND,"Reversible
 Deep scoop one piece 
 Adjustable criss cross back
 Ruffle sleeve
 High leg cut
 Lace up and tie back string
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,DESERT COMMAND,,active,2018,61.12.41.00.00,2182sor01|2182soh01
-sundown_society,4 Level Product Style,SUNDOWN SOCIETY,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+sundown_society,4 Level Product Style,SUNDOWN SOCIETY,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SUNDOWN SOCIETY,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SUNDOWN SOCIETY,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SUNDOWN SOCIETY,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SUNDOWN SOCIETY,"Reversible
 Seamless
 Low rise
 Brazilian cut
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SUNDOWN SOCIETY,,active,2018,61.12.41.00.00,2110sbc03|2110sdc03
-tempo_dusk,4 Level Product Style,TEMPO DUSK,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+tempo_dusk,4 Level Product Style,TEMPO DUSK,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",TEMPO DUSK,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,TEMPO DUSK,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",TEMPO DUSK,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,TEMPO DUSK,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,TEMPO DUSK,,active,2018,61.12.41.00.00,2023sbc01|2023scc01
-second_nature,4 Level Product Style,SECOND NATURE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+second_nature,4 Level Product Style,SECOND NATURE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SECOND NATURE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SECOND NATURE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SECOND NATURE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SECOND NATURE,"Reversible
 Seamless
 Low rise
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SECOND NATURE,,active,2018,61.12.41.00.00,2188sbc01|2188scc01
-sand_momentum,4 Level Product Style,SAND MOMENTUM,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+sand_momentum,4 Level Product Style,SAND MOMENTUM,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND MOMENTUM,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece<br/>Zipper on mid-front to close<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SAND MOMENTUM,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SAND MOMENTUM,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Long sleeve one piece<br/>Zipper on mid-front to close<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,SAND MOMENTUM,"Reversible
 Long sleeve one piece 
 Zipper on mid-front to close
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SAND MOMENTUM,,active,2018,61.12.41.00.00,2185sob01|2185soc01
-dolce_veloce,4 Level Product Style,DOLCE VELOCE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+dolce_veloce,4 Level Product Style,DOLCE VELOCE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DOLCE VELOCE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,DOLCE VELOCE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DOLCE VELOCE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,DOLCE VELOCE,"Reversible
 Seamless
 Low rise
 Full coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,DOLCE VELOCE,,active,2018,61.12.41.00.00,1932sac02|1932sbc02
-curuba_hibiscus,4 Level Product Style,CURUBA HIBISCUS,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+curuba_hibiscus,4 Level Product Style,CURUBA HIBISCUS,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CURUBA HIBISCUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CURUBA HIBISCUS,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",CURUBA HIBISCUS,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,CURUBA HIBISCUS,"Reversible
 Seamless
 Low rise
 Moderate coverage
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,CURUBA HIBISCUS,,active,2018,61.12.41.00.00,2062sbc12|2062scc12
-oasis_garden,4 Level Product Style,OASIS GARDEN,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+oasis_garden,4 Level Product Style,OASIS GARDEN,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",OASIS GARDEN,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,OASIS GARDEN,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",OASIS GARDEN,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>Low rise<br/>Coverage depends on the cut of the bottom<br/>Made in Colombia</p>,OASIS GARDEN,"Reversible
 Seamless
 Low rise
 Brazilian cut
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,OASIS GARDEN,,active,2018,61.12.41.00.00,2168sbc02|2168sdc02
-shimmering_cognac_cascade,4 Level Product Style,SHIMMERING COGNAC CASCADE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+shimmering_cognac_cascade,4 Level Product Style,SHIMMERING COGNAC CASCADE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SHIMMERING COGNAC CASCADE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>High leg cut<br/>Less coverage<br/>Made in Colombia</p>,SHIMMERING COGNAC CASCADE,"Reversible
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SHIMMERING COGNAC CASCADE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Reversible<br/>Seamless<br/>High leg cut<br/>Less coverage<br/>Made in Colombia</p>,SHIMMERING COGNAC CASCADE,"Reversible
 Seamless
 High leg cut
 Less coverage at rear
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SHIMMERING COGNAC CASCADE,,active,2018,61.12.41.00.00,3008scc02
-surfer_scorpion,4 Level Product Style,SURFER SCORPION,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+surfer_scorpion,4 Level Product Style,SURFER SCORPION,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SURFER SCORPION,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Wide waistband<br/>Dolphin Cut<br/>Complete coverage<br/>Made in Colombia</p>,SURFER SCORPION,"Wide waistband
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",SURFER SCORPION,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Wide waistband<br/>Dolphin Cut<br/>Complete coverage<br/>Made in Colombia</p>,SURFER SCORPION,"Wide waistband
 Dolphin Cut 
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,SURFER SCORPION,,active,2018,61.04.63.00.00,2187ssf01
-dahlia_jungle,4 Level Product Style,DAHLIA JUNGLE,active,Maaji,0,0,,,"<p><b>Delivery</b>
-<br/>FREE POSTAGE within COLOMBIA for orders over COP $250.000. Orders under COP $250.000 will incur a shipping fee. Delivery times are dependent on your location but are typically 2-3 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
+dahlia_jungle,4 Level Product Style,DAHLIA JUNGLE,active,Maaji,,,,,"<p align=""justify""><b>Delivery</b>
+<br>FREE POSTAGE within COLOMBIA for orders over COP$250.000. Delivery times are dependent on your location but are typically 5-10 working days. Regional areas outside of metro areas, typically add an additional day to delivery estimates.</p>
 <br/>
-</p><b>Returns</b>
-<br/>Returns and exchanges are accepted on merchandise within 30 days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA JUNGLE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Wide waistband<br/>Dolphin Cut<br/>Complete coverage<br/>Made in Colombia</p>,DAHLIA JUNGLE,"Wide waistband
+<p align=""justify""><b>Returns</b>
+<br>Returns and exchanges are accepted on merchandise within 30 
+days of receipt. The product must be returned in original condition. Worn, washed or otherwise used products will not be accepted. All products must also have the original tags and hygienic protection sticker intact. Original shipping charges will not be refunded unless the return items are deemed defective. Our Returns Policy is in addition to your rights under the Colombian Consumer Law.</p>",DAHLIA JUNGLE,<p>Cold hand wash<br/>Always rinse to remove salt or chlorine<br/>Dry in the shade<br/>Dry flat<br/>Avoid rough surfaces</p>,<p>Wide waistband<br/>Dolphin Cut<br/>Complete coverage<br/>Made in Colombia</p>,DAHLIA JUNGLE,"Wide waistband
 Dolphin Cut 
 Made in Colombia",,,,Our model wears an Colombian size S,,Colombia,SUMMER 2018,COLOMBIA,,,,DAHLIA JUNGLE,,active,2018,61.04.63.00.00,2135ssf03
