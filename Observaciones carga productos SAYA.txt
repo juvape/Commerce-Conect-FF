@@ -16,4 +16,4 @@ OBSERVACIONES CREACIÓN PRODUCTO DESDE SAYA
 
 * El atributo mediatags de la imágen, de donde sale esa información.
 
-* El atributo is primary de la imagen, de donde sale esa información.
+* El atributo is primary de la imagen, de donde sale esa información. --> Desde SAYA se indica cual es la imagen primaria
