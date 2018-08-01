@@ -1,8 +1,0 @@
-detalles personales --> https://development-ap01-seafolly.demandware.net/s/MaajiCO/profile
-
-
-órdenes --> https://development-ap01-seafolly.demandware.net/s/MaajiCO/orders
-
-lista de favoritos --> https://development-ap01-seafolly.demandware.net/s/MaajiCO/wishlist
-
-direcciones --> https://development-ap01-seafolly.demandware.net/s/MaajiCO/addressbook

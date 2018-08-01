@@ -1,0 +1,100 @@
+<inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+  <inventory-list>
+    <header list-id="maaji-inventory-list">
+      <default-instock>false</default-instock>
+      <description>Maaji Inventory List</description>
+    </header>
+    <records>
+      <record product-id="1269xbp01_aguamarina_os">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1543csh01_azul_sm">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2161sfa03_cafe_xl">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2196slt01_azul_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3071sse01_amarillo_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2194sdc01_amarillo_lg">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.178+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2172sbc01_rojo_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2062sbc10_azul_md">
+        <allocation>7</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2185sob01_anaranjado_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2182soh01_anaranjado_md">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3007sdc16_negro_md">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3039sbc04_negro_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3067soh01_negro_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.179+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3072scc07_amarillo_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.180+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2110sbc04_azul_md">
+        <allocation>9</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.180+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1542cct01_azul_lg">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.180+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1899asb01_morado_sm">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.180+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1901ats01_rojo_sm">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T16:00:13.180+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+    </records>
+  </inventory-list>
+</inventory>

@@ -1,0 +1,94 @@
+OBSERVACIONES PRODUCTOS FF PRODUCCIÓN
+
+1038tsl01_azul_xs --> Lista de precios
+
+1039tsl01 --> size and fit (HTML)
+
+1039tsl01_azul_xs --> Lista de precios
+
+1040tbs01 --> Size and fit
+
+1040tbs01_azul_xs --> Lista de precios
+
+1041tbs01_azul_xs --> Lista de precios
+
+1041tbs03 --> fabric care, online description, size and fit, delivery and returns vacíos
+
+1042trs01_azul_xs --> Lista de precios
+
+1043trs01_rojo_xs --> Lista de precios
+
+1044trs01_negro_xs --> Lista de precios
+
+1045trs01_azul_xs --> Lista de precios
+
+1046tsf01 --> delivery and returns, fabric care, size and fit, online description vacíos
+
+1046tsf01_azul_xs --> Lista de precios
+
+1047tsf01_rojo_xs --> Lista de precios
+
+1048tss01 --> delivery and returns, fabric care, size and fit, online description vacíos
+
+1048tss01_azul_xs --> Lista de precios
+
+1049tss01_azul_xs --> Lista de precios
+
+1050tss01_amarillo_xs --> Lista de precios
+
+1378cpa01_morado_xl --> Lista de precios
+
+1378cpa01_morado_xs --> Lista de precios
+
+1420csd01_morado_xl --> Lista de precios
+
+1420csd01_morado_xs --> Listas de precios
+
+1422csd04_morado --> Referencia mal categorizada (es un vestido y aparece en la categoría de pantalones, es ropa de playa y aparece en ropa deportiva)
+
+1426csh01_morado_xl --> Lista de precios
+
+1426csh01_morado_xs --> lista de precios
+
+1438csd02_azul_xl --> Lista de precios
+
+1438csd02_azul_xs --> Lista de precios
+
+1461csd01_rosado_xl --> Lista de precios
+
+1463cld01_morado_xl --> Lista de precios
+
+1463cld01_morado_xs --> Lista de precios
+
+1464cpa01_rosado_xl --> Lista de precios
+
+1464cpa01_rosado_xs --> Lista de precios
+
+1465cro01_morado_xl --> Lista de precios
+
+1465cro01_morado_xs --> Listas de precios
+
+1467cct01 --> delivery and returns, fabric care, size and fit, online description vacíos
+
+1467cct01_azul_xl --> Lista de precios
+
+1467cct01_azul_xs --> Lista de precios
+
+1468cpa01_azul_xl --> Lista de precios
+
+1468cpa01_azul_xs --> Lista de precios
+
+1469cks01_azul_xl --> Lista de precios
+
+
+
+
+
+
+
+
+
+
+
+
+

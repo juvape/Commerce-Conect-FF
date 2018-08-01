@@ -1,0 +1,175 @@
+<inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+  <inventory-list>
+    <header list-id="maaji-inventory-list">
+      <default-instock>false</default-instock>
+      <description>Maaji Inventory List</description>
+    </header>
+    <records>
+      <record product-id="1049tss04_azul_sm">
+        <allocation>3</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3054sfa03_negro_lg">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1694kkc02_azul_04">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1786alm08_azul_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1042trs02_azul_md">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1042trs03_rojo_md">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2050sbc01_negro_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2166sor01_rosado_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1943scc04_azul_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1943scc04_azul_lg">
+        <allocation>3</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1779asb04_negro_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1832asb02_azul_md">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1875asb01_negro_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1822all05_azul_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.051+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1038tsl02_verde_md">
+        <allocation>5</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1038tsl02_verde_lg">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2187sdc01_negro_lg">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2062scc11_azul_md">
+        <allocation>7</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1516cct01_azul_sm">
+        <allocation>3</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1516cct01_azul_md">
+        <allocation>3</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2170sse01_rojo_lg">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1509ckl01_blanco_md">
+        <allocation>3</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.052+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2161sfa02_azul_md">
+        <allocation>7</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1689kkc02_rosado_04">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2050sse01_negro_lg">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1695kkc01_morado_04">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="1786alm05_verde_md">
+        <allocation>2</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2176sra01_negro_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3063sbr01_negro_md">
+        <allocation>5</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="3063sbr01_negro_lg">
+        <allocation>1</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.053+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2162sfa02_azul_md">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.054+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2173sfa01_azul_sm">
+        <allocation>4</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.054+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+      <record product-id="2173sfa01_azul_md">
+        <allocation>8</allocation>
+        <allocation-timestamp>2018-07-28T15:45:06.054+00:00</allocation-timestamp>
+        <perpetual>false</perpetual>
+      </record>
+    </records>
+  </inventory-list>
+</inventory>

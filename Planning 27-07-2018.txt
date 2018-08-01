@@ -1,0 +1,7 @@
+PLANNING
+
+* Cambiar el no reply@maaji.co por ecommerce@maaji.co notificación correos ecommerce
+
+* Definición requerimientos de carga masiva
+
+* Pruebas multilenguaje

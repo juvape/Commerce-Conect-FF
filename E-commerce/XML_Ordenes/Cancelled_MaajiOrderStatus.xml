@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<order order-no="00034402">
+  <shipments>
+    <shipment>
+      <product-lineitems>
+        <product-lineitem position="1">
+          <product-id>1235XTW01</product-id>
+          <product-qty>5</product-qty>
+          <custom-attribute attribute-id="productLineStatus">
+            <value>Cancelled</value>
+          </custom-attribute>
+        </product-lineitem>
+      </product-lineitems>
+    </shipment>
+  </shipments>
+  <custom-attributes>
+    <custom-attribute attribute-id="orderHeaderStatus">
+      <value>Order Cancelled</value>
+    </custom-attribute>
+  </custom-attributes>
+</order>

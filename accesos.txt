@@ -15,6 +15,10 @@ FUSION FACTORY PRODUCCIÓN
 Username: jsoto@maajiswimwear.com 
 Password: 3dU5PuAqsM-nC6y9rMkd
 
+SFCC PRODUCCIÓN:
+USER: jvargasp@maaji.co
+PASS: Colombia2018.
+
 
 Base de Datos
 Desarrollo
@@ -90,3 +94,6 @@ PASS: 2v!3!G7!
 STAGING SALESFORCE:
 USER: jvargasp@maajiswimwear.com
 PASS: Colombia2019.
+
+API KEY GOOGLE MAPS
+AIzaSyBo6DoaMidi5-2YUIxUAUxlYGLHIuDUjpA

@@ -1,0 +1,19 @@
+OBSERVACIONES CREACIÓN PRODUCTO DESDE SAYA
+
+* El atributo size & fit carga contenido HTML y el tipo del atributo en FF es text
+
+* saya fabric content --> Está cargando la información en inglés
+
+* saya country --> Lo esta dejando vacío
+
+* Saya Collection --> Lo esta dejando vacío
+
+* page description --> Lo esta dejando vacío
+
+* country of origin --> Lo esta dejando vacío
+
+* Las referencias 1216XHA02, 1218XTW02 no me deja sincronizar la categoría
+
+* El atributo mediatags de la imágen, de donde sale esa información.
+
+* El atributo is primary de la imagen, de donde sale esa información. --> Desde SAYA se indica cual es la imagen primaria
